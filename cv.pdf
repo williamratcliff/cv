@@ -1,0 +1,2819 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 60 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 61 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 62 0 R
+ /PageMode /UseNone
+ /Pages 53 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20130501114933+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Dr. William Ratcliff II, Physicist) >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 40
+ /First 15 0 R
+ /Last 52 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 16 0 R
+ /Parent 14 0 R
+ /Title (Contact Information) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 624.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 14 0 R
+ /Prev 16 0 R
+ /Title (Technical skills) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 14 0 R
+ /Prev 17 0 R
+ /Title (Neutron Scattering) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 339.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 14 0 R
+ /Prev 18 0 R
+ /Title (Research Experience) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 14 0 R
+ /Prev 19 0 R
+ /Title (Workshops Organized) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+21 0 obj
+<< /Count 14
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 612.0236
+ 0 ]
+ /First 22 0 R
+ /Last 35 0 R
+ /Next 36 0 R
+ /Parent 14 0 R
+ /Prev 20 0 R
+ /Title (Publications) >>
+endobj
+% 'Outline.39.0': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 579.0236
+ 0 ]
+ /Next 23 0 R
+ /Parent 21 0 R
+ /Title (2013) >>
+endobj
+% 'Outline.39.1': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 21 0 R
+ /Prev 22 0 R
+ /Title (2012) >>
+endobj
+% 'Outline.39.2': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 375.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 21 0 R
+ /Prev 23 0 R
+ /Title (2011) >>
+endobj
+% 'Outline.39.3': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 621.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 21 0 R
+ /Prev 24 0 R
+ /Title (2010) >>
+endobj
+% 'Outline.39.4': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 477.0236
+ 0 ]
+ /Next 27 0 R
+ /Parent 21 0 R
+ /Prev 25 0 R
+ /Title (2009) >>
+endobj
+% 'Outline.39.5': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 201.0236
+ 0 ]
+ /Next 28 0 R
+ /Parent 21 0 R
+ /Prev 26 0 R
+ /Title (2008) >>
+endobj
+% 'Outline.39.6': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 21 0 R
+ /Prev 27 0 R
+ /Title (2007) >>
+endobj
+% 'Outline.39.7': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 351.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 21 0 R
+ /Prev 28 0 R
+ /Title (2006) >>
+endobj
+% 'Outline.39.8': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 279.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 21 0 R
+ /Prev 29 0 R
+ /Title (2005) >>
+endobj
+% 'Outline.39.9': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 147.0236
+ 0 ]
+ /Next 32 0 R
+ /Parent 21 0 R
+ /Prev 30 0 R
+ /Title (2004) >>
+endobj
+% 'Outline.39.10': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Next 33 0 R
+ /Parent 21 0 R
+ /Prev 31 0 R
+ /Title (2002) >>
+endobj
+% 'Outline.39.11': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 615.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 21 0 R
+ /Prev 32 0 R
+ /Title (2001) >>
+endobj
+% 'Outline.39.12': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 21 0 R
+ /Prev 33 0 R
+ /Title (2000) >>
+endobj
+% 'Outline.39.13': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 387.0236
+ 0 ]
+ /Parent 21 0 R
+ /Prev 34 0 R
+ /Title (1999) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+36 0 obj
+<< /Count 14
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 327.0236
+ 0 ]
+ /First 37 0 R
+ /Last 50 0 R
+ /Next 51 0 R
+ /Parent 14 0 R
+ /Prev 21 0 R
+ /Title (Conference Talks/Posters) >>
+endobj
+% 'Outline.40.0': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 294.0236
+ 0 ]
+ /Next 38 0 R
+ /Parent 36 0 R
+ /Title (2013) >>
+endobj
+% 'Outline.40.1': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 204.0236
+ 0 ]
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (2012) >>
+endobj
+% 'Outline.40.2': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 40 0 R
+ /Parent 36 0 R
+ /Prev 38 0 R
+ /Title (2011) >>
+endobj
+% 'Outline.40.3': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 573.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 36 0 R
+ /Prev 39 0 R
+ /Title (2010) >>
+endobj
+% 'Outline.40.4': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 417.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 36 0 R
+ /Prev 40 0 R
+ /Title (2009) >>
+endobj
+% 'Outline.40.5': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Next 43 0 R
+ /Parent 36 0 R
+ /Prev 41 0 R
+ /Title (2008) >>
+endobj
+% 'Outline.40.6': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 201.0236
+ 0 ]
+ /Next 44 0 R
+ /Parent 36 0 R
+ /Prev 42 0 R
+ /Title (2007) >>
+endobj
+% 'Outline.40.7': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 45 0 R
+ /Parent 36 0 R
+ /Prev 43 0 R
+ /Title (2006) >>
+endobj
+% 'Outline.40.8': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Next 46 0 R
+ /Parent 36 0 R
+ /Prev 44 0 R
+ /Title (2005) >>
+endobj
+% 'Outline.40.9': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 645.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 36 0 R
+ /Prev 45 0 R
+ /Title (2004) >>
+endobj
+% 'Outline.40.10': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 555.0236
+ 0 ]
+ /Next 48 0 R
+ /Parent 36 0 R
+ /Prev 46 0 R
+ /Title (2003) >>
+endobj
+% 'Outline.40.11': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Next 49 0 R
+ /Parent 36 0 R
+ /Prev 47 0 R
+ /Title (2002) >>
+endobj
+% 'Outline.40.12': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 405.0236
+ 0 ]
+ /Next 50 0 R
+ /Parent 36 0 R
+ /Prev 48 0 R
+ /Title (2001) >>
+endobj
+% 'Outline.40.13': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 315.0236
+ 0 ]
+ /Parent 36 0 R
+ /Prev 49 0 R
+ /Title (2000) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 255.0236
+ 0 ]
+ /Next 52 0 R
+ /Parent 14 0 R
+ /Prev 36 0 R
+ /Title (Honors and Memberships) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Parent 14 0 R
+ /Prev 51 0 R
+ /Title (Instruction Experience) >>
+endobj
+% 'R53': class PDFPages 
+53 0 obj
+% page tree
+<< /Count 8
+ /Kids [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R54': class PDFStream 
+54 0 obj
+% page stream
+<< /Length 7851 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 88.78488 0 Td (Dr. William Ratcliff II, Physicist) Tj T* -88.78488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NIST 100 Bureau Drive Mailstop 6102 Bldg 235, Room E151 Gaithersburg, MD 20899) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Date of Birth: 1976) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Phone: 301-975-4316) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fax: 301-921-9847) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 50.79937 0 Td (2003) Tj T* -26.09 0 Td (\(October\):) Tj T* -24.70937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .428933 Tw (Rutgers University, New Brunswick, Ph.D. Physics, Thesis Advisor: Professor Sang) Tj T* 0 Tw (W. Cheong) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 18.57937 0 Td (1997 \(May\):) Tj T* -18.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (University of Michigan, Ann Arbor, BSE in Engineering Physics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Operating Systems: Unix/Linux, Windows, MacOs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Computer Languages) Tj (&) Tj (Frameworks: C, IDL, Matlab, Maple, Python, html, javascript, django) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Familiarity: C++, Fortran, Mathematica) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Project Management: Svn, Git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Neutron Scattering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.742706 Tw (Expertise: Single crystal and powder diffraction for solution of magnetic and crystallographic) Tj T* 0 Tw (structures, inelastic neutron scattering \(Triple-axis\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Familiarity: Small Angle Neutron Scattering and Reflectivity) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Research Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fall 05-Present: Staff scientist at the NIST Center for Neutron Scattering at NIST.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .559213 Tw (Fall03-2005: National Research Council Postdoc at the NIST Center for Neutron Research at NIST.) Tj T* 0 Tw 1.783976 Tw (Primary work concerned neutron scattering experiments on geometrically frustrated magnets and) Tj T* 0 Tw 2.732706 Tw (magnetoelectric systems. Also participated in x-ray experiments at Brookhaven and APS. Also) Tj T* 0 Tw 1.669269 Tw (developed a GUI application for visualization of the resolution ellipsoid for inclusion in the DAVE) Tj T* 0 Tw (project at NIST.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.090814 Tw (Sum97-Fall 03: Worked with Sang W. Cheong in materials physics research including materials) Tj T* 0 Tw (synthesis and characterization of novel magnetic systems.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .62811 Tw 12 TL /F1 10 Tf 0 0 0 rg (Sum 95-97: Worked with Fred Adams & Patricia Knezek on the search for an Initial Mass Function.) Tj T* 0 Tw (Work involved reduction of infrared CCD data using the IRAF package. \(University of Michigan\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.374651 Tw (Sum 94: Worked with Tony Tyson in the making of gravitational lensing simulations for use in) Tj T* 0 Tw (scientific visualization. The project included the making of a video. \(Bell Labs\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.709983 Tw (Wint/Spring 94: Worked with Herbert Winful in simulating the propagation of light through a fiber) Tj T* 0 Tw (\(untwisted\) \(University of Michigan\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R55': class PDFStream 
+55 0 obj
+% page stream
+<< /Length 6347 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workshops Organized) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.599974 Tw (Workshop on Representational Analysis and Magnetic Structure Determination Dec. \(2012\)) Tj T* 0 Tw (BARC, Mumbai, India) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.399974 Tw (The NIST/Georgetown 2nd School on Representational Analysis and Magnetic Structures) Tj T* 0 Tw (Aug1-5 \(2011\) Georgetown, Washington, D.C.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .915433 Tw (The NIST Workshop on Representational Analysis of Complex Magnetic Structures July 23-26) Tj T* 0 Tw (\(2007\) Gaithersburg, MD) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Program Committee 2010 MMM Meeting, Atlanta, GA) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.173976 Tw ("Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO3 thin flims probed by neutron) Tj T* 0 Tw 1.261318 Tw (diffraction" W. Ratcliff II, Zahra Yamani, V. Anbusathaiah, T.R. Gao, P.A. Kienzle, H. Cao, I. Takeuchi,) Tj T* 0 Tw (Phys. Rev. B. 87, 140405 \(2013\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.433059 Tw (\223Dimensional Crossover in the Low Dimensional Magnetic, ZnMn2O4\224, W. Ratcliff, Y.Chen, S. Yeo, G.) Tj T* 0 Tw (Gasparovic, A. Schultz, P. Piccoli, Q. Huang, Y. Qiu, S-W. Cheong \(in preparation for PRB\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.688555 Tw (\223Percolation and Clusters within SrCoxTi1-xO3\224 W. Ratcliff II, Y. Horibe, P.A. Sharma, S. Guha, S-W.) Tj T* 0 Tw (Cheong \(in preparation\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .028555 Tw ("Double Focusing Thermal Triple-Axis Spectrometer at the NCNR" Lynn, J.W., Chen, Y., Chang, S., Zhao,) Tj T* 0 Tw 1.779986 Tw (Y., Chi, S., W. Ratcliff, II, Ueland, B.G., Erwin, R.W., Journal of Research of the National Institute of) Tj T* 0 Tw (Standards and Technology 117, 61 \(2012\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2011) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.494524 Tw (\223Local Weak ferromagnetism in single-crystalline ferroelectric BiFeO3\224, M. Ramazanoglu, M. Laver, W.) Tj T* 0 Tw .201318 Tw (Ratcliff II, S.M. Watson, W.C. Chen, A. Jackson, K. Kothapalli, Seongsu Lee, S.-W. Cheong, V. Kiryukhin,) Tj T* 0 Tw (Phys. Rev. Lett. 107, 207206 \(2011\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.00372 Tw (\223Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting) Tj T* 0 Tw (Rb\(y\)Fe\(1.6+x\)Se2, Phys. Rev. B 84, 094504 \(2011\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.733059 Tw (\223Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite\224 M.) Tj T* 0 Tw .460651 Tw (Ramazanoglu, W. Ratcliff, H.T. Yi, A.A. Sirenko, SW Cheong, V. Kiryukhin, Phys. Rev. Lett. 107, 067203) Tj T* 0 Tw (\(2011\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .580888 Tw (\223Temperature-dependent properties of the magnetic order in single-crystal BiFeO3\224 M. Ramazanoglu, W.) Tj T* 0 Tw (Ratcliff II, Y.J. Choi, Seongsu Lee, S-W. Cheong, V. Kiryukhin, Phys. Rev. B. 83, 174434 \(2011\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.766647 Tw ("Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite,") Tj T* 0 Tw 1.131412 Tw (Ramazanoglu, M., Ratcliff, II, W., Yi, H.T., Sirenko, A.A., Cheong, S.W., Kiryukhin, V., Physical Review) Tj T* 0 Tw (Letters 107\(6\), 067203-1 \(2011\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .921976 Tw (\223Mechanism of exchange-striction of ferroelectricity in multiferroic orthorhombic HoMnO3 single crystals\224) Tj T* 0 Tw 1.453516 Tw (N. Lee, Y.J. Choi, M. Ramazanoglu, W. Ratcliff II, V. Kiryukhkin, and S-W. Cheong, Phys. Rev. B 84,) Tj T* 0 Tw (020101 \(2011\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.694147 Tw (\223Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films\224 William Ratcliff II, Daisuke) Tj T* 0 Tw .534983 Tw (Kan, Wangchun Chen, Shannon Watson, Songxue Chi, Ross Erwin, Garry J. McIntyre, Sylvia C. Capelli,) Tj T* 0 Tw (Ichiro Takeuchi, Advanced Functional Materials 21, 1567 \(2011\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R56': class PDFStream 
+56 0 obj
+% page stream
+<< /Length 6365 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 4.86497 Tw ("Antiferromagnetic Order and Superlattice Structure in Nonsuperconducting and Superconducting) Tj T* 0 Tw 1.44311 Tw (RbyFe1.6+xSe2" Wang, M., Wang, M., Li, G.N., Huang, Q., Li, C.H., Tan, G.T., Zhang, C.L., Cao, H.,) Tj T* 0 Tw 2.104692 Tw (Tian, W., Zhao, Y., Chen, Y.C., Lu, X.Y., Sheng, B., Luo, H.Q., Li, S.L., Fang, M.H., Zarestky, J.L.,) Tj T* 0 Tw (Ratcliff, W.D., Lumsden, M.D., Lynn, J.W., Dai, P., Physical Review B 84, 094504-1 \(2011\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .833059 Tw (\223Nitrogen contamination in elastic neutron scattering\224 Songxue Chi, Jeffrey W. Lynn, Ying Chen, William) Tj T* 0 Tw 2.326905 Tw (Ratcliff II, Benjamin G. Ueland, Nicholas P. Butch, Shanta R. Saha, Kevin Kirshenbaum, Johnpierre) Tj T* 0 Tw (Paglione, Measurement Science and Technology 22, 047001 \(2011\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .833615 Tw (\223Incommensurate Magnetism in FeAs Strips: Neutron Scattering from CaFe4As3\224 Yusuke Nambu, Liang) Tj T* 0 Tw .43561 Tw (L. hao, Emilia Morosan, Kyoo Kim, Gabriel Kotliar, Pawel Zajdel, Mark A. Green, William Ratcliff, Jose A.) Tj T* 0 Tw (Rodrigueze-Ruvera, Collin Broholm, Phys. Rev. Lett 106, 037201 \(2011\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .881654 Tw (\223Interplay of Fe and Nd magnetism in NdFeAsO single crystals\224 W. Tian, W. Ratcliff II, M. G. Kim, J.-Q.) Tj T* 0 Tw .494983 Tw (Yan, P.A. Kienzle, Q. Huang, B. Jensen, K.W. Dennis, R.W. McCallum, T.A. Lograsso, R.J. McQueeney,) Tj T* 0 Tw (A.I. Goldman, J.W. Lynn, A. Kreyssig, Phys. Rev. B 82, 060514 \(2010\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .667318 Tw (\223Cd Doping Effects in the heavy-fermion compounds Ce2Min8 \(M=Rh and Ir\)\224 C. Adriano, C. Giles, E.M.) Tj T* 0 Tw 1.226457 Tw (Bittar, L.N. Coelho, F. De Bergevin, C. Mazzoli, L. Paolasini, W. Ratcliff, R. Bindel, J.W. Lynn, Z. Fisk,) Tj T* 0 Tw (P.G. Pagliuso, Phys. Rev. B 81, 245115 \(2010\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .406136 Tw (\223Magnetic from factor of SrFe2As2: Neutron diffraction measurements\224 W. Ratcliff II, P.A. Kienzle, Jeffrey) Tj T* 0 Tw (W. Lynn, Shiliang Li, Pengcheng Dai, G.F. Chen, N.L. Wang, Phys. Rev B. 81, 140502 \(2010\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.626905 Tw (\223Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in) Tj T* 0 Tw .19311 Tw (CaFe\(2-x\)NixAs2\224 N. Kumar, SX Chi, Y. Chen, KG Rana, AK Nigam, A. Thamizhavel, W. Ratcliff, SK Dar,) Tj T* 0 Tw (JW Lynn Phys. Rev. B 80, 144524 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.857251 Tw (\223Crossover from incommensurate to commensurate magnetic orderings in CoCr2O4\224 LJ Chang, DJ) Tj T* 0 Tw (Huang, WH Li, SW Cheong, W. Ratcliff, JW Lynn J. Phys. Cond. Matt. 21, 456008 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 6.302976 Tw (\223Short Range Incommensurate magnetic order near the superconducting phase boundary in) Tj T* 0 Tw .621163 Tw (Fe\(1+delta\)Te\(1-x\)Sex\224 J.S. Wen, GY Xu, ZJ Xu, ZW Lin, Q. Li, W. Ratcliff, G. Gu, JM Tranquada Phys.) Tj T* 0 Tw (Rev. B 80, 104506 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .64311 Tw (\223Spin-Lattice Order in Frustrated ZnCr2O4\224 S. Ji, SH Lee, C. Broholm, TY Koo, W. Ratcliff, SW Cheong,) Tj T* 0 Tw (P. Zschack Phys. Rev. Lett 103, 037201 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.980651 Tw (\223The Magnetic ground state of CaMn2Sb2\224 W. Ratcliff II, ALL Sharma, AM Gomes, JL Gonzalez, Q.) Tj T* 0 Tw (Huang, J Singleton J Mag. Mag. Materials 321, 2612 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .43436 Tw (\223Order by Static Disorder in the Ising Chain Magnet Ca3Co2-xMnxO6\224 V. Kiryukhin, S. Lee, W. Ratcliff II,) Tj T* 0 Tw (Q. Huang, HT Yi, YJ Choi, SW Cheong Phys Rev. Lett. 102, 187202 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .874597 Tw (\2233:1 magnetization plateau and suppression of ferroelectric polarization in an Ising chain multiferroic\224 YJ) Tj T* 0 Tw .356179 Tw (Jo, S. Lee, ES Choi, HT Yi, W. Ratcliff II, YJ Choi, V. Kiryukhin, SW Cheong, L. Balicas Phys. Rev. B 79,) Tj T* 0 Tw (012407 \(2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .25811 Tw (\223Low energy spin waves and magnetic interactions in SrFe2As2\224 Jun Zhao, Dao Xin Yao, Shiliang Li, Tao) Tj T* 0 Tw .120391 Tw (Hong, Y. Chen, S. Chang, W. Ratcliff I I, J. W. Lynn, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, E. W.) Tj T* 0 Tw (Carlson, Jiangping Hu, and Pengcheng Dai Phys. Rev. Lett 101, 167203 \(2008\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.023735 Tw (\223Spin and Lattice Structure of Single Crystal SrFe2As2\224 Jun Zhao, W. Ratcliff II, J-W. Lynn, G.F. Chen,) Tj T* 0 Tw (J.L. Luo, N.L. Wang, Jiangping Hu, Pengcheng Dai Phys. Rev. B 78, 140504 \(2008\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.875814 Tw (\223Magnetic order close to superconductivity in the iron-based layered LaO1-xFxFeAs systems\224 C. dela) Tj T* 0 Tw .347488 Tw (Cruz, Q. Huang, JW Lynn, JY Li, W. Ratcliff, JL Zaretsky, HA Mook, GF Chen, JL Luo, NL Wang, PC Dai) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R57': class PDFStream 
+57 0 obj
+% page stream
+<< /Length 5946 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nature 453, 899 \(2008\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.421976 Tw (\223Neel to Spin-Glass-Like Transition Versus Dilution in Geometrically Frustrated ZnCr2-2xGa2xO4\224 S-H.) Tj T* 0 Tw (Lee, W. Ratcliff, Q. Huang, T.H. Kim, S-W. Cheong PRB 77, 014405 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .363828 Tw (\223Formation of pancakelike ising domains and giant magnetic coercivity in ferrimagnetic LuFe2O4\224 W. Wu,) Tj T* 0 Tw 1.930542 Tw (V. Kiryukhin, H.-J. Noh, K.-T. Ko, J.-H. Park, W. Ratcliff II, P. A. Sharma, N. Harrison, Y.J. Choi, Y.) Tj T* 0 Tw (Horime, S. Lee, S. Park, H.T. Yi, C.L. Zhang, S-W. Cheong PRL 101, 137203 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.870651 Tw (\223Electric field control of the magnetic state in BiFeO3 single crystals\224 Seoungsu Lee, W. Ratcliff, SW) Tj T* 0 Tw (Cheong, V. Kiryukhin APL 92, 192906 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .406905 Tw (\223Single Ferroelectric and chiral magnetic domain of single-crystalline BiFeO3 in an electric field\224 Seongsu) Tj T* 0 Tw (Lee, Taekjib Choi, W. Ratcliff II, R. Erwin, S-W. Cheong, and V. Kiryukhin PRB RC 78, 100101 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .859147 Tw (\223The pressure effect on the magnetic commensurability and ferroelectricity in multiferroic HoMn2O5\224 CR) Tj T* 0 Tw (dela Cruz, B. Lorenz, W. Ratcliff, J. Lynn, MM Gospodinov, C.W. Chu Physica B 403, 1359 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .255697 Tw (\223Observation of a continuous phase transition in a shape-memory alloy\224 J.C. Lahshley, S.M. Shapiro, B.L.) Tj T* 0 Tw .343516 Tw (Winn, C.P. Opeil, M.E. Manley, A. Alatas, W. Ratcliff, T. Park, R.A. Fisher, B. Mihaila, P. Riseborough, E.) Tj T* 0 Tw (K. H. Salje, J.L. Smith Phys. Rev. Lett 101, 135703 \(2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .234147 Tw (\223Crystal distortions in geometrically frustrated ACr2O4 \(A=Zn,Cd\)\224, S.-H. Lee, G. Gasparovic, C. Broholm,) Tj T* 0 Tw .132619 Tw (M. Matsuda, J-H Chung, YJ Kim, H. Ueda, G. Xu, P Zschack, K. Kakurai, H. Takagi, W. Ratcliff, T-H. Kim,) Tj T* 0 Tw (S-W Cheong Journal of Physics Condensed Matter 19, 145259 \(2007\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.113059 Tw (\223Evidence for strong spin-lattice coupling in multiferroic RMn2O5 \(R=Tb, Dy, Ho\) via thermal expansion) Tj T* 0 Tw 1.546235 Tw (anomalies\224, CR dela Cruz, F. Yen, B. Lorenz, S. Park, SW Cheong, MM Gospodinov, W. Ratcliff, JW) Tj T* 0 Tw (Lynn, CW Chu Journal of Applied Physics 99 08R2103, 2006.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .834983 Tw (\223Structural Anomalies at the magnetic and ferroelectric transitions in RMn2O5 \(R=Tb, Dy, Ho\)\224, CR dela) Tj T* 0 Tw .539986 Tw (Cruz, F. Yen, B. Lorenz, MM Gospodinov, CW Chu, W. Ratcliff, JUW Lynn, S. Park, S-W Cheong, Phys.) Tj T* 0 Tw (Rev. B 73, 100406, 2006.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .331235 Tw (\223Conformation of the HIV-1 Gag protein in solution\224, SAK Datta, JE Curtis, W.Ratcliff, PK Clark, RM Crist,) Tj T* 0 Tw (J Lebowitz, S. Krueger, A. Rein, Journal of Molecular Biology 365, 812, 2007.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .922126 Tw ("Structural anomalies at the magnetic and ferroelastic transitions in RMn2O5 \(R=Tb, Dy, Ho\)" C.R. dela) Tj T* 0 Tw .50311 Tw (Cruz, F. Yen, B. Lorenz, M.M. Gospodinov, C.W. Chu, W. Ratcliff, J.W. Lynn, S. Park, and S-W.Cheong.) Tj T* 0 Tw (Phys. Rev. B 73, 100406 \(2006\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .85748 Tw (\223Pressure-dependent magnetic properties of geometrically frustrated ZnCr2O4\224 Y. Jo, JG Park, HC Kim,) Tj T* 0 Tw (W. Ratcliff, S-W. Cheong, Phys. Rev. B. 72, 184421 \(2005\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.476136 Tw (\223Magnetic Phase Diagram of the Colossal Magneoelectric, DyMn2O5\224 W. Ratcliff II, V. Kiryukhin, M.A.) Tj T* 0 Tw 1.38881 Tw (Kenzelmann, S-H. Lee, J. Schefer, R. Erwin, N. Hur, S. Park,and S-W. Cheong. Phys Rev. B. \(R\) 72,) Tj T* 0 Tw (060407 , \(2005\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .294983 Tw (\223Effects of spin-phonon coupling in the magnetic transition in strongly frustrated ZnCr2O4\224 A. B. Sushkov,) Tj T* 0 Tw (H. D. Drew, O. Tchernyshyov, W. Ratcliff, S.W. Cheong, Phys. Rev. Lett. 94, 137202 \(2005\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .907984 Tw (\223Spin Singlet formation in MgTi2O4: evidence of a chiral dimerization pattern\223 M. Schmidt, W. Ratcliff II,) Tj T* 0 Tw (P.G. Radaelli, K. Refson, N.M. Harrison, S.W. Cheong, Phys. Rev. Lett. 92, 056402 \(2004\).) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R58': class PDFStream 
+58 0 obj
+% page stream
+<< /Length 5160 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.38498 Tw (\223First-Order nature of the ferromagnetic phase transition in \(La-Ca\)MnO3 near optimal doping.\224 C.P.) Tj T* 0 Tw 2.87784 Tw (Adams, J.W. Lynn, V.N. Smolyaninova, A. Biswas, R.L. Green, W. Ratcliff II, S.-W. Cheong, Y.M.) Tj T* 0 Tw (Mukovskii, D.A. Shulyatev, Phys. Rev. B. 70, 134414 \(2004\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.099982 Tw (\223Emergent excitations in a geometrically frustrated magnet\224 S.-H. Lee, C. Broholm, W. Ratcliff, G.) Tj T* 0 Tw (Gasparovic, Q. Huang, T.H. Kim and S-W. Cheong. Nature 418, 856-858 \(2002\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.895433 Tw (\223Fluctuations and Freezing of Spin-Correlated Nanoclusters in a Geometrically Frustrated Magnet\224 W.) Tj T* 0 Tw .203984 Tw (Ratcliff II, S.-H. Lee, C. Broholm, S-W. Cheong, Q. Huang Physical Review B: Rapid Communications 65,) Tj T* 0 Tw (220406/1-220406/4 \(2002\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 6.33816 Tw (\223Magnetic properties of the frustrated antiferromagnetic spinel ZnCr2O4 and the spin glass) Tj T* 0 Tw 2.724976 Tw (Zn1-xCdxCr2O4 \(x=0.05,0.10\)\224 H Martinho, NO Moreno,JA Sanjurjo,C Rettori, AJ Garcia-Adeva, DL) Tj T* 0 Tw 5.139976 Tw (Huber,SB Oseroff,W Ratcliff,SW Cheong,PG Pagliuso,JL Sarrao,GB Martins Phys. Rev. B. 64,) Tj T* 0 Tw (024408/1-024408/6 \(2001\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.24816 Tw (\223Studies of the three-dimensional frustrated antiferromagnetic ZnCr2O4\224 H Martinho, NO Moreno, JA) Tj T* 0 Tw 4.82872 Tw (Sanjurjo,C Rettori,AJ Garcia-Adeva, DL Huber,SB Oseroff,W Ratcliff,SW Cheong,PG Pagliuso,JL) Tj T* 0 Tw (Sarrao,GB Martins Journal of Applied Physics 89, 7050-7052 \(2001\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.11748 Tw (\223Muon spin relaxation study of La1-xCaxMnO3\224 RH Heffner, JE Sonier, DE MacLaughlin, GJ) Tj T* 0 Tw 3.314269 Tw (Nieuwenhuys, GM Luke, YJ Uemura, W Ratcliff, SW Cheong, G Balakrishnan Phys. Rev. B. 63,) Tj T* 0 Tw (094408/1-094408/14 \(2001\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .37816 Tw (\223Local spin resonance and spin-Peierls-like phase transition in a geometrically frustrated antiferromagnet\224) Tj T* 0 Tw (SH Lee, C Broholm, TH Kim, W Ratcliff, SW Cheong Phys. Rev. Lett. 84, 3718-3721 \(2000\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1999) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .205814 Tw (\223Intergrain magnetoresistance via second-order tunneling in perovskite manganites\224 S Lee, HY Hwang, BI) Tj T* 0 Tw (Shraiman, WD Ratcliff, SW Cheong Phys. Rev. Lett. 82, 4508-4511 \(1999\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Conference Talks/Posters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2013) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .466412 Tw ("Evolution of the magnetic structure in \(Sm,Bi\)FeO3 Thin Films" March Meeting of the American Physical) Tj T* 0 Tw (Society 2013 \(Baltimore\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.674976 Tw ("Neutron Diffraction Investigations of Electric-Field Control of Antiferromagnetic Domains in Epitaxial) Tj T* 0 Tw (BiFeO3 Thin Films" Fundamental Physics of Ferroelectrics and Related Materials, Ames, IA \(2013\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .530814 Tw (Invited Lecturer Magnetic Structure Determination from Neutron Data Oak Ridge National Lab, Oakridge,) Tj T* 0 Tw (TN \(2012\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.299979 Tw (\223Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films\224 American Conference on) Tj T* 0 Tw (Neutron Scattering 2012 \(invited\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.32248 Tw (\223Investigation of Electric Field Control Antiferromagnetic Domains in Epitaxial BiFeO3 Thin Films Using) Tj T* 0 Tw (Neutron Diffraction\224 March Meeting of the American Physical Society 2012) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R59': class PDFStream 
+59 0 obj
+% page stream
+<< /Length 5192 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.210814 Tw ("Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films" DAE Solid State Physics) Tj T* 0 Tw (Symposium \(2012\) \(invited\), IIT Bombay) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2011) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.304147 Tw (\223Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films"\224 MMM 2011, Desert Ridge,) Tj T* 0 Tw (Arizona \(invited\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .973314 Tw (\223Neutron diffraction investigations of the BiFeO3 thin films" European Spallation Source, Lundt, Sweden) Tj T* 0 Tw (2011 \(invited\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\223The Renaissance of Multiferroics\224 Missouri University Science Technology, Sep. 2011 \(invited\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\223The Renaissance of Multiferroics\224 Howard University, April 2011 \(invited\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .814269 Tw (\223The Magnetic Form factor of SrFe2As2\224 March Meeting of the American Physical Society 2011 \(Dallas,) Tj T* 0 Tw (Texas\) \(talk was presented by Pengcheng Dai due to budgetary constraints\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\223The Magnetic Form Factor in SrFe2As2\224 MMM 2010 \(Atlanta, Georgia\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.496647 Tw (\223Neutron investigations of BiFeO3 Films\223 March Meeeting of the American Physical Society 2010) Tj T* 0 Tw (\(Portland, Oregon\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.853615 Tw (\223Introduction to SPINAL \(Spinwave Analyzer\), A program for Calculating and Analyzing Spinwaves\224) Tj T* 0 Tw (American Conference on Neutron Scattering 2010 \(Ottawa, Canada\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.299069 Tw (\223BiFeO3\224 Flipper, International Workshop on Single Crystal Diffraction with Polarized Neutrons, 2010) Tj T* 0 Tw (\(Grenoble, France\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\223BiFeO3\224 Aspen Winter Conference on Fundamental Physics of Ferroelectrics, 2010 \(Aspen, Colorado\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .830888 Tw (\223Neutron Scattering Studies of the Fe-Based Superconductors\223 National Conference of Black Physicists,) Tj T* 0 Tw 2.27311 Tw (2009 \(Nahville\) W. Ratcliff II, Jun Zhao, J.W. Lynn, G.F. Chen, J.L. Luo, N.L. Wang, Jiangping Hu,) Tj T* 0 Tw (Pengcheng Dai \(Invited Talk\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2008) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .158735 Tw (\223Dimensional Crossover in ZnMn2O4\224 William Ratcliff , Ying Chen , Goran Gasparovic , Yiming Qiu , Qing) Tj T* 0 Tw .303672 Tw (Huang , Jeffrey Lynn , Sunmog Yeo , Sang Cheong , Paula Piccoli , Arthur Schultz. March Meeting of the) Tj T* 0 Tw (American Physical Society 2008 \(New Orleans, Louisiana\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.170751 Tw (Dimensional Crossover in ZnMn2O4 William Davis Ratcliff, Ying Chen, Yiming Qiu, S. Yeo, G.) Tj T* 0 Tw .718651 Tw (Gasparovic, Q. Huang, J. Lynn, Sang Cheong, Paula Piccoli, and Arthur Schultz ACNS 2008 \(Santa Fe,) Tj T* 0 Tw (New Mexico\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .685318 Tw (\223BiFeO3\224 PNCMI, 2008 \(Mito, Japan\). W. Ratcliff, Y.Chen, S. Yeo, G. Gasparovic, A. Schultz, P. Piccoli,) Tj T* 0 Tw (Q. Huang, Y. Qiu, S-W. Cheong \(Invited Talk\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2007) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .963059 Tw (\223Elucidation on the effects of hydrostatic pressure on multiferroic, HoMn2O5\224, William Ratcliff, C.R. dela) Tj T* 0 Tw .18936 Tw (Cruz, B. Lorenz, Q. Huang, S. Park, S-W. Cheong. March Meeting of the American Physical Society 2007) Tj T* 0 Tw (\(Denver\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\223A New Magnet, ZnMn2O4\224 National Conference of Black Physicists, 2007 \(Boston\). \(Invited Talk\)) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R60': class PDFStream 
+60 0 obj
+% page stream
+<< /Length 6410 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2006) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .276905 Tw (\223The low dimensional magnet, ZnMn2O4\224 Contributed talk, March Meeting 2006 of the American Physical) Tj T* 0 Tw (Society \(APS\), Baltimore, Maryland) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.08748 Tw (\223The Giant Magnetoelectric, DyMn2O5\224 Contributed talk, March Meeting 2005 of the American Physical) Tj T* 0 Tw (Society \(APS\), Los Angeles, California) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2004) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.026976 Tw (\223The Giant Magnetoelectric, DyMn2O5\224 Contributed talk, American Conference on Neutron Scattering) Tj T* 0 Tw (\(ACNS\), June 2004 College Park, Maryland) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.687674 Tw (\223The Magnetic Structure of ZnCr2O4\224 Contributed talk, March Meeting 2004 of the American Physical) Tj T* 0 Tw (Society \(APS\), Montreal, Canada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2003) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.413314 Tw (\223Frustration in Flatland Revisited\224 Poster, Boulder Summer School for Condensed Matter Physics, July) Tj T* 0 Tw (2003, Boulder Colorado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2002) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .126342 Tw (\223Magnetism of Sr\(Ti,Co\)O3\224 Poster, Gordon Research Conference on Strongly Correlated Electrons, June) Tj T* 0 Tw (2002, Maine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.385814 Tw (\223Magnetism of Sr\(Ti,Co\)O3\224 Contributed talk, March Meeting 2002 of the American Physical Society) Tj T* 0 Tw (\(APS\), Indianapolis, Indiana) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2001) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.693976 Tw (\223Site-vs-Bond disorder in the geometrically frustrated magnet, ZnCr2O4\224 Poster, SCES2001, August) Tj T* 0 Tw (2001, University of Michigan, Ann Arbor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .530888 Tw (\223Site-vs-Bond disorder in the geometrically frustrated magnet, ZnCr2O4\224 Contributed talk, March Meeting) Tj T* 0 Tw (2001 of the APS, March 12-16, Seattle, Washington) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.155529 Tw (\223The geometrically frustrated magnet, ZnCr2O4\224 Poster, Gordon Research Conference Strongly) Tj T* 0 Tw (Correlated Electrons, June 2000. New Hampshire.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Honors and Memberships) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GMAG Member at Large \(2013-present\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (APS-IUSSTF U.S.-India Exchange Program) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NIST Bronze Medal \(highest honorary recognition given by the institute, 2012\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Minority in Research Science Trailblazer award \(24th annual BEYA STEM, 2010\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NRC Postdoctoral Fellowship) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NSF GK-12 Fellowship) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 114.0236 cm
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GAANN Fellowship) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 96.02362 cm
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Grants in Aid of Research Award \(Sigma Xi\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 78.02362 cm
+Q
+ 
+endstream
+endobj
+% 'R61': class PDFStream 
+61 0 obj
+% page stream
+<< /Length 6716 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sigma Pi Sigma \(Physics Honor Society\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Eta Kappa Nu \(Electrical Engineering and Computer Engineering Honor Soc.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Golden Key National Honor Society) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sigma Xi) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (American Physical Society) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Instruction Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Conducted numerous summer schools at the NCNR) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SHIP mentor for high school students) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SURF mentor for undergraduate students) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Outreach through Adventures in Science) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Physics 205 Employer Rutgers Inclusive Dates 6/1/2003-7/1/2003) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .277485 Tw (Curriculum development and teaching of 6th and 9th graders in 6th grade math and earth science at) Tj T* 0 Tw 2.78248 Tw (South Brunswick Upper Elementary School and 9th grade physical science at East Brunswick) Tj T* 0 Tw (Churchill Middle School through the NSF GK-12 fellowship Inclusive dates 8/99-6/01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 504.0236 cm
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Physics 203 Employer Rutgers Inclusive Dates 6/1/99 - 7/1/99) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Physics of Sound Employer Rutgers Inclusive Dates 1/1/99 - 6/1/99) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer, Physics 204 Employer Rutgers Inclusive Dates 1/1/99 - 6/1/99) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 450.0236 cm
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Honors Modern Physics Employer Rutgers Inclusive Dates 9/1/98 - 1/1/99) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Physics 204 Employer Rutgers Inclusive Dates 6/1/98-7/1/98) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Part time lecturer Physics 203 Employer Rutgers Inclusive Dates 7/1/98-8/1/98) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R62': class PDFPageLabels 
+62 0 obj
+% Document Root
+<< /Nums [ 0
+ 63 0 R
+ 1
+ 64 0 R
+ 2
+ 65 0 R
+ 3
+ 66 0 R
+ 4
+ 67 0 R
+ 5
+ 68 0 R
+ 6
+ 69 0 R
+ 7
+ 70 0 R ] >>
+endobj
+% 'R63': class PDFPageLabel 
+63 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R64': class PDFPageLabel 
+64 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R65': class PDFPageLabel 
+65 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R66': class PDFPageLabel 
+66 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R67': class PDFPageLabel 
+67 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R68': class PDFPageLabel 
+68 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R69': class PDFPageLabel 
+69 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R70': class PDFPageLabel 
+70 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+xref
+0 71
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000559 00000 n
+0000000838 00000 n
+0000001117 00000 n
+0000001396 00000 n
+0000001675 00000 n
+0000001954 00000 n
+0000002233 00000 n
+0000002513 00000 n
+0000002794 00000 n
+0000002953 00000 n
+0000003235 00000 n
+0000003361 00000 n
+0000003540 00000 n
+0000003724 00000 n
+0000003915 00000 n
+0000004108 00000 n
+0000004302 00000 n
+0000004496 00000 n
+0000004729 00000 n
+0000004896 00000 n
+0000005078 00000 n
+0000005260 00000 n
+0000005442 00000 n
+0000005624 00000 n
+0000005806 00000 n
+0000005988 00000 n
+0000006170 00000 n
+0000006352 00000 n
+0000006535 00000 n
+0000006718 00000 n
+0000006901 00000 n
+0000007084 00000 n
+0000007248 00000 n
+0000007493 00000 n
+0000007660 00000 n
+0000007842 00000 n
+0000008024 00000 n
+0000008206 00000 n
+0000008388 00000 n
+0000008570 00000 n
+0000008752 00000 n
+0000008935 00000 n
+0000009118 00000 n
+0000009302 00000 n
+0000009486 00000 n
+0000009670 00000 n
+0000009854 00000 n
+0000010019 00000 n
+0000010217 00000 n
+0000010384 00000 n
+0000010549 00000 n
+0000018499 00000 n
+0000024945 00000 n
+0000031409 00000 n
+0000037454 00000 n
+0000042713 00000 n
+0000048004 00000 n
+0000054513 00000 n
+0000061332 00000 n
+0000061516 00000 n
+0000061593 00000 n
+0000061670 00000 n
+0000061747 00000 n
+0000061824 00000 n
+0000061901 00000 n
+0000061978 00000 n
+0000062055 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\313\357\364\221\2070\013\222\323:\345L=\012\305\027) (\313\357\364\221\2070\013\222\323:\345L=\012\305\027)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 71 >>
+startxref
+62102
+%%EOF
