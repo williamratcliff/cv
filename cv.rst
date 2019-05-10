@@ -17,6 +17,22 @@ Education
 :1997: University of Michigan, Ann Arbor, BSE in Engineering Physics 
 
 
+
+Research Interests
+------------------
+
+The primary focus of my research has been multiferroic materials.  Recently, I have explored geometric ferroelectricity in the |LuFeO3| series of compounds in both bulk and thin film samples (see 18,20, and 21) culminating 
+in work with collaborators in the development of superlattices with near room temperature magneto-electric  effects.  Our neutron scattering work was key in understanding the intrinsic 
+magnetic ordering of the |LuFeO3| geometric ferroelectric which templates |LuFe2O4| in the |LuFeO3|-|LuFe2O4| superlattice to dramatic effect.   
+
+Recently, I have also worked on topological materials (see 2,3,4,5,16).  Of particular interest is the interplay of magnetism with topological materials. 
+For example in the |MnBi2Te4| system, our measurements of the magnetic structure under applied magnetic fields has direct implications for the band structure.   
+
+.. |LuFeO3| replace:: LuFeO\ :sub:`3`
+.. |LuFe2O4| replace:: LuFe\ :sub:`2`\ O\ :sub:`4`
+.. |MnBi2Te4| replace:: MnBi\ :sub:`2`\ Te\ :sub:`4`
+
+
 .. Technical skills
 .. ----------------
 .. * Operating Systems: Unix/Linux, Windows, MacOs
@@ -37,11 +53,11 @@ Education
 Career/Experience
 ------------------------
 
-* 2005-Present: Staff scientist at the NIST Center for Neutron Scattering at NIST.
+2005-Present: Staff scientist at the NIST Center for Neutron Scattering at NIST.
 
-* 2003-2005: National Research Council Postdoc at the NIST Center for Neutron Research at NIST.  Primary work concerned neutron scattering experiments on geometrically frustrated magnets and magnetoelectric systems.  Also participated in x-ray experiments at Brookhaven and APS.  Also developed a GUI application for visualization of the   resolution ellipsoid for inclusion in the DAVE project at NIST.
+2003-2005: National Research Council Postdoc at the NIST Center for Neutron Research at NIST.  Primary work concerned neutron scattering experiments on geometrically frustrated magnets and magnetoelectric systems.  Also participated in x-ray experiments at Brookhaven and APS.  Also developed a GUI application for visualization of the   resolution ellipsoid for inclusion in the DAVE project at NIST.
             
-* 1997-2003: Worked with Sang W. Cheong in materials physics research including materials synthesis and characterization of novel magnetic systems.  
+1997-2003: Worked with Sang W. Cheong in materials physics research including materials synthesis and characterization of novel magnetic systems.  
 
 .. * Sum 95-97:	Worked with Fred Adams & Patricia Knezek on the search for an Initial Mass Function.  Work involved reduction of infrared CCD data using the IRAF package. (University of Michigan)
 
@@ -51,30 +67,51 @@ Career/Experience
 
 Workshops Organized
 -------------------
-* ACNS Satellite School:  7th School on Representational Analysis and Magnetic Structure (RAMS) (2018), University of Maryland, College Park, Maryland 
-* Program Committee International Conference on Magnetism (ICM) (2018), San Francisco, CA
-* Co-organizer of Fundamentals of Ferroelectrics Conference (FERRO) Jan. (2017), Williamsburg, WV
-* 5th School on Representational Analysis and Magnetic Structure (RAMS) Aug. (2015), University of Maryland, College Park, Maryland   
-* Workshop on Representational Analysis and Magnetic Structure Determination Dec. (2012), BARC, Mumbai, India** 
-* The NIST/Georgetown 2nd School on Representational Analysis and Magnetic Structures Aug1-5 (2011), Georgetown, Washington, D.C.
-* Program Committee MMM Meeting (2010), Atlanta, GA
-* The NIST Workshop on Representational Analysis of Complex Magnetic Structures July 23-26 (2007), Gaithersburg, MD**
+2018 ACNS Satellite School:  7th School on Representational Analysis and Magnetic Structure (RAMS), University of Maryland, College Park, Maryland 
 
-Honors and Memberships
+2018 Program Committee International Conference on Magnetism (ICM), San Francisco, CA
+
+2017 Co-organizer of Fundamentals of Ferroelectrics Conference (FERRO), Williamsburg, WV
+
+2015 5th School on Representational Analysis and Magnetic Structure (RAMS), University of Maryland, College Park, Maryland   
+
+2012 Workshop on Representational Analysis and Magnetic Structure Determination, BARC, Mumbai, India** 
+
+2011 The NIST/Georgetown 2nd School on Representational Analysis and Magnetic Structures Aug1-5, Georgetown, Washington, D.C.
+
+2010 Program Committee MMM Meeting, Atlanta, GA
+
+2007 The NIST Workshop on Representational Analysis of Complex Magnetic Structures, Gaithersburg, MD**
+
+Selected Honors and Memberships
 -----------------------------------------------------------
-* Member of American Physical Society
-* Member of Organizing committee APS Topical Group on Data Science (2019-present)
-* Chapter Leader DataKind DC (2018-present)
-* Elected Chair APS Committee on Minorities in Physics (2017-2018)
-* Member APS Committee on Minorities in Physics (2016-2018)
-* Elected ACA Neutron Scattering Special Interest Group Chair (2015-2016)
-* Elected GMAG Member at Large (2013-2016)
-* APS-IUSSTF U.S.-India Exchange Program (2012)
-* NIST Bronze Medal (highest honorary recognition given by the institute, 2012)
-* Minority in Research Science Trailblazer award (24th annual BEYA STEM, 2010)
-* NRC Postdoctoral Fellowship
-* Member Sigma Xi
-* Member Neutron Scattering Society of America
+Member of American Physical Society
+
+Member of Organizing committee APS Topical Group on Data Science 
+
+2019-present: Elected Representative to SNS-HIFR User Group Executive Committee 
+
+2018-present: Chapter Leader DataKind DC 
+
+2017-2018:  Elected Chair APS Committee on Minorities in Physics
+
+2016-2018:  Member APS Committee on Minorities in Physics
+
+2015-2016: Elected ACA Neutron Scattering Special Interest Group Chair 
+
+2013-2016: Elected GMAG Member at Large 
+
+2012: APS-IUSSTF U.S.-India Exchange Program 
+
+2012: NIST Bronze Medal (highest honorary recognition given by the institute)
+
+2010: Minority in Research Science Trailblazer award (24th annual BEYA STEM)
+
+2003:  NRC Postdoctoral Fellowship
+
+Member Sigma Xi
+
+Member Neutron Scattering Society of America
 
 
 ..
@@ -187,7 +224,7 @@ Qing Lin He,	Xufeng Kou,	Alexander J. Grutter,	Gen Yin,	Lei Pan,	Xiaoyu Che,	Yux
 17. "Magnetic Structures and Dynamics of Multiferroic Systems Obtained with Neutron Scattering"
 W. D. Ratcliff, II, Jeffrey W. Lynn, Valery Kiryukhin, Prashant Jain, and Michael R. Fitzsimmons, Nature Partner Journals: Quantum Materials 1, 16003 (2016)
 
-18. "Atomically engineered ferroic layers yield a roomtemperature magnetoelectric multiferroic"
+18. "Atomically engineered ferroic layers yield a room temperature magnetoelectric multiferroic"
 Julia A. Mundy, Charles M. Brooks, Megan E. Holtz, Jarrett A. Moyer, Hena Das, Alejandro F. Rbola, John T. Heron, James D. Clarkson, Steven M. Disseler, Zhiqi Liu, Alan Farhan, Rainer Held, Robert Hovden, Elliot Padgett, Qingyun Mao, Hanjong Paik, Rajiv Misra, Lena F. Kourkoutis, Elke Arenholz, Andreas Scholl, Julie A. Borchers, William D. Ratcliff, Ramamoorthy Ramesh, Craig J. Fennie, Peter Schiffer, David A. Muller, & Darrell G. Schlom
 , Nature 537, 523 (2016).  doi: 10.1038/nature19343
 
