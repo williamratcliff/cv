@@ -23,9 +23,7 @@ Research Interests
 
 The primary focus of my research has been multiferroic materials.  Recently, I have explored geometric ferroelectricity in the |LuFeO3| series of compounds in both bulk and thin film samples (see 18,20, and 21) culminating 
 in work with collaborators in the development of superlattices with near room temperature magneto-electric  effects.  Our neutron scattering work was key in understanding the intrinsic 
-magnetic ordering of the |LuFeO3| geometric ferroelectric which templates |LuFe2O4| in the |LuFeO3|-|LuFe2O4| superlattice to dramatic effect.   
-
-Recently, I have also worked on topological materials (see 2,3,4,5,16).  Of particular interest is the interplay of magnetism with topological materials. 
+magnetic ordering of the |LuFeO3| geometric ferroelectric which templates |LuFe2O4| in the |LuFeO3|-|LuFe2O4| superlattice to dramatic effect.  Currently, I am working on topological materials (see 2,3,4,5,16).  Of particular interest is the interplay of magnetism with topological materials. 
 For example in the |MnBi2Te4| system, our measurements of the magnetic structure under applied magnetic fields has direct implications for the band structure.   
 
 .. |LuFeO3| replace:: LuFeO\ :sub:`3`
@@ -53,9 +51,9 @@ For example in the |MnBi2Te4| system, our measurements of the magnetic structure
 Career/Experience
 ------------------------
 
-2005-Present: Staff scientist at the NIST Center for Neutron Scattering at NIST.
+2005-Present: Staff scientist at the NIST Center for Neutron Scattering
 
-2003-2005: National Research Council Postdoc at the NIST Center for Neutron Research at NIST.  Primary work concerned neutron scattering experiments on geometrically frustrated magnets and magnetoelectric systems.  Also participated in x-ray experiments at Brookhaven and APS.  Also developed a GUI application for visualization of the   resolution ellipsoid for inclusion in the DAVE project at NIST.
+2003-2005: National Research Council Postdoc at the NIST Center for Neutron Research at NIST.  Primary work concerned neutron scattering experiments on geometrically frustrated magnets and magnetoelectric systems.  Also participated in x-ray experiments at Brookhaven and APS.  Developed a GUI application for visualization of the resolution ellipsoid for inclusion in the DAVE project.
             
 1997-2003: Worked with Sang W. Cheong in materials physics research including materials synthesis and characterization of novel magnetic systems.  
 
@@ -81,7 +79,7 @@ Workshops Organized
 
 2010 Program Committee MMM Meeting, Atlanta, GA
 
-2007 The NIST Workshop on Representational Analysis of Complex Magnetic Structures, Gaithersburg, MD**
+2007 The NIST Workshop on Representational Analysis of Complex Magnetic Structures, Gaithersburg, MD
 
 Selected Honors and Memberships
 -----------------------------------------------------------
@@ -725,8 +723,8 @@ Instruction Experience
 -----------------------
 
 * Conducted numerous summer schools at the NCNR 
-* SHIP mentor for high school students
-* SURF mentor for undergraduate students
+* Summer High School Intern Program (SHIP) mentor for high school students
+* Summer Undergraduate Research Fellowship (SURF) mentor for undergraduate students
 * Outreach through Adventures in Science
 * Part time lecturer Physics 205
   Employer Rutgers
