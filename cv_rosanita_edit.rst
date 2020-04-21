@@ -134,7 +134,7 @@ Publications
 ------------
 H-index
 ~~~~~~~~
-34 see https://scholar.google.com/citations?user=Xly2-LYAAAAJ&hl=en
+36 see https://scholar.google.com/citations?user=Xly2-LYAAAAJ&hl=en
 
 Citations
 ~~~~~~~~~~
@@ -151,62 +151,70 @@ Publications
 .. 2019
 .. ~~~~
 
-1. "Exchange Bias in Bulk alpha-Fe / gamma-Fe70Mn30 Nanocomposites for Permanent Magnet Applications"
+76. "Ferromagnetic van der Waals compound MnSb1.8Bi0.2Te4"
+Yangyang Chen, Ya-Wen Chuang, Seng Huat Lee, Yanglin Zhu, Kevin Honz, Yingdong Guan, Yu Wang, Ke Wang, Zhiqiang Mao, Colin Heikes, P. Quarterman, Pawel Zajdel, Julie A. Borchers, William Ratcliff II, Jun Zhu
+arXiv:1910.13057
+
+75.  "Common acoustic phonon lifetimes in inorganic and hybrid lead halide perovskites"
+M Songvilay, N Giles-Donovan, M Bari, Z-G Ye, JL Minns, MA Green, Guangyong Xu, PM Gehring, K Schmalzl, WD Ratcliff, CM Brown, D Chernyshov, W van Beek, S Cochran, C Stock
+Physical Review Materials 3, 093602 (2019)
+
+74. "Exchange Bias in Bulk alpha-Fe / gamma-Fe70Mn30 Nanocomposites for Permanent Magnet Applications"
 Ian J McDonald, Michelle Jamer, Kathryn L Krycka, Elaf Anber, Daniel Foley, Andrew Charles Lang, William Ratcliff, Don Heiman, Mitra L Taheri, Julie A Borchers, Laura H Lewis
 ACS Appl. Nano Mater., 2, 1940 (2019) DOI: 10.1021/acsanm.8b02319
 
-2. "Quantum oscillations from networked topological interfaces in a Weyl semimetal"
+73. "Quantum oscillations from networked topological interfaces in a Weyl semimetal"
 I-Lin Liu, Colin Heikes, Taner Yildirim, Chris Eckberg, Tristin Metz, ShengRan, William Ratcliff II, Johnpierre Paglione, and Nicholas P. Butch
 arxiv.org/abs/1905.02277
 
-3. "Large exchange splitting in monolayer graphene magnetized by an antiferromagnet" 
+72. "Large exchange splitting in monolayer graphene magnetized by an antiferromagnet" 
 Yingying Wu, Gen Yin, Lei Pan, Alexander J. Grutter, Quanjun Pan, Albert Lee, Eun
 Sang Choi,Mingliang Tian, Peng Deng, Qiming Shao, Shin-Hung Tsai,Qinglin He, Dustin A.
 Gilbert, Julie A. Borchers, William Ratclliff II, Ang Li, Xiao-dong Han, and Kang L. Wang
 (submitted)
 
-4. "Spin Scattering and Noncollinear Spin Structure-Induced Intrinsic Anomalous Hall effect in Antiferromagnetic Topological Insulator MnBi2Te4"
+71. "Spin Scattering and Noncollinear Spin Structure-Induced Intrinsic Anomalous Hall effect in Antiferromagnetic Topological Insulator MnBi2Te4"
 Seng Huat Lee, Yanglin Zhu, Yu Wang, Leixin Miao, Hemian Yi, Timothy Pillsbury, Susan Kempinger, Jin Hu, Colin A. Heikes, Patrick A. Quarterman, William D. Ratcliff, Julie A. Borchers, H. Zhang, Xianglin Ke, David Graf, Nasim Alem, Cui-Zu Chang, Nitin Samarth, and Zhiqiang Mao
 Phys. Rev. Research 1, 012011(R) (2019)
 
 
-5.  "Probing Superexchange Interactions in Spin Ice Ho2Ti2O7 Thin Films"
+70.  "Probing Superexchange Interactions in Spin Ice Ho2Ti2O7 Thin Films"
 Kevin Barry, Naween Anand, Biwen Zhang, Yan Xin, Arturas Vailionis, Colin Heikes, Haidong Zhou, Y. Qiu, William Ratcliff, Christianne Beekman
 Phys. Rev. Materials 3, 084412 (2019)
 
 
-6.  "Fe2MnGe:  A Hexagonal Heusler Analogue" 
+69.  "Fe2MnGe:  A Hexagonal Heusler Analogue" 
 S. Keshavarz, N. Naghibolashra, M.E. Jamer, K. Vinson, D. Mazumdar, C.L. Dennis,
 W. Ratcliff II, J.A. Borchers, A. Gupta, P. LeClair
 Journal of Alloys and Compounds, 771, 793 (2019)
 
-7.  "Spin Rotation induced by applied pressure in Cd-doped Ce2RhIn8 intermetallic compound"
+68.  "Spin Rotation induced by applied pressure in Cd-doped Ce2RhIn8 intermetallic compound"
 D. S. Christovam, C. Giles, L. Mendonca-Ferreira, J. Leao, W. Ratcliff, J. W. Lynn, S.
 Ramos, E. N. Hering, H. Hidaka, E. Baggio-Saitovich, Z. Fisk, P. G. Pagliuso1, C. Adriano
-(submitted)
+Physical Review B 100, 165133 (2019)
 
 
 
 .. 2018
 
-7.  "Mechanical control of crystal symmetry and superconductivity in Weyl semimetal MoTe2"
+67.  "Mechanical control of crystal symmetry and superconductivity in Weyl semimetal MoTe2"
 Colin Heikes, I-Lin Liu, Tristin Metz, Chris Eckberg, Paul Neves, Yan Wu, Linda Hung, Phil Piccoli, Huibo Cao, Juscelino Leao, Johnpierre Paglione, Taner Yildirim, Nicholas P. Butch, 1, William Ratcliff II
 Phys. Rev. Materials 2, 074202 (2018)
 
-9.  "reductus: a stateless Python data-reduction service with a browser frontend"
+66.  "reductus: a stateless Python data-reduction service with a browser frontend"
 Brian Maranville, William Ratcliff II, Paul Kienzle
 Journal of Applied Crystallography 51, 1500 (2018)
 
 
-9.  "Ordered Magnetism in the Decorated 3D Ising jeff = 1/2 alpha-CoV3O8"
+65.  "Ordered Magnetism in the Decorated 3D Ising jeff = 1/2 alpha-CoV3O8"
 P. M. Sarte, A. M. Arevalo-Lopez, M. Songvilay,D. Le, T. Guidi, V. Garcia-Sakai, S. Mukhopadhyay, S. C. Capelli,  W. D. Ratcliff, K. H. Hong, G. M. McNally , E. Pachoud , J. P. Attfield, and C. Stock
 Phys. Rev. B. 98, 224410 (2018)
 
-10.  "Lifetime-shortened acoustic phonons and static order at the Brillouin zone boundary in the organic-inorganic perovskite  CH3NH3PbCl3"
+64.  "Lifetime-shortened acoustic phonons and static order at the Brillouin zone boundary in the organic-inorganic perovskite  CH3NH3PbCl3"
 M. Songvilay, C. Stock, Z.-G. Ye, Guangyong Xu, P. M. Gehring, W. D. Ratcliff, K. Schmalzl, F. Bourdarot, and B. Roessli
 Phys. Rev. Materials 2, 123601 (2018)
 
-11.  "A high-energy density antiferroelectric made by interfacial electrostatic engineering"
+63.  "A high-energy density antiferroelectric made by interfacial electrostatic engineering"
 Julia A Mundy, Colin A Heikes, Bastien F Grosso, Dan Ferenc Segedin, Zhe Wang, Berit H Goodge, Quintin N Meier, Christopher T Nelson, Bhagwati Prasad, Lena F Kourkoutis, William D Ratcliff, Nicola A Spaldin, Ramamoorthy Ramesh, Darrell G Schlom
 arXiv:1812.09615
 
@@ -215,23 +223,23 @@ arXiv:1812.09615
 .. 2017
 .. ~~~~
 
-12. "Electric-field Induced Reversible Switching of the Magnetic Easy-axis in Co/BiFeO3 on SrTiO3"
+62. "Electric-field Induced Reversible Switching of the Magnetic Easy-axis in Co/BiFeO3 on SrTiO3"
 Tieren Gao, Xiaohang Zhang, William Ratcliff, Shingo Maruyama, Makoto Murakami, Anbusathaiah Varatharajan, Zahra Yamani, Peijie Chen, Ke Wang, Huairuo Zhang, Robert D Shull, Leonid A Bendersky, John Unguris, Ramamoorthy Ramesh, Ichiro Takeuchi, 
 Nano Letters 17, 2825 (2017).  doi: 10.1021/acs.nanolett.6b05152
 
-13. "Successive field-induced transitions in BiFeO3 around room temperature"
+61. "Successive field-induced transitions in BiFeO3 around room temperature"
 Shiro Kawachi, Atsushi Miyake, Toshimitsu Ito, Sachith E Dissanayake, Masaaki Matsuda, II Ratcliff, Zhijun Xu, Yang Zhao, Shin Miyahara, Nobuo Furukawa, Masashi Tokunaga
 Phys. Rev. Materials 1, 024408 (2017)
 
-14. "Structural and Magnetic Phase Transitions in Chromium Nitride Thin Films Grown by RF Nitrogen Plasma Molecular Beam Epitaxy"
+60. "Structural and Magnetic Phase Transitions in Chromium Nitride Thin Films Grown by RF Nitrogen Plasma Molecular Beam Epitaxy"
 Khan Alam, Steven M Disseler, William D Ratcliff, Julie A Borchers, Rodrigo Ponce-Perez, Gregorio H Cocoletzi, Noboru Takeuchi, Andrew Foley, Andrea Richard, David C Ingram, Arthur R Smith
 Phys. Rev. B 96, 104433 (2017)
 
-15. "Pressure tuning of collapse of helimagnetic structure in Au2Mn"
+59. "Pressure tuning of collapse of helimagnetic structure in Au2Mn"
 I-Lin Liu, Maria J. Pascale, Juscelino B. Leao, Craig M. Brown, William D. Ratcliff, Qingzhen Huang, and Nicholas P. Butch
 Phys. Rev. B 96, 184429 (2017)
 
-16. "Tailoring Exchange Couplings in Magnetic Topological Insulator/Antiferromagnet Heterostructures" 
+58. "Tailoring Exchange Couplings in Magnetic Topological Insulator/Antiferromagnet Heterostructures" 
 Qing Lin He,	Xufeng Kou,	Alexander J. Grutter,	Gen Yin,	Lei Pan,	Xiaoyu Che,	Yuxiang Liu, Tianxiao Nie,	Bin Zhang,	Steven M. Disseler,	Brian J. Kirby,	William Ratcliff II,	Qiming Shao, Koichi Murata,	Xiaodan Zhu,	Guoqiang Yu,	Yabin Fan,	Mohammad Montazeri,	Xiaodong Han,	Julie A. Borchers	& Kang L. Wang
 , Nature Materials 16, 94(2017). doi:10.1038/nmat4783
 
@@ -240,52 +248,52 @@ Qing Lin He,	Xufeng Kou,	Alexander J. Grutter,	Gen Yin,	Lei Pan,	Xiaoyu Che,	Yux
 .. 2016
 .. ~~~~
 
-17. "Magnetic Structures and Dynamics of Multiferroic Systems Obtained with Neutron Scattering"
+57. "Magnetic Structures and Dynamics of Multiferroic Systems Obtained with Neutron Scattering"
 W. D. Ratcliff, II, Jeffrey W. Lynn, Valery Kiryukhin, Prashant Jain, and Michael R. Fitzsimmons, Nature Partner Journals: Quantum Materials 1, 16003 (2016)
 
-18. "Atomically engineered ferroic layers yield a room temperature magnetoelectric multiferroic"
+56. "Atomically engineered ferroic layers yield a room temperature magnetoelectric multiferroic"
 Julia A. Mundy, Charles M. Brooks, Megan E. Holtz, Jarrett A. Moyer, Hena Das, Alejandro F. Rbola, John T. Heron, James D. Clarkson, Steven M. Disseler, Zhiqi Liu, Alan Farhan, Rainer Held, Robert Hovden, Elliot Padgett, Qingyun Mao, Hanjong Paik, Rajiv Misra, Lena F. Kourkoutis, Elke Arenholz, Andreas Scholl, Julie A. Borchers, William D. Ratcliff, Ramamoorthy Ramesh, Craig J. Fennie, Peter Schiffer, David A. Muller, & Darrell G. Schlom
 , Nature 537, 523 (2016).  doi: 10.1038/nature19343
 
-19. "Bayesian method for the analysis of diffraction patterns using BLAND"
+55. "Bayesian method for the analysis of diffraction patterns using BLAND"
 JE Lesniewski, SM Disseler, DJ Quintana, PA Kienzle, WD Ratcliff, Journal of Applied Crystallography 49, 2201-2209 (2016)
 
 .. 2015
 .. ~~~~
 
-20. "Magnetic Structure and Ordering of Multiferroic Hexagonal LuFeO3" Steven M Disseler, Julie A Borchers, Charles M Brooks, Julia A Mundy, Jarrett A Moyer, Daniel A Hillsberry, Eric L Thies, Dmitri A Tenne, John Heron, Megan E Holtz, James D Clarkson, Gregory M Stiehl, Peter Schiffer, David A Muller, Darrell G Schlom, William D Ratcliff
+54. "Magnetic Structure and Ordering of Multiferroic Hexagonal LuFeO3" Steven M Disseler, Julie A Borchers, Charles M Brooks, Julia A Mundy, Jarrett A Moyer, Daniel A Hillsberry, Eric L Thies, Dmitri A Tenne, John Heron, Megan E Holtz, James D Clarkson, Gregory M Stiehl, Peter Schiffer, David A Muller, Darrell G Schlom, William D Ratcliff
 Physical Review Letters, 114, 217602 (2015)
 
-21. "Multiferroicity in doped hexagonal LuFeO3" Steven M. Disseler, Xuan Luo, Bin Gao, Yoon Seok Oh, Rongwei Hu, Yazhong Wang, Dylan Quintana, Alexander Zhang, Qingzhen Huang, June Lau, Rick Paul, Jeffrey W. Lynn, Sang-Wook Cheong, and William Ratcliff, II,
+53. "Multiferroicity in doped hexagonal LuFeO3" Steven M. Disseler, Xuan Luo, Bin Gao, Yoon Seok Oh, Rongwei Hu, Yazhong Wang, Dylan Quintana, Alexander Zhang, Qingzhen Huang, June Lau, Rick Paul, Jeffrey W. Lynn, Sang-Wook Cheong, and William Ratcliff, II,
 Phys. Rev. B 92, 054435 (2015)
 
-22. "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4"
+52. "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4"
 S. M. Disseler, Y. Chen, S. Yeo, G. Gasparovic, P. M. B. Piccoli, A. J. Schultz, Y. Qiu, Q. Huang, S-W. Cheong, and W. Ratcliff II,
 Scientific Reports, 5, 17771. http://doi.org/10.1038/srep17771 (2015)
 
 .. 2014
 .. ~~~~
 
-23. "Complex structures of different CaFe2As2 samples"
+51. "Complex structures of different CaFe2As2 samples"
 B Saparov, C Cantoni,  MH Pan, TC  Hogan, W. Ratcliff, SD Wilson, K Fritsch, BD Gaulin, AS Sefat, AS, Scientific Reports, 4120 (2014)
 
-24. "Reflections on the magnetic pair distribution function"
+50. "Reflections on the magnetic pair distribution function"
 W. Ratcliff, Acta Crystallographica A 70, 1 (2014)
 
-25. "Change in the magnetic structure of (Bi,Sm)FeO3 thin films at the morphotropic phase boundary probed by neutron diffraction"
+49. "Change in the magnetic structure of (Bi,Sm)FeO3 thin films at the morphotropic phase boundary probed by neutron diffraction"
 Shingo Maruyama, Varatharajan Anbusathaiah, Amy Fennell, Mechthild Enderle, Ichiro Takeuchi, William D. Ratcliff,  APL Materials, 2, doi10.1063/1.4901294 (2014)
 
 .. 2013
 .. ~~~~
 
-26. "Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO3 thin films probed by neutron diffraction"
+48. "Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO3 thin films probed by neutron diffraction"
 W. Ratcliff II, Zahra Yamani, V. Anbusathaiah, T.R. Gao, P.A. Kienzle, H. Cao, I. Takeuchi, Phys. Rev. B. 87,
 140405 (2013)
 
 .. 2012
 .. ~~~~
 
-27. "Double Focusing Thermal Triple-Axis Spectrometer at the NCNR"
+47. "Double Focusing Thermal Triple-Axis Spectrometer at the NCNR"
 Lynn, J.W., Chen, Y., Chang, S., Zhao, Y., Chi, S., W. Ratcliff, II, Ueland, B.G., Erwin, R.W., Journal of Research of the National Institute of Standards and Technology 117, 61 (2012)
 
 
@@ -293,34 +301,34 @@ Lynn, J.W., Chen, Y., Chang, S., Zhao, Y., Chi, S., W. Ratcliff, II, Ueland, B.G
 .. ~~~~
 
 
-28. "Local Weak ferromagnetism in single-crystalline ferroelectric BiFeO3",  M. Ramazanoglu, M. Laver, W. Ratcliff II, S.M. Watson, W.C. Chen, A. Jackson, K. Kothapalli, Seongsu Lee, S.-W. Cheong, V. Kiryukhin
+46. "Local Weak ferromagnetism in single-crystalline ferroelectric BiFeO3",  M. Ramazanoglu, M. Laver, W. Ratcliff II, S.M. Watson, W.C. Chen, A. Jackson, K. Kothapalli, Seongsu Lee, S.-W. Cheong, V. Kiryukhin
 Phys. Rev. Lett. 107, 207206 (2011)
 
-29. "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb(y)Fe(1.6+x)Se2
+45. "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb(y)Fe(1.6+x)Se2
 Phys. Rev. B 84, 094504 (2011)
 
-30. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite"
+44. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite"
 M. Ramazanoglu, W. Ratcliff, H.T. Yi, A.A. Sirenko, SW Cheong, V. Kiryukhin,
 Phys. Rev. Lett. 107, 067203 (2011)
 
-31. "Temperature-dependent properties of the magnetic order in single-crystal BiFeO3"
+43. "Temperature-dependent properties of the magnetic order in single-crystal BiFeO3"
 M. Ramazanoglu, W. Ratcliff II, Y.J. Choi, Seongsu Lee, S-W. Cheong, V. Kiryukhin,
 Phys. Rev. B. 83, 174434 (2011)
 
-32. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite," 
+42. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite," 
 Ramazanoglu, M., Ratcliff, II, W., Yi, H.T., Sirenko, A.A., Cheong, S.W., Kiryukhin, V., Physical Review Letters
 107(6), 067203-1 (2011)
 
-33. "Mechanism of exchange-striction of ferroelectricity in multiferroic orthorhombic HoMnO3 single crystals"
+41. "Mechanism of exchange-striction of ferroelectricity in multiferroic orthorhombic HoMnO3 single crystals"
 N. Lee, Y.J. Choi, M. Ramazanoglu, W. Ratcliff II, V. Kiryukhkin, and S-W. Cheong, Phys. Rev. B 84, 020101 (2011)
 
-34. "Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films"
+40. "Neutron Diffraction Investigations of Magnetism in BiFeO3 Epitaxial Films"
 William Ratcliff II, Daisuke Kan, Wangchun Chen, Shannon Watson, Songxue Chi, Ross Erwin, Garry J. McIntyre, Sylvia C. Capelli, Ichiro Takeuchi,  Advanced Functional Materials 21, 1567 (2011)
 
-35. "Antiferromagnetic Order and Superlattice Structure in Nonsuperconducting and Superconducting RbyFe1.6+xSe2"
+39. "Antiferromagnetic Order and Superlattice Structure in Nonsuperconducting and Superconducting RbyFe1.6+xSe2"
 Wang, M., Wang, M., Li, G.N., Huang, Q., Li, C.H., Tan, G.T., Zhang, C.L., Cao, H., Tian, W., Zhao, Y., Chen, Y.C., Lu, X.Y., Sheng, B., Luo, H.Q., Li, S.L., Fang, M.H., Zarestky, J.L., Ratcliff, W.D., Lumsden, M.D., Lynn, J.W., Dai, P.,  Physical Review B 84, 094504-1 (2011)
 
-36. "Nitrogen contamination in elastic neutron scattering"
+38. "Nitrogen contamination in elastic neutron scattering"
 Songxue Chi, Jeffrey W. Lynn,  Ying Chen, William Ratcliff II, Benjamin G. Ueland, Nicholas P. Butch, Shanta R. Saha, Kevin Kirshenbaum, Johnpierre Paglione, Measurement Science and Technology 22, 047001 (2011)
 
 37. "Incommensurate Magnetism in FeAs Strips: Neutron Scattering from CaFe4As3"
@@ -330,45 +338,45 @@ Yusuke Nambu, Liang L. hao, Emilia Morosan, Kyoo Kim, Gabriel Kotliar, Pawel Zaj
 .. ~~~~
 
 
-38. "Interplay of Fe and Nd magnetism in NdFeAsO single crystals"
+36. "Interplay of Fe and Nd magnetism in NdFeAsO single crystals"
 W. Tian, W. Ratcliff II, M. G. Kim, J.-Q. Yan, P.A. Kienzle, Q. Huang, B. Jensen, K.W. Dennis, R.W. McCallum, T.A. Lograsso, R.J. McQueeney, A.I. Goldman, J.W. Lynn, A. Kreyssig, Phys. Rev. B 82, 060514 (2010)
 
-39. "Cd Doping Effects in the heavy-fermion compounds Ce2Min8 (M=Rh and Ir)"
+35. "Cd Doping Effects in the heavy-fermion compounds Ce2Min8 (M=Rh and Ir)"
 C. Adriano, C. Giles, E.M. Bittar, L.N. Coelho, F. De Bergevin, C. Mazzoli, L. Paolasini, W. Ratcliff, R. Bindel, J.W. Lynn, Z. Fisk, P.G. Pagliuso, Phys. Rev. B 81, 245115 (2010)
 
-40. "Magnetic from factor of SrFe2As2:  Neutron diffraction measurements"
+34. "Magnetic from factor of SrFe2As2:  Neutron diffraction measurements"
 W. Ratcliff II, P.A. Kienzle, Jeffrey W. Lynn, Shiliang Li, Pengcheng Dai, G.F. Chen, N.L. Wang, Phys. Rev B. 81, 140502 (2010)
 
 .. 2009
 .. ~~~~
 
 
-41. "Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in CaFe(2-x)NixAs2"
+33. "Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in CaFe(2-x)NixAs2"
 N. Kumar, SX Chi, Y. Chen,  KG Rana, AK Nigam, A. Thamizhavel, W. Ratcliff, SK Dar, JW Lynn
 Phys. Rev. B 80, 144524 (2009)
 
-42. "Crossover from incommensurate to commensurate magnetic orderings in CoCr2O4"
+32. "Crossover from incommensurate to commensurate magnetic orderings in CoCr2O4"
 LJ Chang, DJ Huang, WH Li, SW Cheong, W. Ratcliff, JW Lynn
 J. Phys. Cond. Matt. 21, 456008 (2009)
 
-43. "Short Range Incommensurate magnetic order near the superconducting phase boundary in Fe(1+delta)Te(1-x)Sex"
+31. "Short Range Incommensurate magnetic order near the superconducting phase boundary in Fe(1+delta)Te(1-x)Sex"
 J.S. Wen, GY Xu, ZJ Xu, ZW Lin, Q. Li, W. Ratcliff, G. Gu, JM Tranquada
 Phys. Rev. B 80, 104506 (2009)
 
-44. "Spin-Lattice Order in Frustrated ZnCr2O4"
+30. "Spin-Lattice Order in Frustrated ZnCr2O4"
 S. Ji, SH Lee, C. Broholm, TY Koo, W. Ratcliff, SW Cheong, P. Zschack
 Phys. Rev. Lett 103, 037201 (2009)
 
-45. "The Magnetic ground state of CaMn2Sb2"
+29. "The Magnetic ground state of CaMn2Sb2"
 W. Ratcliff II, ALL Sharma, AM Gomes, JL Gonzalez, Q. Huang, J Singleton
 J Mag. Mag. Materials 321, 2612 (2009)
 
 
-46. "Order by Static Disorder in the Ising Chain Magnet Ca3Co2-xMnxO6"
+28. "Order by Static Disorder in the Ising Chain Magnet Ca3Co2-xMnxO6"
 V. Kiryukhin, S. Lee, W. Ratcliff II, Q. Huang, HT Yi, YJ Choi, SW Cheong
 Phys Rev. Lett. 102, 187202 (2009)
 
-47. "3:1 magnetization plateau and suppression of ferroelectric polarization in an Ising chain multiferroic" 
+27. "3:1 magnetization plateau and suppression of ferroelectric polarization in an Ising chain multiferroic" 
 YJ Jo, S. Lee, ES Choi, HT Yi, W. Ratcliff II, YJ Choi, V. Kiryukhin, SW Cheong, L. Balicas
 Phys. Rev. B 79, 012407 (2009)
 
@@ -377,116 +385,116 @@ Phys. Rev. B 79, 012407 (2009)
 .. ~~~~
 
 
-48. "Low energy spin waves and magnetic interactions in SrFe2As2"
+26. "Low energy spin waves and magnetic interactions in SrFe2As2"
 Jun Zhao, Dao Xin Yao, Shiliang Li, Tao Hong, Y. Chen, S. Chang, W. Ratcliff I I, J. W. Lynn, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, E. W. Carlson, Jiangping Hu, and Pengcheng Dai 
 Phys. Rev. Lett 101, 167203 (2008)
 
-49. "Spin and Lattice Structure of Single Crystal SrFe2As2"
+25. "Spin and Lattice Structure of Single Crystal SrFe2As2"
 Jun Zhao, W. Ratcliff II, J-W. Lynn, G.F. Chen, J.L. Luo, N.L. Wang, Jiangping Hu, Pengcheng Dai 
 Phys. Rev. B 78, 140504 (2008)
 
-50. "Magnetic order close to superconductivity in the iron-based layered LaO1-xFxFeAs systems"
+24. "Magnetic order close to superconductivity in the iron-based layered LaO1-xFxFeAs systems"
 C. dela Cruz, Q. Huang, JW Lynn, JY Li, W. Ratcliff, JL Zaretsky, HA Mook, GF Chen, JL Luo, NL Wang, PC Dai
 Nature 453,  899 (2008) 
 
-51. "Neel to Spin-Glass-Like Transition Versus Dilution in Geometrically Frustrated ZnCr2-2xGa2xO4"
+23. "Neel to Spin-Glass-Like Transition Versus Dilution in Geometrically Frustrated ZnCr2-2xGa2xO4"
 S-H. Lee, W. Ratcliff, Q. Huang, T.H. Kim, S-W. Cheong 
 PRB 77, 014405 (2008)
 
-52. "Formation of pancakelike ising domains and giant magnetic  coercivity in ferrimagnetic LuFe2O4"
+22. "Formation of pancakelike ising domains and giant magnetic  coercivity in ferrimagnetic LuFe2O4"
 W. Wu, V. Kiryukhin, H.-J. Noh, K.-T. Ko, J.-H. Park,  W. Ratcliff II, P. A. Sharma, N. Harrison, Y.J. Choi,  Y. Horime, S. Lee,  S. Park, H.T. Yi, C.L. Zhang, S-W. Cheong
 PRL 101, 137203 (2008)
 
-53. "Electric field control of the magnetic state in BiFeO3 single crystals"
+21. "Electric field control of the magnetic state in BiFeO3 single crystals"
 Seoungsu Lee, W. Ratcliff,  SW Cheong, V. Kiryukhin
 APL 92, 192906 (2008)
 
-54. "Single Ferroelectric and chiral magnetic domain of single-crystalline BiFeO3 in an electric field"
+20. "Single Ferroelectric and chiral magnetic domain of single-crystalline BiFeO3 in an electric field"
 Seongsu Lee, Taekjib Choi, W. Ratcliff II, R. Erwin, S-W. Cheong, and V. Kiryukhin
 PRB RC 78, 100101 (2008)
 
-55. "The pressure effect on the magnetic commensurability and ferroelectricity in multiferroic HoMn2O5"
+19. "The pressure effect on the magnetic commensurability and ferroelectricity in multiferroic HoMn2O5"
 CR dela Cruz, B. Lorenz, W. Ratcliff, J. Lynn, MM Gospodinov, C.W. Chu
 Physica B 403, 1359 (2008)
 
-56. "Observation of a continuous phase transition in a shape-memory alloy"
+18. "Observation of a continuous phase transition in a shape-memory alloy"
 J.C. Lahshley, S.M. Shapiro, B.L. Winn, C.P. Opeil, M.E. Manley, A. Alatas, W. Ratcliff, T. Park, R.A. Fisher, B. Mihaila, P. Riseborough, E. K. H. Salje, J.L. Smith
 Phys. Rev. Lett 101, 135703 (2008)
 
 .. 2007
 .. ~~~~
 
-57. "Crystal distortions in geometrically frustrated ACr2O4 (A=Zn,Cd)", S.-H. Lee, G.  Gasparovic, C. Broholm, M. Matsuda, J-H Chung, YJ Kim, H. Ueda, G. Xu, P Zschack, K. Kakurai, H. Takagi, W. Ratcliff, T-H. Kim, S-W Cheong 
+17. "Crystal distortions in geometrically frustrated ACr2O4 (A=Zn,Cd)", S.-H. Lee, G.  Gasparovic, C. Broholm, M. Matsuda, J-H Chung, YJ Kim, H. Ueda, G. Xu, P Zschack, K. Kakurai, H. Takagi, W. Ratcliff, T-H. Kim, S-W Cheong 
 Journal of Physics Condensed Matter 19, 145259 (2007)
 
-58. "Evidence for strong spin-lattice coupling in multiferroic RMn2O5 (R=Tb, Dy, Ho) via thermal expansion anomalies", CR dela Cruz, F. Yen, B. Lorenz, S. Park, SW Cheong, MM Gospodinov, W. Ratcliff, JW Lynn, CW Chu 
+16. "Evidence for strong spin-lattice coupling in multiferroic RMn2O5 (R=Tb, Dy, Ho) via thermal expansion anomalies", CR dela Cruz, F. Yen, B. Lorenz, S. Park, SW Cheong, MM Gospodinov, W. Ratcliff, JW Lynn, CW Chu 
 Journal of Applied Physics 99 08R2103 (2006)
 
-59. "Structural Anomalies at the magnetic and ferroelectric transitions in RMn2O5 (R=Tb, Dy, Ho)", CR dela Cruz, F. Yen, B. Lorenz, MM Gospodinov, CW Chu, W. Ratcliff, JUW Lynn, S. Park, S-W Cheong
+15. "Structural Anomalies at the magnetic and ferroelectric transitions in RMn2O5 (R=Tb, Dy, Ho)", CR dela Cruz, F. Yen, B. Lorenz, MM Gospodinov, CW Chu, W. Ratcliff, JUW Lynn, S. Park, S-W Cheong
 Phys. Rev. B 73, 100406 (2006)
 
-60. "Conformation of the HIV-1 Gag protein in solution", SAK Datta, JE Curtis, W.Ratcliff,  PK Clark, RM Crist, J Lebowitz, S. Krueger, A. Rein 
+14. "Conformation of the HIV-1 Gag protein in solution", SAK Datta, JE Curtis, W.Ratcliff,  PK Clark, RM Crist, J Lebowitz, S. Krueger, A. Rein 
 Journal of Molecular Biology 365, 812 (2007)
 
 .. 2006
 .. ~~~~
 
-61. "Structural anomalies at the magnetic and ferroelastic transitions in RMn2O5 (R=Tb, Dy, Ho)"
+13. "Structural anomalies at the magnetic and ferroelastic transitions in RMn2O5 (R=Tb, Dy, Ho)"
 C.R. dela Cruz, F. Yen, B. Lorenz, M.M. Gospodinov, C.W. Chu, W. Ratcliff, J.W. Lynn, S. Park, and S-W.Cheong.  Phys. Rev. B 73, 100406 (2006)
 
 .. 2005
 .. ~~~~
 
-62. "Pressure-dependent magnetic properties of geometrically frustrated ZnCr2O4"
+12. "Pressure-dependent magnetic properties of geometrically frustrated ZnCr2O4"
 Y. Jo, JG Park, HC Kim, W. Ratcliff, S-W. Cheong, Phys. Rev. B. 72, 184421 (2005)
 
-63. "Magnetic Phase Diagram of the Colossal Magneoelectric, DyMn2O5"
+11. "Magnetic Phase Diagram of the Colossal Magneoelectric, DyMn2O5"
 W. Ratcliff II, V. Kiryukhin, M.A. Kenzelmann, S-H. Lee, J. Schefer, R. Erwin, N. Hur, S. Park,and S-W. Cheong.  Phys Rev. B. (R)  72, 060407 (2005)
 
 
-64. "Effects of spin-phonon coupling in the magnetic transition in strongly frustrated ZnCr2O4"
+10. "Effects of spin-phonon coupling in the magnetic transition in strongly frustrated ZnCr2O4"
 A. B. Sushkov, H. D. Drew, O. Tchernyshyov, W. Ratcliff, S.W. Cheong, Phys. Rev. Lett. 94, 137202 (2005)
 
 .. 2004
 .. ~~~~
 
 
-65. "Spin Singlet formation in MgTi2O4:  evidence of a chiral dimerization pattern"
+9. "Spin Singlet formation in MgTi2O4:  evidence of a chiral dimerization pattern"
 M. Schmidt, W. Ratcliff II, P.G. Radaelli, K. Refson, N.M. Harrison, S.W. Cheong, Phys. Rev. Lett. 92, 056402 (2004)
 
-66. "First-Order nature of the ferromagnetic phase transition in (La-Ca)MnO3 near optimal doping."
+8. "First-Order nature of the ferromagnetic phase transition in (La-Ca)MnO3 near optimal doping."
 C.P. Adams, J.W. Lynn, V.N. Smolyaninova, A. Biswas, R.L. Green, W. Ratcliff II, S.-W. Cheong, Y.M. Mukovskii, D.A. Shulyatev, Phys. Rev. B. 70, 134414 (2004)
 
 .. 2002
 .. ~~~~
 
-67. "Emergent excitations in a geometrically frustrated magnet"
+7. "Emergent excitations in a geometrically frustrated magnet"
 S.-H. Lee, C. Broholm, W. Ratcliff, G. Gasparovic, Q. Huang, T.H. Kim and S-W. Cheong.  Nature 418, 856-858 (2002)
 
-68. "Fluctuations and Freezing of Spin-Correlated Nanoclusters in a Geometrically Frustrated Magnet"
+6. "Fluctuations and Freezing of Spin-Correlated Nanoclusters in a Geometrically Frustrated Magnet"
 W. Ratcliff II, S.-H.  Lee, C. Broholm, S-W. Cheong, Q. Huang
 Physical Review B:  Rapid Communications 65, 220406/1-220406/4 (2002)
 
 .. 2001
 .. ~~~~
 
-69. "Magnetic properties of the frustrated antiferromagnetic spinel ZnCr2O4 and the spin
+5. "Magnetic properties of the frustrated antiferromagnetic spinel ZnCr2O4 and the spin
 glass Zn1-xCdxCr2O4 (x=0.05,0.10)" 
 H Martinho, NO Moreno,JA Sanjurjo,C  Rettori, AJ Garcia-Adeva, DL  Huber,SB  Oseroff,W Ratcliff,SW  Cheong,PG  Pagliuso,JL  Sarrao,GB Martins
 Phys. Rev. B. 64, 024408/1-024408/6 (2001).
 
-70. "Studies of the three-dimensional frustrated antiferromagnetic ZnCr2O4"
+4. "Studies of the three-dimensional frustrated antiferromagnetic ZnCr2O4"
 H Martinho, NO Moreno, JA  Sanjurjo,C Rettori,AJ Garcia-Adeva, DL Huber,SB  Oseroff,W Ratcliff,SW  Cheong,PG  Pagliuso,JL  Sarrao,GB Martins
 Journal of Applied Physics 89, 7050-7052 (2001) 
 
-71. "Muon spin relaxation study of La1-xCaxMnO3" 
+3. "Muon spin relaxation study of La1-xCaxMnO3" 
 RH Heffner, JE Sonier, DE MacLaughlin, GJ Nieuwenhuys, GM Luke, YJ Uemura, W Ratcliff, SW Cheong, G Balakrishnan
 Phys. Rev. B. 63, 094408/1-094408/14 (2001) 
 
 .. 2000
 .. ~~~~
 
-72. "Local spin resonance and spin-Peierls-like phase transition in a geometrically frustrated antiferromagnet"
+2. "Local spin resonance and spin-Peierls-like phase transition in a geometrically frustrated antiferromagnet"
 SH Lee, C Broholm, TH Kim, W Ratcliff, SW Cheong
 Phys. Rev. Lett. 84, 3718-3721 (2000) 
 
@@ -494,7 +502,7 @@ Phys. Rev. Lett. 84, 3718-3721 (2000)
 .. 1999
 .. ~~~~
 
-73. "Intergrain magnetoresistance via second-order tunneling in perovskite manganites"
+1. "Intergrain magnetoresistance via second-order tunneling in perovskite manganites"
 S Lee, HY  Hwang,  BI Shraiman, WD  Ratcliff, SW  Cheong
 Phys. Rev. Lett. 82, 4508-4511 (1999)
 
