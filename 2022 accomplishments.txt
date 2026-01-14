@@ -1,0 +1,101 @@
+Hi Jeff,
+
+Here are my accomplishments for the year.
+
+Thanks,
+William
+
+ 
+Papers
+
+“SASNets: Classifying Small Angle Scattering Data Using Convolutional Neural Networksinvited paper Machine learning”
+Christopher Wang, Tyler Martin, Paul Kienzle, William Ratcliff
+Frontiers in Physics, article collection on 'Machine Learning for Experimental Materials Science and Condensed Matter Physics'
+(in progress)
+
+"Reinforcement Learning and neutron scattering"
+Jessica Opsahl-Ong, Kate Meuse, William Ratcliff
+(in progress)
+
+"Antiferrromagnetic metal in an electron-doped nickelate"
+Qi Song, Spencer Doyle, Grace A. Pan, Ismail El Baggari, Dan Ferenc Segedin, Denisse ..Cordova Carrizales, Aaron Bostwick, Chris Jozwiak, Eli Rotenberg, Alpha N'Diaye, Colin A. ..Heikes, Charles M. Brooks, William D. Ratcliff, Padraic Shafer, Luca Moreschini, and ..Julia A. Mundy
+(accepted Nature Physics)
+
+"Revealing the Symmetry of Materials through Neutron Diffraction”
+W Ratcliff
+Symmetry 14, 1215 (2022)
+
+"Semi-supervised learning based classification of neutron diffraction data into space groups"
+Satvik Lolla, Haotong Ling, Ichiro Takeuchi, Aaron G. Kusne, William Ratcliff
+Journal of Applied Crystallography 55 (2022) 
+
+"Liberating a hidden antiferroelectric phase with interfacial electrostatic engineering"
+Julia A. Mundy, Colin A. Heikes3, Bastien F. Grosso, Dan Ferenc Segedin, Zhe Wang, Yu-Tsen Shao, Cheng Dai, Berit H. Goodge, Quintin N. Meier, Christopher T. Nelson,
+Bhagwati Prasad, Fei Xue, Lena F. Kourkoutis, Long-Qing Chen, William D. Ratcliff,
+Nicola A. Spaldin, Ramamoorthy Ramesh,& Darrell G. Schlom
+Science advances 8 (5), eabg5860 (2022)
+
+"On-the-fly Autonomous Control of Neutron Diffraction via Physics-Informed Bayesian Active Learning"
+Austin McDannald, Matthias Frontzek, Andrei Savici, Mathieu Doucet, Efrain Rodriguez, Kate Meuse, Jessica Opsahl-Ong, Daniel Samarov, Ichiro Takeuchi, William Ratcliff, Aaron G Kusne
+Applied Physics Reviews 9, 021408 (2022)
+
+"Magnetic field-induced non-trivial electronic topology in FeGeTe2"
+Juan Macy, Danilo Ratkovski, Purnima P Balakrishnan, Mara Strungaru, Yu-Che Chiu, Aikaterini Flessa, Alex Moon, Wenkai Zheng, Ashley Weiland, Gregory T McCandless, Julia Y Chan, Govind S Kumar, Michael Shatruk, Alexander J Grutter, Julie A Borchers, William D Ratcliff, Eun Sang Choi, Elton JG Santos, Luis Balicas
+Applied Physics Reviews 8, 041401 (2021)
+
+"Informal Science Education and Career Advancement"
+Michael Smith, Claudia Fracchiolla, Sean Fleming, Arturo Dominguez, Alexandra Lau, Shannon Greco, Don Lincoln, Eleni Katifori, William Ratcliff, Maria Longobardi, Maajida Murdock, Mustapha Ishak
+arXiv:2112.10623 (2021)
+
+SURF Students
+Shriya Haravu
+ 
+SHIP Students
+Satvik Lolla
+Dylan Zhang
+ 
+Committees
+APS Group on Data Science (Incoming-Chair)
+APS Committee on Informing the Public
+Steering Meeting APS-IDEA Program (2021-2022)
+Science Advances Associate Editor
+NICE Steering Committee
+NSBP Condensed matter chair for conference
+Advisory board CREST Center for Research and Education in Quantum Leap Science and Technology  at Norfolk State University(2021)
+Chair NCNR DEIA Committee (2022)
+Member NIST DEIA Strategic planning group (2022)
+NIST AI-COI Member at large representing NCNR
+ 
+
+Projects
+FeTe Films (with Ichiro Takeuchi)
+NdNiO3 Films Metal/Insulator transition/Ruddelson Popper series (wth Julia Mundy) 
+MnBi2Te4 (with Zhiqiang Mao)
+Fe3GeTe2/Fe5GeTe2 (with Luis Balicas)
+Applications of AI to order parameter measurements/crystallography/spin wave measurements
+
+ 
+Reviews
+NSF Ad hoc review (2022)
+NSF MRSEC Panel (2022)
+DOE Virtual Triennial Site Review (2021)
+Chair SNS/HFIR Single Crystal Review committee (SRC) 2021-2022
+
+Instrument
+No neutrons
+
+Software
+ICP Planner (in progress)
+
+Talks
+"Reinforcement learning and neutron scattering", March Meeting of the American Physical Society, Chicago, IL (2022)
+"APS Inclusion, Diversity, and Equity Alliance (IDEA): Transforming the Culture of Physics", March Meeting of the APS (invited) (2022)
+
+Planned Talks
+"AI and Neutron Scattering", Invited, University of Connecticut
+ 
+
+Workshops organized
+2021 School on Representational Analysis and Magnetic Structure (RAMS), University of Maryland, College Park, Maryland 
+2022 PNCMI (Annapolis)
+2022 PNCMI School (organizer/lecturer) (NIST, Gaithersburg)

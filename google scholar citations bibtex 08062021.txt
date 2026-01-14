@@ -1,0 +1,1790 @@
+@article{lee2002emergent,
+  title={Emergent excitations in a geometrically frustrated magnet},
+  author={Lee, S-H and Broholm, C and Ratcliff, W and Gasparovic, G and Huang, Q and Kim, TH and Cheong, S-W},
+  journal={Nature},
+  volume={418},
+  number={6900},
+  pages={856--858},
+  year={2002},
+  publisher={Nature Publishing Group}
+}
+
+@article{lee2008electric,
+  title={Electric field control of the magnetic state in Bi Fe O 3 single crystals},
+  author={Lee, Seoungsu and Ratcliff, W and Cheong, Sang-Wook and Kiryukhin, Valery},
+  journal={Applied Physics Letters},
+  volume={92},
+  number={19},
+  pages={192906},
+  year={2008},
+  publisher={American Institute of Physics}
+}
+
+@article{datta2007conformation,
+  title={Conformation of the HIV-1 Gag protein in solution},
+  author={Datta, Siddhartha AK and Curtis, Joseph E and Ratcliff, William and Clark, Patrick K and Crist, Rachael M and Lebowitz, Jacob and Krueger, Susan and Rein, Alan},
+  journal={Journal of molecular biology},
+  volume={365},
+  number={3},
+  pages={812--824},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{dela2006structural,
+  title={Structural anomalies at the magnetic and ferroelectric transitions in R Mn 2 O 5 (R= Tb, Dy, Ho)},
+  author={Dela Cruz, Clarina R and Yen, Fei and Lorenz, Bernd and Gospodinov, Marin M and Chu, Ching-Wu and Ratcliff, W and Lynn, Jeffrey W and Park, Soonyong and Cheong, S-W},
+  journal={Physical Review B},
+  volume={73},
+  number={10},
+  pages={100406},
+  year={2006},
+  publisher={American Physical Society}
+}
+
+@article{wen2009short,
+  title={Short-range incommensurate magnetic order near the superconducting phase boundary in Fe 1+ $\delta$ Te 1- x Se x},
+  author={Wen, Jinsheng and Xu, Guangyong and Xu, Zhijun and Lin, Zhi Wei and Li, Qiang and Ratcliff, W and Gu, Genda and Tranquada, JM},
+  journal={Physical Review B},
+  volume={80},
+  number={10},
+  pages={104506},
+  year={2009},
+  publisher={American Physical Society}
+}
+
+@article{ratcliff2005magnetic,
+  title={Magnetic phase diagram of the colossal magnetoelectric DyMn\~{} 2O\~{} 5},
+  author={Ratcliff, W and Kiryukhin, Valery and Kenzelmann, M and Lee, S and Erwin, R and Schefer, J and Hur, N and Park, S and Cheong, S},
+  journal={PHYSICAL REVIEW-SERIES B-},
+  volume={72},
+  number={6},
+  pages={060407},
+  year={2005},
+  publisher={American Physical Society}
+}
+
+@article{wang2011antiferromagnetic,
+  title={Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting rb y fe 1.6+ x se 2},
+  author={Wang, Meng and Wang, Miaoyin and Li, GN and Huang, Q and Li, CH and Tan, GT and Zhang, CL and Cao, Huibo and Tian, Wei and Zhao, Yang and others},
+  journal={Physical Review B},
+  volume={84},
+  number={9},
+  pages={094504},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{ji2009spin,
+  title={Spin-lattice order in frustrated ZnCr 2 O 4},
+  author={Ji, S and Lee, S-H and Broholm, C and Koo, TY and Ratcliff, W and Cheong, S-W and Zschack, P},
+  journal={Physical review letters},
+  volume={103},
+  number={3},
+  pages={037201},
+  year={2009},
+  publisher={American Physical Society}
+}
+
+@article{lee2007crystal,
+  title={Crystal distortions in geometrically frustrated ACr2O4 (A= Zn, Cd)},
+  author={Lee, SH and Gasparovic, G and Broholm, C and Matsuda, M and Chung, JH and Kim, YJ and Ueda, H and Xu, G and Zschack, P and Kakurai, K and others},
+  journal={Journal of Physics: Condensed Matter},
+  volume={19},
+  number={14},
+  pages={145259},
+  year={2007},
+  publisher={IOP Publishing}
+}
+
+@article{de453w,
+  title={W, Zarestky JL, Mook HA, Chen GF, Luo JL, Wang NL and Dai P 2008},
+  author={de la Cruz, Clarina and Huang, Q and Lynn, JW and Li, J and Ratcliff, II},
+  journal={Nature},
+  volume={453},
+  pages={899}
+}
+
+@article{martinho2001studies,
+  title={Studies of the three-dimensional frustrated antiferromagnetic ZnCr 2 O 4},
+  author={Martinho, H and Moreno, NO and Sanjurjo, JA and Rettori, C and Garc{\i}a-Adeva, AJ and Huber, DL and Oseroff, SB and Ratcliff, W and Cheong, S-W and Pagliuso, PG and others},
+  journal={Journal of Applied Physics},
+  volume={89},
+  number={11},
+  pages={7050--7052},
+  year={2001},
+  publisher={American Institute of Physics}
+}
+
+@article{de2008magnetic,
+  title={Magnetic order close to superconductivity in the iron-based layered LaO 1-x F x FeAs systems},
+  author={de La Cruz, Clarina and Huang, Q and Lynn, JW and Li, Jiying and Ratcliff Ii, W and Zarestky, Jerel L and Mook, HA and Chen, GF and Luo, JL and Wang, NLa and others},
+  journal={nature},
+  volume={453},
+  number={7197},
+  pages={899--902},
+  year={2008},
+  publisher={Nature Publishing Group}
+}
+
+@article{lashley2008observation,
+  title={Observation of a continuous phase transition in a shape-memory alloy},
+  author={Lashley, JC and Shapiro, SM and Winn, BL and Opeil, CP and Manley, ME and Alatas, A and Ratcliff, W and Park, T and Fisher, RA and Mihaila, B and others},
+  journal={Physical review letters},
+  volume={101},
+  number={13},
+  pages={135703},
+  year={2008},
+  publisher={American Physical Society}
+}
+
+@article{ratcliff2011neutron,
+  title={Neutron diffraction investigations of magnetism in BiFeO3 epitaxial films},
+  author={Ratcliff, William and Kan, Daisuke and Chen, Wangchun and Watson, Shannon and Chi, Songxue and Erwin, Ross and McIntyre, Garry J and Capelli, Sylvia C and Takeuchi, Ichiro},
+  journal={Advanced Functional Materials},
+  volume={21},
+  number={9},
+  pages={1567--1574},
+  year={2011},
+  publisher={WILEY-VCH Verlag}
+}
+
+@article{chang2009crossover,
+  title={Crossover from incommensurate to commensurate magnetic orderings in CoCr2O4},
+  author={Chang, LJ and Huang, DJ and Li, WH and Cheong, Sang-Wook and Ratcliff, W and Lynn, JW},
+  journal={Journal of physics: Condensed matter},
+  volume={21},
+  number={45},
+  pages={456008},
+  year={2009},
+  publisher={IOP Publishing}
+}
+
+@article{dela2006evidence,
+  title={Evidence for strong spin-lattice coupling in multiferroic R Mn 2 O 5 (R= Tb, Dy, Ho) via thermal expansion anomalies},
+  author={Dela Cruz, CR and Yen, F and Lorenz, B and Park, S and Cheong, S-W and Gospodinov, MM and Ratcliff, W and Lynn, JW and Chu, CW},
+  journal={Journal of applied physics},
+  volume={99},
+  number={8},
+  pages={08R103},
+  year={2006},
+  publisher={American Institute of Physics}
+}
+
+@article{nambu2011incommensurate,
+  title={Incommensurate Magnetism in FeAs Strips: Neutron Scattering from CaFe 4 As 3},
+  author={Nambu, Yusuke and Zhao, Liang L and Morosan, Emilia and Kim, Kyoo and Kotliar, Gabriel and Zajdel, Pawel and Green, Mark A and Ratcliff, William and Rodriguez-Rivera, Jose A and Broholm, Collin},
+  journal={Physical review letters},
+  volume={106},
+  number={3},
+  pages={037201},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{lynn2012double,
+  title={Double-focusing thermal triple-axis spectrometer at the NCNR},
+  author={Lynn, JW and Chen, Y and Chang, S and Zhao, Y and Chi, S and Ratcliff, W and others},
+  journal={Journal of research of the National Institute of Standards and Technology},
+  volume={117},
+  pages={61},
+  year={2012},
+  publisher={National Institute of Standards and Technology}
+}
+
+@article{heffner2001muon,
+  title={Muon spin relaxation study of La 1- x Ca x MnO 3},
+  author={Heffner, RH and Sonier, JE and MacLaughlin, DE and Nieuwenhuys, GJ and Luke, GM and Uemura, YJ and William Ratcliff, II and Cheong, Sang-Wook and Balakrishnan, G},
+  journal={Physical Review B},
+  volume={63},
+  number={9},
+  pages={094408},
+  year={2001},
+  publisher={American Physical Society}
+}
+
+@article{dela2008pressure,
+  title={The pressure effect on the magnetic commensurability and ferroelectricity in multiferroic HoMn2O5},
+  author={dela Cruz, CR and Lorenz, B and Ratcliff, W and Lynn, J and Gospodinov, MM and Chu, CW},
+  journal={Physica B: Condensed Matter},
+  volume={403},
+  number={5-9},
+  pages={1359--1361},
+  year={2008},
+  publisher={North-Holland}
+}
+
+@article{wen2009short,
+  title={Short-range incommensurate magnetic order near the superconducting phase boundary in Fe 1+ $\delta$ Te 1- x Se x},
+  author={Wen, Jinsheng and Xu, Guangyong and Xu, Zhijun and Lin, Zhi Wei and Li, Qiang and Ratcliff, W and Gu, Genda and Tranquada, JM},
+  journal={Physical Review B},
+  volume={80},
+  number={10},
+  pages={104506},
+  year={2009},
+  publisher={American Physical Society}
+}
+
+@inproceedings{winn2010structural,
+  title={Structural Phase Transition in AuZn Alloys},
+  author={Winn, Barry and Shapiro, SM and Lashley, Jason C and Opeil, Cyril and Ratcliff, William},
+  booktitle={Journal of Physics: Conference Series},
+  volume={251},
+  number={1},
+  pages={012027},
+  year={2010},
+  organization={IOP Publishing}
+}
+
+@article{kiryukhin2009order,
+  title={Order by Static Disorder in the Ising Chain Magnet Ca 3 Co 2- x Mn x O 6},
+  author={Kiryukhin, Valery and Lee, Seongsu and W Ratcliff, II and Huang, Q and Yi, HT and Choi, YJ and Cheong, Sang-Wook},
+  journal={Physical review letters},
+  volume={102},
+  number={18},
+  pages={187202},
+  year={2009},
+  publisher={American Physical Society}
+}
+
+@article{adriano2010cd,
+  title={Cd doping effects in the heavy-fermion compounds Ce 2 M In 8 (M= Rh and Ir)},
+  author={Adriano, C and Giles, C and Bittar, EM and Coelho, LN and De Bergevin, F and Mazzoli, Claudio and Paolasini, L and Ratcliff, W and Bindel, R and Lynn, JW and others},
+  journal={Physical Review B},
+  volume={81},
+  number={24},
+  pages={245115},
+  year={2010},
+  publisher={American Physical Society}
+}
+
+@article{adriano2010cd,
+  title={Cd doping effects in the heavy-fermion compounds Ce 2 M In 8 (M= Rh and Ir)},
+  author={Adriano, C and Giles, C and Bittar, EM and Coelho, LN and De Bergevin, F and Mazzoli, Claudio and Paolasini, L and Ratcliff, W and Bindel, R and Lynn, JW and others},
+  journal={Physical Review B},
+  volume={81},
+  number={24},
+  pages={245115},
+  year={2010},
+  publisher={American Physical Society}
+}
+
+@article{jun2008low,
+  title={Low Energy Spin Waves and Magnetic Interactions in SrFe $\{$sub 2$\}$ As $\{$sub 2$\}$},
+  author={Jun, Zhao and Shiliang, Li and Daoxin, Yao and Carlson, EW and Jiangping, Hu and Tao, Hong and Mook, HA and Chen, Y and Chang, S and Ratcliff, W II and others},
+  journal={Physical Review Letters},
+  volume={101},
+  number={16},
+  year={2008}
+}
+
+@inproceedings{curtis2006computational,
+  title={Computational methods for the analysis of small angle scattering spectra},
+  author={Curtis, Joseph E and Ratcliff, William and Krueger, Susan},
+  booktitle={ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY},
+  volume={231},
+  year={2006},
+  organization={AMER CHEMICAL SOC 1155 16TH ST, NW, WASHINGTON, DC 20036 USA}
+}
+
+@inproceedings{hor2013dirac,
+  title={Dirac Surface State of Metamagnetic Topological Insulators},
+  author={Hor, YS and Lee, SH and Medvedeva, JE and Iavarone, M and Chatterjee, U and Ratcliff, W},
+  booktitle={APS March Meeting Abstracts},
+  volume={2013},
+  pages={A13--009},
+  year={2013}
+}
+
+@inproceedings{moreno2000studies,
+  title={Studies in the 3D frustrated AFM magnet ZnCr\_2O\_4},
+  author={Moreno, NO and Martinho, H and Rettori, C and Huber, DL and Causa, MT and Tovar, M and Ratcliff, W and Cheong, S-W and Oseroff, SB},
+  booktitle={APS March Meeting Abstracts},
+  pages={V27--006},
+  year={2000}
+}
+
+@techreport{sushkov2004effects,
+  title={Effects of spin-phonon coupling in the magnetic transition in strongly frustrated ZnCr2O4},
+  author={Sushkov, AB and Ratcliff, W and Tchernyshyov, O and Cheong, SW and Drew, HD},
+  year={2004}
+}
+
+@inproceedings{lee2002composite,
+  title={Composite spin degree of freedom in a geometrically frustrated antiferromagnet},
+  author={Lee, S-H and Broholm, C and Ratcliff, W and Gasparovic, G and Huang, Q and Kim, TH and Cheong, S-W},
+  booktitle={APS March Meeting Abstracts},
+  pages={B17--009},
+  year={2002}
+}
+
+@inproceedings{shapiro2007phase,
+  title={Phase Transition to Modulated Cubic Phase in AuZn alloy},
+  author={Shapiro, SM and Lashley, JC and Ratcliff, W and Thoma, DJ and Smith, JL},
+  booktitle={APS March Meeting Abstracts},
+  pages={N11--002},
+  year={2007}
+}
+
+@inproceedings{kiryukhin2006x,
+  title={X-ray and neutron scattering studies of the magnetoelectric DyMn 2 O 5},
+  author={Kiryukhin, V and Borissov, A and Cheong, S-W and Ratcliff, W and Lee, S-H},
+  booktitle={APS March Meeting Abstracts},
+  pages={D20--003},
+  year={2006}
+}
+
+@inproceedings{zhao2009inelastic,
+  title={Inelastic neutron scattering studies on spin excitations of Fe Pnictides},
+  author={Zhao, Jun and Yao, Dao-Xin and Li, Shiliang and Hong, Tao and Chen, Ying and Chang, Sung and Ratcliff, William and Lynn, Jeff and Mook, Herbert and Chen, Genfu and others},
+  booktitle={APS March Meeting Abstracts},
+  pages={J35--006},
+  year={2009}
+}
+
+@inproceedings{ratcliff2007elucidaion,
+  title={Elucidaion on the effects of hydrostatic pressure on multiferroic, HoMn2O5},
+  author={Ratcliff, William and Dela Cruz, CR and Lorenz, B and Huang, Q and Park, S and Cheong, S-W},
+  booktitle={APS March Meeting Abstracts},
+  pages={J13--014},
+  year={2007}
+}
+
+@inproceedings{ratcliff2006investigations,
+  title={Investigations of the 2D Isinglike magnet, ZnMn 2 O 4},
+  author={Ratcliff, William and Chen, Ying and Qiu, Yiming and Huang, Qing and Lynn, Jeffrey and Yeo, Sunmog and Cheong, Sang and Piccoli, Paula and Schultz, Arthur},
+  booktitle={APS March Meeting Abstracts},
+  pages={K23--010},
+  year={2006}
+}
+
+@inproceedings{dela2007pressure,
+  title={Pressure Induced Stabilization of the Ferroelectricity and Commensurate Magnetic structure in RMn 2 O 5 (R= Tb, Dy, Ho)},
+  author={Dela Cruz, CR and Lorenz, B and Chu, CW and Ratcliff, W and Lynn, J and Park, S and Cheong, S-W and Gospodinov, M},
+  booktitle={APS March Meeting Abstracts},
+  pages={J13--015},
+  year={2007}
+}
+
+@inproceedings{ratcliff2009polarized,
+  title={Polarized Neutron Investigations of BiFeO 3},
+  author={Ratcliff, William and Lee, Seongsu and Choi, Taekjib and Erwin, Ross and Cheong, Sang Wook and Kiryukhin, Valery},
+  booktitle={APS March Meeting Abstracts},
+  pages={Z30--004},
+  year={2009}
+}
+
+@inproceedings{ratcliff2013evolution,
+  title={Evolution of the magnetic structure in (Sm, Bi) FeO3 Thin Films},
+  author={Ratcliff, William and Poole, Amy and Enderle, Mechthild and Maruyama, Shingo and Anbusathaiah, V and Takeuchi, Ichiro},
+  booktitle={APS March Meeting Abstracts},
+  volume={2013},
+  pages={U17--013},
+  year={2013}
+}
+
+@inproceedings{kiryukhin2011temperature,
+  title={Temperature-dependent properties of the magnetic order in single-crystal BiFeO 3},
+  author={Kiryukhin, V and Ramazanoglu, M and Cheong, S-W and Ratcliff, W and Lee, S},
+  booktitle={APS March Meeting Abstracts},
+  volume={2011},
+  pages={K1--188},
+  year={2011}
+}
+
+@inproceedings{ratcliff2002magnetism,
+  title={Magnetism of Sr (Co, Ti) O\_3},
+  author={Ratcliff, William and Sharma, Peter and Guha, Sabyasachi and Cheong, S-W},
+  booktitle={APS March Meeting Abstracts},
+  pages={M19--013},
+  year={2002}
+}
+
+@inproceedings{drew2005probing,
+  title={Probing spin correlations with phonons in the strongly frustrated magnet ZnCr 2 O 4},
+  author={Drew, Howard and Tchernyshyov, Oleg and Ratcliff, William},
+  booktitle={APS March Meeting Abstracts},
+  pages={N9--002},
+  year={2005}
+}
+
+@inproceedings{lee2001magnetic,
+  title={Magnetic correlations in the Neel and spin liquid phase of a geometrically frustrated magnet ZnCr\_2O\_4},
+  author={Lee, Seung-Hun and Gasparovic, Goran and Broholm, Collin and Ratcliff, William and Kim, Taehee and Cheong, Sang-Wook},
+  booktitle={APS March Meeting Abstracts},
+  pages={Z24--005},
+  year={2001}
+}
+
+@article{zhaomagnetic,
+  title={Magnetic Phase Transition and Spin Wave Excitations in the Colossal Magnetoresistive Manganites: An Experiment Using the BT7 Triple-Axis Spectrometer},
+  author={Zhao, Yang and Parshall, Dan and Ratcliff, William and Lynn, Jeffrey}
+}
+
+@inproceedings{ratcliff2004magnetic,
+  title={The Magnetic Structure of ZnCr\_2O\_4},
+  author={Ratcliff, W and Lee, S-H and Huang, Q and Broholm, C and Kim, TH and Cheong, SW-},
+  booktitle={APS March Meeting Abstracts},
+  volume={2004},
+  pages={H25--004},
+  year={2004}
+}
+
+@inproceedings{gao2012reversible,
+  title={Reversible switching of magnetic easy axis in Co/BiFeO 3 thin film heterostructures},
+  author={Gao, Tieren and Varatharajan, Anbusathaiah and Ratcliff, William and Takeuchi, Ichiro},
+  booktitle={APS March Meeting Abstracts},
+  volume={2012},
+  pages={J9--007},
+  year={2012}
+}
+
+@inproceedings{lynn2000spin,
+  title={Spin Dynamics and Ferromagnetic Phase Transition in La\_5/8Ca\_3/8MnO\_3},
+  author={Lynn, JW and Adams, CP and Ratcliff, W and Cheong, SW},
+  booktitle={APS March Meeting Abstracts},
+  pages={K27--008},
+  year={2000}
+}
+
+@inproceedings{ratcliff2001site,
+  title={Site-vs-Bond disorder in the geometrically frustrated magnet, ZnCr\_2O\_4},
+  author={Ratcliff, William and Lee, S-H and Cheong, S-W},
+  booktitle={APS March Meeting Abstracts},
+  pages={Z24--006},
+  year={2001}
+}
+
+@article{yen2005anisotropic,
+  title={Anisotropic lattice anomalies and the pressure effect on the ferroelectricity in multiferroic HoMn $ \_ $\{$2$\}$ $ O $ \_ $\{$5$\}$ $},
+  author={Yen, Fei and Lorenz, Bernd and Chu, Ching-Wu and Gospodinov, Marin and Ratcliff, William and Lynn, Jeffrey and others},
+  journal={Bulletin of the American Physical Society},
+  year={2005},
+  publisher={APS}
+}
+
+@inproceedings{sharma2004thermal,
+  title={Thermal Conductivity of Two Geometrically Frustrated Magnets: Extraordinary Spin-Phonon Interactions},
+  author={Sharma, PA and Ahn, J and Hur, N and Ratcliff, W and Park, S and Guha, S and Cheong, S-W},
+  booktitle={APS March Meeting Abstracts},
+  volume={2004},
+  pages={H25--006},
+  year={2004}
+}
+
+@inproceedings{ratcliff2012investigation,
+  title={Investigation of Electric Field Control of Antiferromagnetic Domains in Epitaxial BiFeO3 Thin Films Using Neutron Diffraction},
+  author={Ratcliff, W and Anbusathaiah, V and Gao, T and Kienzle, PA and Takeuchi, I},
+  booktitle={APS March Meeting Abstracts},
+  volume={2012},
+  pages={J9--005},
+  year={2012}
+}
+
+@article{lorenz2007pressure,
+  title={Pressure Induced Stabilization of the Ferroelectricity and Commensurate Magnetic structure in $ R $ Mn $ \_ $\{$2$\}$ $ O $ \_ $\{$5$\}$ $($ R $= Tb, Dy, Ho)},
+  author={Lorenz, B and Chu, CW and Ratcliff, W and Lynn, J and Park, S and Cheong, S-W and Gospodinov, M and others},
+  journal={Bulletin of the American Physical Society},
+  volume={52},
+  year={2007},
+  publisher={APS}
+}
+
+@inproceedings{kiryukhin2011temperature,
+  title={Temperature-dependent properties of the magnetic order in single-crystal BiFeO 3},
+  author={Kiryukhin, V and Ramazanoglu, M and Cheong, S-W and Ratcliff, W and Lee, S},
+  booktitle={APS March Meeting Abstracts},
+  volume={2011},
+  pages={K1--188},
+  year={2011}
+}
+
+@inproceedings{ratcliff2008dimensional,
+  title={Dimensional Crossover in ZnMn 2 O 4},
+  author={Ratcliff, William and Chen, Ying and Gasparovic, Goran and Qiu, Yiming and Huang, Qing and Lynn, Jeffrey and Yeo, Sunmog and Cheong, Sang and Piccoli, Paula and Schultz, Arthur},
+  booktitle={APS March Meeting Abstracts},
+  pages={W27--014},
+  year={2008}
+}
+
+@inproceedings{kiryukhin2013magnetic,
+  title={Magnetic structure of BiFeO 3},
+  author={Kiryukhin, V and Ramazanoglu, M and Lee, S and Cheong, S-W and Ratcliff, W and Laver, M and Park, JG},
+  booktitle={APS March Meeting Abstracts},
+  volume={2013},
+  pages={Q1--279},
+  year={2013}
+}
+
+@inproceedings{ratcliff2011magnetic,
+  title={The magnetic form factor of SrFe2As2},
+  author={Ratcliff, William and Kienzle, PA and Lynn, JW and Li, S and Dai, P and Chen, GF and Wang, NL},
+  booktitle={APS March Meeting Abstracts},
+  volume={2011},
+  pages={T26--004},
+  year={2011}
+}
+
+@inproceedings{kreyssig2011interactions,
+  title={Interactions between rare earth and iron magnetism in REFeAsO single crystals},
+  author={Kreyssig, A and Kim, MG and Tian, W and Ratcliff, W and Kim, J-W and Nandi, S and Yan, J-Q and Jensen, B and Dennis, KW and McCallum, RW and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2011},
+  pages={H26--013},
+  year={2011}
+}
+
+@inproceedings{hor2001metal,
+  title={Metal-Insulator Transition in Thiospinel Culr [2-x] Cr [x] S [4]},
+  author={Hor, Yew-San and Ratcliff, William and Kim, Bog-Gi and Cheong, Sang-Wook},
+  booktitle={APS March Meeting Abstracts},
+  pages={G16--003},
+  year={2001}
+}
+
+@inproceedings{chi2010evolution,
+  title={Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in CaFe 2-x Ni x As 2},
+  author={Chi, Songxue and Kumar, Neeraj and Chen, Ying and Gaurav Rana, Kumari and Nigam, AK and Thamizhavel, A and Ratcliff, William and Dhar, SK and Lynn, Jeffrey W},
+  booktitle={APS March Meeting Abstracts},
+  volume={2010},
+  pages={B40--010},
+  year={2010}
+}
+
+@article{wu2008formation,
+  title={Formation of pancakelike Ising domains and giant magnetic coercivity in ferrimagnetic LuFe 2 O 4},
+  author={Wu, Weida and Kiryukhin, Valery and Noh, H-J and Ko, K-T and Park, J-H and W Ratcliff, II and Sharma, PA and Harrison, N and Choi, YJ and Horibe, Y and others},
+  journal={Physical review letters},
+  volume={101},
+  number={13},
+  pages={137203},
+  year={2008},
+  publisher={American Physical Society}
+}
+
+@article{ramazanoglu2011temperature,
+  title={Temperature-dependent properties of the magnetic order in single-crystal BiFeO 3},
+  author={Ramazanoglu, M and W Ratcliff, II and Choi, YJ and Lee, Seongsu and Cheong, S-W and Kiryukhin, Valery},
+  journal={Physical Review B},
+  volume={83},
+  number={17},
+  pages={174434},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{lee2000local,
+  title={Local spin resonance and spin-Peierls-like phase transition in a geometrically frustrated antiferromagnet},
+  author={Lee, S-H and Broholm, C and Kim, TH and W Ratcliff, II and Cheong, Sang-Wook},
+  journal={Physical Review Letters},
+  volume={84},
+  number={16},
+  pages={3718},
+  year={2000},
+  publisher={American Physical Society}
+}
+
+@article{w2002freezing,
+  title={Freezing of spin correlated nanoclusters in a geometrically frustrated magnet},
+  author={W Ratcliff, II and Lee, S-H and Broholm, C and Cheong, S-W and Huang, Qingrong},
+  journal={Physical Review B},
+  volume={65},
+  number={22},
+  pages={220406},
+  year={2002},
+  publisher={American Physical Society}
+}
+
+@article{ramazanoglu2011local,
+  title={Local weak ferromagnetism in single-crystalline ferroelectric BiFeO 3},
+  author={Ramazanoglu, Mehmet and Laver, Mark and W Ratcliff, II and Watson, SM and Chen, WangChun and Jackson, Andrew and Kothapalli, K and Lee, Seongsu and Cheong, S-W and Kiryukhin, Valery},
+  journal={Physical review letters},
+  volume={107},
+  number={20},
+  pages={207206},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{jo20093,
+  title={3: 1 magnetization plateau and suppression of ferroelectric polarization in an Ising chain multiferroic},
+  author={Jo, YJ and Lee, Seongsu and Choi, ES and Yi, HT and W Ratcliff, II and Choi, YJ and Kiryukhin, Valery and Cheong, Sang-Wook and Balicas, L},
+  journal={Physical Review B},
+  volume={79},
+  number={1},
+  pages={012407},
+  year={2009},
+  publisher={American Physical Society}
+}
+
+@article{ramazanoglu2011giant,
+  title={Giant effect of uniaxial pressure on magnetic domain populations in multiferroic bismuth ferrite},
+  author={Ramazanoglu, Mehmet and W Ratcliff, II and Yi, HT and Sirenko, AA and Cheong, S-W and Kiryukhin, Valery},
+  journal={Physical review letters},
+  volume={107},
+  number={6},
+  pages={067203},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{w2005magnetic,
+  title={Magnetic phase diagram of the colossal magnetoelectric Dy Mn 2 O 5},
+  author={W Ratcliff, II and Kiryukhin, V and Kenzelmann, M and Lee, S-H and Erwin, R and Schefer, J and Hur, N and Park, S and Cheong, SW},
+  journal={Physical Review B},
+  volume={72},
+  number={6},
+  pages={060407},
+  year={2005},
+  publisher={American Physical Society}
+}
+
+@article{lee2011mechanism,
+  title={Mechanism of exchange striction of ferroelectricity in multiferroic orthorhombic HoMnO 3 single crystals},
+  author={Lee, N and Choi, YJ and Ramazanoglu, M and W Ratcliff, II and Kiryukhin, Valery and Cheong, S-W},
+  journal={Physical Review B},
+  volume={84},
+  number={2},
+  pages={020101},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@article{de2008magnetic,
+  title={Magnetic order close to superconductivity in the iron-based layered LaO 1-x F x FeAs systems},
+  author={de La Cruz, Clarina and Huang, Q and Lynn, JW and Li, Jiying and Ratcliff Ii, W and Zarestky, Jerel L and Mook, HA and Chen, GF and Luo, JL and Wang, NLa and others},
+  journal={nature},
+  volume={453},
+  number={7197},
+  pages={899--902},
+  year={2008},
+  publisher={Nature Publishing Group}
+}
+
+@article{zhao2008spin,
+  title={Spin and lattice structures of single-crystalline SrFe 2 As 2},
+  author={Zhao, Jun and W Ratcliff, II and Lynn, JW and Chen, GF and Luo, JL and Wang, NL and Hu, Jiangping and Dai, Pengcheng},
+  journal={Physical Review B},
+  volume={78},
+  number={14},
+  pages={140504},
+  year={2008},
+  publisher={American Physical Society}
+}
+
+@article{tian2010interplay,
+  title={Interplay of Fe and Nd magnetism in NdFeAsO single crystals},
+  author={Tian, W and W Ratcliff, II and Kim, MG and Yan, J-Q and Kienzle, Paul A and Huang, Qingzhen and Jensen, B and Dennis, Kevin W and McCallum, R William and Lograsso, Thomas A and others},
+  journal={Physical Review B},
+  volume={82},
+  number={6},
+  pages={060514},
+  year={2010},
+  publisher={American Physical Society}
+}
+
+@article{jo2005pressure,
+  title={Pressure-dependent magnetic properties of geometrically frustrated ZnCr 2 O 4},
+  author={Jo, Younghun and Park, J-G and Kim, HC and W Ratcliff, II and Cheong, Sang-Wook},
+  journal={Physical Review B},
+  volume={72},
+  number={18},
+  pages={184421},
+  year={2005},
+  publisher={American Physical Society}
+}
+
+@article{w2013electric,
+  title={Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO 3 thin films probed by neutron diffraction},
+  author={W Ratcliff, II and Yamani, Zahra and Anbusathaiah, V and Gao, TR and Kienzle, PA and Cao, H and Takeuchi, I},
+  journal={Physical Review B},
+  volume={87},
+  number={14},
+  pages={140405},
+  year={2013},
+  publisher={American Physical Society}
+}
+
+@article{lee2008neel,
+  title={N{\'e}el to spin-glass-like phase transition versus dilution in geometrically frustrated Zn Cr 2- 2 x Ga 2 x O 4},
+  author={Lee, S-H and W Ratcliff, II and Huang, Q and Kim, TH and Cheong, Sang-Wook},
+  journal={Physical Review B},
+  volume={77},
+  number={1},
+  pages={014405},
+  year={2008},
+  publisher={American Physical Society}
+}
+
+@article{schmidt2004spin,
+  title={Spin Singlet Formation in M g T i 2 O 4: Evidence of a Helical Dimerization Pattern},
+  author={Schmidt, Marek and W Ratcliff, II and Radaelli, PG and Refson, Keith and Harrison, NM and Cheong, Sang-Wook},
+  journal={Physical review letters},
+  volume={92},
+  number={5},
+  pages={056402},
+  year={2004},
+  publisher={American Physical Society}
+}
+
+@article{martinho2001magnetic,
+  title={Magnetic properties of the frustrated antiferromagnetic spinel ZnCr 2 O 4 and the spin-glass Zn 1- x Cd x Cr 2 O 4 (x= 0.05, 0.10)},
+  author={Martinho, H and Moreno, NO and Sanjurjo, JA and Rettori, C and Garcia-Adeva, AJ and Huber, DL and Oseroff, SB and W Ratcliff, II and Cheong, S-W and Pagliuso, PG and others},
+  journal={Physical review B},
+  volume={64},
+  number={2},
+  pages={024408},
+  year={2001},
+  publisher={American Physical Society}
+}
+
+@article{w2010magnetic,
+  title={Magnetic form factor of SrFe 2 As 2: Neutron diffraction measurements},
+  author={W Ratcliff, II and Kienzle, PA and Lynn, Jeffrey W and Li, Shiliang and Dai, Pengcheng and Chen, GF and Wang, NL},
+  journal={Physical Review B},
+  volume={81},
+  number={14},
+  pages={140502},
+  year={2010},
+  publisher={American Physical Society}
+}
+
+@article{ratcliff2014reflections,
+  title={Reflections on the magnetic pair distribution function},
+  author={Ratcliff, William},
+  journal={Acta Crystallographica Section A: Foundations and Advances},
+  volume={70},
+  number={1},
+  pages={1--2},
+  year={2014},
+  publisher={International Union of Crystallography}
+}
+
+@inproceedings{fang2014exchange,
+  title={Exchange coupling in MnBi/Fe-Co thin film bilayers},
+  author={Fang, Lei and Gao, Tieren and Fackler, Sean and Maruyama, Shingo and Takeuchi, Ichiro and Cui, Jun and Krammer, MJ and Johnson, Duane and Arenholz, Elke and Borchers, Julie and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2014},
+  pages={G7--008},
+  year={2014}
+}
+
+@inproceedings{ratcliff2014neutron,
+  title={Neutron Investigations of Multiferroic LuFe1-x Mn x O 3},
+  author={Ratcliff, William and Disseler, Steven and Zhang, Alexander and Quintana, Dylan and Oh, Yoon Seok and Lynn, Jeffrey and Cheong, Sang W},
+  booktitle={APS March Meeting Abstracts},
+  volume={2014},
+  pages={M6--008},
+  year={2014}
+}
+
+@article{nambu2011erratum,
+  title={Erratum: Incommensurate Magnetism in FeAs Strips: Neutron Scattering from CaFe 4 As 3 [Phys. Rev. Lett. 106, 037201 (2011).]},
+  author={Nambu, Yusuke and Zhao, Liang L and Morosan, Emilia and Kim, Kyoo and Kotliar, Gabriel and Zajdel, Pawel and Green, Mark A and Ratcliff, William and Rodriguez-Rivera, Jose A and Broholm, Collin},
+  journal={Physical Review Letters},
+  volume={107},
+  number={5},
+  pages={059903},
+  year={2011},
+  publisher={American Physical Society}
+}
+
+@inproceedings{ratcliff2005magnetic,
+  title={Magnetic Phase Diagram of the Giant Magnetoelectric, DyMn2O5},
+  author={Ratcliff, W and Kiryukhin, V and Kenzelmann, MA and Lee, S-H and Erwin, Ross and Hur, N},
+  booktitle={APS March Meeting Abstracts},
+  pages={S43--003},
+  year={2005}
+}
+
+@inproceedings{lima2008magnetic,
+  title={Magnetic Structure and Magnetic Properties of CaMn2Sb2},
+  author={Lima Sharma, AL and Gomes, AMS and Gonzales, JL and Ratcliff, W},
+  booktitle={APS March Meeting Abstracts},
+  pages={K1--054},
+  year={2008}
+}
+
+@inproceedings{ji2009crystal,
+  title={Crystal and magnetic structures of the three-dimensional spin-Peierls state of ZnCr2O4},
+  author={Ji, Sungdae and Lee, S-H and Broholm, C and Ratcliff, W and Cheong, S-W and Zschack, P},
+  booktitle={APS March Meeting Abstracts},
+  pages={Q31--005},
+  year={2009}
+}
+
+@inproceedings{ratcliff2010neutron,
+  title={Neutron Diffraction Investigations of BiFeO 3 Films},
+  author={Ratcliff, W and Kan, Daisuke and Capelli, Silvia and McIntyre, Gary and Takeuchi, Ichiro},
+  booktitle={APS March Meeting Abstracts},
+  volume={2010},
+  pages={W37--002},
+  year={2010}
+}
+
+@article{adams2004first,
+  title={First-order nature of the ferromagnetic phase transition in (La-Ca) Mn O 3 near optimal doping},
+  author={Adams, CP and Lynn, JW and Smolyaninova, VN and Biswas, A and Greene, RL and W Ratcliff, II and Cheong, Sang-Wook and Mukovskii, YM and Shulyatev, DA},
+  journal={Physical Review B},
+  volume={70},
+  number={13},
+  pages={134414},
+  year={2004},
+  publisher={American Physical Society}
+}
+
+@article{lee1999intergrain,
+  title={Intergrain magnetoresistance via second-order tunneling in perovskite manganites},
+  author={Lee, Soonchil and Hwang, HY and Shraiman, Boris I and WD Ratcliff, II and Cheong, SW},
+  journal={Physical review letters},
+  volume={82},
+  number={22},
+  pages={4508},
+  year={1999},
+  publisher={American Physical Society}
+}
+
+@article{sushkov2005probing,
+  title={Probing spin correlations with phonons in the strongly frustrated magnet ZnCr 2 O 4},
+  author={Sushkov, AB and Tchernyshyov, O and Ratcliff II, W and Cheong, Sang-Wook and Drew, HD},
+  journal={Physical review letters},
+  volume={94},
+  number={13},
+  pages={137202},
+  year={2005},
+  publisher={American Physical Society}
+}
+
+@article{ratcliff2009magnetic,
+  title={The magnetic ground state of CaMn2Sb2},
+  author={Ratcliff II, W and Sharma, AL Lima and Gomes, AM and Gonzalez, JL and Huang, Q and Singleton, J},
+  journal={Journal of magnetism and magnetic materials},
+  volume={321},
+  number={17},
+  pages={2612--2616},
+  year={2009},
+  publisher={North-Holland}
+}
+
+@article{morenostudies,
+  title={Studies in the antiferromagnetic Zn Cr 2 O 4},
+  author={Moreno, NO and Martinho, H and Rettori, C and Huber, DL and Ratcliff, W and Cheong, S-W and Oseroff, SB}
+}
+
+@article{saparov2014complex,
+  title={Complex structures of different CaFe 2 As 2 samples},
+  author={Saparov, Bayrammurad and Cantoni, Claudia and Pan, Minghu and Hogan, Thomas C and Ratcliff II, William and Wilson, Stephen D and Fritsch, Katharina and Tachibana, Makoto and Gaulin, Bruce D and Sefat, Athena S},
+  journal={scientific reports},
+  volume={4},
+  number={1},
+  pages={1--8},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{ramazanoglu2011sm,
+  title={SM Wat son, WC Chen, A. Jackson, K. Kothapalli, S. Lee, SW Cheong, and V. Kiryukhin},
+  author={Ramazanoglu, M and Laver, M and Ratcliff II, W},
+  journal={Phys. Rev. Lett},
+  volume={107},
+  pages={207206},
+  year={2011}
+}
+
+@article{maruyama2014change,
+  title={Change in the magnetic structure of (Bi, Sm) FeO3 thin films at the morphotropic phase boundary probed by neutron diffraction},
+  author={Maruyama, Shingo and Anbusathaiah, Varatharajan and Fennell, Amy and Enderle, Mechthild and Takeuchi, Ichiro and Ratcliff, William D},
+  journal={APL materials},
+  volume={2},
+  number={11},
+  pages={116106},
+  year={2014},
+  publisher={AIP Publishing LLC}
+}
+
+@article{disseler2015magnetic,
+  title={Magnetic structure and ordering of multiferroic hexagonal LuFeO 3},
+  author={Disseler, Steven M and Borchers, Julie A and Brooks, Charles M and Mundy, Julia A and Moyer, Jarrett A and Hillsberry, Daniel A and Thies, Eric L and Tenne, Dmitri A and Heron, John and Holtz, Megan E and others},
+  journal={Physical review letters},
+  volume={114},
+  number={21},
+  pages={217602},
+  year={2015},
+  publisher={American Physical Society}
+}
+
+@inproceedings{disseler2015enhanced,
+  title={Enhanced Multiferroicity in LuFeO 3 through Sc Doping},
+  author={Disseler, Steven and Oh, Yoon Seok and Hu, Rongwei and Luo, Xuan and Lynn, Jeff and Cheong, Sang-Wook and Ratcliff, William},
+  booktitle={APS March Meeting Abstracts},
+  volume={2015},
+  pages={L32--013},
+  year={2015}
+}
+
+@article{ratcliff2015intrinsic,
+  title={The intrinsic magnetic structure and ordering of multiferoic h-LuFeO $ \_ $\{$3$\}$ $ Films},
+  author={Ratcliff, William and Disseler, Steven and Borchers, Julie and Brooks, Charles and Mundy, Julia and Moyer, Jarrett and Hillsberry, Daniel and Thies, Eric and Tenne, Dmitri and Heron, John and others},
+  journal={Bulletin of the American Physical Society},
+  volume={60},
+  year={2015},
+  publisher={American Physical Society}
+}
+
+@article{simmons2015high,
+  title={High-pressure magnetotransport measurements of the semimetallic ferromagnet EuB $ \_ $\{$6$\}$ $},
+  author={Simmons, Danielle and Yu, Liuqi and von Molnar, Stephan and Xiong, Peng and Zhu, Jun and Ren, Cong and Fisk, Zachary},
+  journal={Bulletin of the American Physical Society},
+  volume={60},
+  year={2015},
+  publisher={American Physical Society}
+}
+
+@article{saparov2015correction,
+  title={Correction: Corrigendum: Complex structures of different CaFe 2 As 2 samples},
+  author={Saparov, Bayrammurad and Cantoni, Claudia and Pan, Minghu and Hogan, Thomas C and Ratcliff II, William and Wilson, Stephen D and Fritsch, Katharina and Tachibana, Makoto and Gaulin, Bruce D and Sefat, Athena S},
+  journal={Scientific reports},
+  volume={5},
+  number={1},
+  pages={1--1},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+
+@article{disseler2015one,
+  title={One Dimensional (1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn 2 O 4},
+  author={Disseler, SM and Chen, Ying and Yeo, S and Gasparovic, G and Piccoli, PMB and Schultz, AJ and Qiu, Yiming and Huang, Qingzhen and Cheong, S-W and Ratcliff, ll W},
+  journal={Scientific reports},
+  volume={5},
+  number={1},
+  pages={1--9},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+
+@article{chi2011nitrogen,
+  title={Nitrogen contamination in elastic neutron scattering},
+  author={Chi, Songxue and Lynn, Jeffrey W and Chen, Ying and Ratcliff II, William and Ueland, Benjamin G and Butch, Nicholas P and Saha, Shanta R and Kirshenbaum, Kevin and Paglione, Johnpierre},
+  journal={Measurement Science and Technology},
+  volume={22},
+  number={4},
+  pages={047001},
+  year={2011},
+  publisher={IOP Publishing}
+}
+
+@inproceedings{ratcliff2016bayesian,
+  title={Bayesian Library for the Analysis of Neutron Diffraction Data},
+  author={Ratcliff, William and Lesniewski, Joseph and Quintana, Dylan},
+  booktitle={APS March Meeting Abstracts},
+  volume={2016},
+  pages={F46--005},
+  year={2016}
+}
+
+@article{lee82wd,
+  title={WD and Cheong SW 1999},
+  author={Lee, S and Hwang, HY and Shraiman, BI and Ratcliff, II},
+  journal={Phys. Rev. Lett},
+  volume={82},
+  pages={4508}
+}
+
+@article{lee84w,
+  title={W and Cheong SW 2000},
+  author={Lee, SH and Broholm, C and Kim, TH and Ratcliff, II},
+  journal={Phys. Rev. Lett},
+  volume={84},
+  pages={3718}
+}
+
+@article{disseler2014magnetic,
+  title={Magnetic Structure of Hexagonal Mn-doped LuFeO $ \_ $\{$3$\}$ $},
+  author={Disseler, Steven M and Luo, Xuan and Oh, Yoon Seok and Hu, Rongwei and Quintana, Dylan and Zhang, Alexander and Lynn, Jeffrey W and Cheong, Sang-Wook and Ratcliff II, William},
+  journal={arXiv preprint arXiv:1406.7793},
+  year={2014}
+}
+
+@article{ratcliff2016magnetic,
+  title={Magnetic structures and dynamics of multiferroic systems obtained with neutron scattering},
+  author={Ratcliff, William and Lynn, Jeffrey W and Kiryukhin, Valery and Jain, Prashant and Fitzsimmons, Michael R},
+  journal={npj Quantum Materials},
+  volume={1},
+  number={1},
+  pages={1--12},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+
+@article{ratcliff2015william,
+  title={William Ratcliff},
+  author={Ratcliff, William},
+  year={2015}
+}
+
+@article{disseler92multiferroicity,
+  title={Multiferroicity in doped hexagonal LuFeO3},
+  author={Disseler, Steven M. and Luo, Xuan and Gao, Bin and Oh, Yoon Seok and Hu, Rongwei and Wang, Yazhong and Quintana, Dylan and Zhang, Alexander and Huang, Qingzhen and Lau, June and others},
+  journal={Physical Review B},
+  volume={92},
+  pages={054435}
+}
+
+@article{disseler2015multiferroicity,
+  title={Multiferroicity in doped hexagonal LuFeO3},
+  author={Disseler, Steven M. and Luo, Xuan and Gao, Bin and Oh, Yoon Seok and Hu, Rongwei and Wang, Yazhong and Quintana, Dylan and Zhang, Alexander and Huang, Qingzhen and Lau, June and others},
+  journal={Phys. Rev. B},
+  volume={92},
+  pages={054435},
+  year={2015}
+}
+
+@article{mundy2016atomically,
+  title={Atomically engineered ferroic layers yield a room-temperature magnetoelectric multiferroic},
+  author={Mundy, Julia A and Brooks, Charles M and Holtz, Megan E and Moyer, Jarrett A and Das, Hena and R{\'e}bola, Alejandro F and Heron, John T and Clarkson, James D and Disseler, Steven M and Liu, Zhiqi and others},
+  journal={Nature},
+  volume={537},
+  number={7621},
+  pages={523--527},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+
+@article{gao2017electric,
+  title={Electric-field induced reversible switching of the magnetic easy axis in co/bifeo3 on srtio3},
+  author={Gao, Tieren and Zhang, Xiaohang and Ratcliff, William and Maruyama, Shingo and Murakami, Makoto and Varatharajan, Anbusathaiah and Yamani, Zahra and Chen, Peijie and Wang, Ke and Zhang, Huairuo and others},
+  journal={Nano letters},
+  volume={17},
+  number={5},
+  pages={2825--2832},
+  year={2017},
+  publisher={American Chemical Society}
+}
+
+@article{lesniewski2016bayesian,
+  title={Bayesian method for the analysis of diffraction patterns using BLAND},
+  author={Lesniewski, Joseph E and Disseler, Steven M and Quintana, Dylan J and Kienzle, Paul A and Ratcliff, William D},
+  journal={Journal of Applied Crystallography},
+  volume={49},
+  number={6},
+  pages={2201--2209},
+  year={2016},
+  publisher={International Union of Crystallography}
+}
+
+@article{lee2002ii,
+  title={II, G. Gasparovic, Q. Huang, TH Kim, and S.-W. Cheong},
+  author={Lee, SH and Broholm, C and Ratcliff, W},
+  journal={Nature (London)},
+  volume={418},
+  pages={856},
+  year={2002}
+}
+
+@article{adriano2009cd,
+  title={Cd-doping effects in Ce2MIn8 (M= Rh and Ir) heavy fermion compounds},
+  author={Adriano, C and Giles, C and Bittar, EM and Coelho, LN and de Bergevin, F and Mazzoli, C and Paolasini, L and Ratcliff, W and Bindel, R and Lynn, JW and others},
+  journal={arXiv preprint arXiv:0912.4467},
+  year={2009}
+}
+
+@article{lee2008single,
+  title={Single ferroelectric and chiral magnetic domain of single-crystalline BiFeO 3 in an electric field},
+  author={Lee, Seongsu and Choi, Taekjib and W Ratcliff, II and Erwin, R and Cheong, Sang-Wook and Kiryukhin, Valery},
+  journal={Physical Review B},
+  volume={78},
+  number={10},
+  pages={100101},
+  year={2008},
+  publisher={American Physical Society}
+}
+
+@article{kawachi2017successive,
+  title={Successive field-induced transitions in BiFeO 3 around room temperature},
+  author={Kawachi, Shiro and Miyake, Atsushi and Ito, Toshimitsu and Dissanayake, Sachith E and Matsuda, Masaaki and William Ratcliff, II and Xu, Zhijun and Zhao, Yang and Miyahara, Shin and Furukawa, Nobuo and others},
+  journal={Physical Review Materials},
+  volume={1},
+  number={2},
+  pages={024408},
+  year={2017},
+  publisher={American Physical Society}
+}
+
+@article{alam2017structural,
+  title={Structural and magnetic phase transitions in chromium nitride thin films grown by rf nitrogen plasma molecular beam epitaxy},
+  author={Alam, Khan and Disseler, Steven M and Ratcliff, William D and Borchers, Julie A and Ponce-P{\'e}rez, Rodrigo and Cocoletzi, Gregorio H and Takeuchi, Noboru and Foley, Andrew and Richard, Andrea and Ingram, David C and others},
+  journal={Physical Review B},
+  volume={96},
+  number={10},
+  pages={104433},
+  year={2017},
+  publisher={American Physical Society}
+}
+
+@article{chen2012double,
+  title={Double-Focusing Thermal Triple-Axis Spectrometer at the NCNR},
+  author={Chen, Y and Chang, Sung and Zhao, Yang and Chi, Songxue and Ratcliff, William D and Ueland, BG and Erwin, Ross W},
+  year={2012}
+}
+
+@incollection{ratcliff2015multiferroics,
+  title={Multiferroics},
+  author={Ratcliff II, William D and Lynn, Jeffrey W},
+  booktitle={Experimental Methods in the Physical Sciences},
+  volume={48},
+  pages={291--338},
+  year={2015},
+  publisher={Academic Press}
+}
+
+@inproceedings{ratcliff2017effects,
+  title={Effects of Electric Field on the magnetic structure of multiferroic (Sm, Bi) FeO3 films},
+  author={Ratcliff, William and Heikes, Colin and Zhang, Xiaohang and Takeuchi, Ichiro},
+  booktitle={APS March Meeting Abstracts},
+  volume={2017},
+  pages={F43--006},
+  year={2017}
+}
+
+@inproceedings{heikes2017neutron,
+  title={Neutron diffraction and reflectometry measurements of the magnetic structure of BiFeO 3/La x Bi 1-x FeO 3 superlattices},
+  author={Heikes, Colin and Mundy, Julia and Wang, Zhe and Ramesh, R and Schlom, Darrell and Ratcliff, William},
+  booktitle={APS March Meeting Abstracts},
+  volume={2017},
+  pages={F43--007},
+  year={2017}
+}
+
+@inproceedings{song2015developing,
+  title={developing NIST rockwell hardness diamond indenter SRMs based on ISO 6508-3: 2015 standard},
+  author={Song, John and Low, Samuel and Renegar, Thomas B and Ma, Li},
+  year={2015},
+  organization={Proceedings of XXI IMEKO World Congress Measurement in Research and Industry~…}
+}
+
+@article{liu2017pressure,
+  title={Pressure tuning of collapse of helimagnetic structure in Au 2 Mn},
+  author={Liu, I-Lin and Pascale, Maria J and Leao, Juscelino B and Brown, Craig M and Ratcliff, William D and Huang, Qingzhen and Butch, Nicholas P},
+  journal={Physical Review B},
+  volume={96},
+  number={18},
+  pages={184429},
+  year={2017},
+  publisher={American Physical Society}
+}
+
+@article{chang2009magnetic,
+  title={The Magnetic Correlations and Fluctuations in the Geometrically Frustrated Antiferromagnetic Spinel CdCr2O4: An Experiment Using the SPINS Triple-Axis Spectrometer},
+  author={Chang, Sung and Singh, Deepak and Ratcliff, William},
+  year={2009}
+}
+
+@misc{chung2007magnetic,
+  title={The Magnetic Phase Transition and Spin Fluctuations in the Geometrically Frustrated Antiferromagnetic Spinel CdCr2O4: An Experiment Using the SPINS Triple-Axis Spectrometer},
+  author={Chung, Jae-Ho and Kang, Hye-Jung and Ratcliff, William and Gehring, Peter},
+  year={2007},
+  publisher={Summer School on Methods and Applications of Neutron Spectroscopy NIST~…}
+}
+
+@inproceedings{liu2018correlating,
+  title={Correlating the crystal structure and electronic ground state of type-II Weyl semimetal MoTe 2: Transport measurements},
+  author={Liu, I and Heikes, Colin and Yildirim, Taner and Metz, Tristin and Paglione, Johnpierre and Eckberg, Chris and Butch, Nicholas and Ratcliff, William and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2018},
+  pages={P10--004},
+  year={2018}
+}
+
+@inproceedings{lynn2018neutron,
+  title={Neutron Investigation of the Phase Transitions and Dynamics of Multiferroic GaV 4 S 8},
+  author={Lynn, Jeffrey and Ratcliff, William and Bleuel, Markus and Zhang, Lunyong and Cheong, Sang-Wook},
+  booktitle={APS March Meeting Abstracts},
+  volume={2018},
+  pages={B22--010},
+  year={2018}
+}
+
+@inproceedings{heikes2018correlating,
+  title={Correlating the crystal structure and electronic ground state of type-II Weyl semimetal MoTe 2: structural measurements},
+  author={Heikes, Colin and Liu, I and Hung, Linda and Metz, Tristin and Eckberg, Chris and Wu, Yan and Cao, Huibo and Paglione, Johnpierre and Yildirim, Taner and Butch, Nicholas and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2018},
+  pages={P10--003},
+  year={2018}
+}
+
+@inproceedings{ratcliff2018neutron,
+  title={Neutron Investigations of Thin Film Ho 2 Ti 2 O 7},
+  author={Ratcliff, William and Heikes, Colin and Barry, Kevin and Beekman, Christianne},
+  booktitle={APS March Meeting Abstracts},
+  volume={2018},
+  pages={E24--002},
+  year={2018}
+}
+
+@inproceedings{park2018optimized,
+  title={Optimized magnetoelectric coupling at room temperature via the control of spin anisotropy and phase competition in the Co 2 Y-type hexaferrite single crystals},
+  author={Park, Chang Bae and Shin, Kwang Woo and Chun, Sae Hwan and Disseler, Steven and Ratcliff, William and Park, Ju-Young and Kim, Kee},
+  booktitle={APS March Meeting Abstracts},
+  volume={2018},
+  pages={S23--004},
+  year={2018}
+}
+
+@article{ratcliff2009magnetic,
+  title={The magnetic ground state of Formula Not Shown},
+  author={Ratcliff II, W and Lima Sharma, AL and Gomes, AM and Gonzalez, JL and Huang, Q and Singleton, J and others},
+  journal={JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS},
+  volume={321},
+  number={17},
+  pages={2612--2616},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@inproceedings{matsuda2017magnetic,
+  title={Magnetic field induced transitions in BiFeO 3},
+  author={Matsuda, M and Dissanayake, S and Hong, T and Ratcliff, W and Zhao, Y and Xu, Z and Miyahara, S and Furukawa, N and Kawachi, S and Miyake, A and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2017},
+  pages={L37--007},
+  year={2017}
+}
+
+@article{barry2019modification,
+  title={Modification of spin-ice physics in Ho 2 Ti 2 O 7 thin films},
+  author={Barry, Kevin and Zhang, Biwen and Anand, Naween and Xin, Yan and Vailionis, Arturas and Neu, Jennifer and Heikes, Colin and Cochran, Charis and Zhou, Haidong and Qiu, Yiming and others},
+  journal={Physical Review Materials},
+  volume={3},
+  number={8},
+  pages={084412},
+  year={2019},
+  publisher={American Physical Society}
+}
+
+@article{lynn2012ii,
+  title={II, BG Ueland, and RW Erwin},
+  author={Lynn, JW and Chen, Y and Chang, S and Zhao, Y and Chi, S and Ratcliff, W},
+  journal={Journal of Research of NIST},
+  volume={117},
+  number={61},
+  pages={32},
+  year={2012}
+}
+
+@article{moreno2000studies,
+  title={Studies in the antiferromagnetic Zn Cr $\{$sub 2$\}$ O $\{$sub 4$\}$},
+  author={Moreno, NO and Martinho, H and Rettori, C and Huber, DL and Ratcliff, W and Cheong, S-W and Oseroff, SB},
+  year={2000}
+}
+
+@article{sarte2018ordered,
+  title={Ordered magnetism in the intrinsically decorated $ j$\backslash$rm $\{$\_ $\{$eff$\}$$\}$ $= $$\backslash$frac $\{$1$\}$$\{$2$\}$ $$$\backslash$alpha $-CoV $ \_ $\{$3$\}$ $ O $ \_ $\{$8$\}$ $},
+  author={Sarte, PM and Ar{\'e}valo-L{\'o}pez, AA and Songvilay, M and Le, D and Guidi, T and Garc{\'\i}a-Sakai, V and Mukhopadhyay, S and Capelli, SC and Ratcliff, WD and Hong, KH and others},
+  journal={arXiv preprint arXiv:1811.00395},
+  year={2018}
+}
+
+@article{sarte2018ordered,
+  title={Ordered magnetism in the intrinsically decorated j eff= 1 2 $\alpha$- CoV 3 O 8},
+  author={Sarte, PM and Ar{\'e}valo-L{\'o}pez, AM and Songvilay, M and Le, D and Guidi, T and Garc{\'\i}a-Sakai, V and Mukhopadhyay, S and Capelli, SC and Ratcliff, William D and Hong, Ka H and others},
+  journal={Physical Review B},
+  volume={98},
+  number={22},
+  pages={224410},
+  year={2018},
+  publisher={American Physical Society}
+}
+
+@article{dritschel2015ergodicity,
+  title={Ergodicity and spectral cascades in point vortex flows on the sphere},
+  author={Dritschel, David G and Lucia, Marcello and Poje, Andrew C},
+  journal={Physical Review E},
+  volume={91},
+  number={6},
+  pages={063014},
+  year={2015},
+  publisher={American Physical Society}
+}
+
+@article{songvilay2018lifetime,
+  title={Lifetime-shortened acoustic phonons and static order at the Brillouin zone boundary in the organic-inorganic perovskite CH 3 NH 3 PbCl 3},
+  author={Songvilay, M and Bari, M and Ye, Z-G and Xu, Guangyong and Gehring, Peter M and Ratcliff, William D and Schmalzl, K and Bourdarot, Frederic and Roessli, B and Stock, Christopher},
+  journal={Physical review materials},
+  volume={2},
+  number={12},
+  pages={123601},
+  year={2018},
+  publisher={American Physical Society}
+}
+
+@article{mundy2018high,
+  title={A high-energy density antiferroelectric made by interfacial electrostatic engineering},
+  author={Mundy, Julia A and Heikes, Colin A and Grosso, Bastien F and Segedin, Dan Ferenc and Wang, Zhe and Goodge, Berit H and Meier, Quintin N and Nelson, Christopher T and Prasad, Bhagwati and Kourkoutis, Lena F and others},
+  journal={arXiv preprint arXiv:1812.09615},
+  year={2018}
+}
+
+@inproceedings{grutter2019revealing,
+  title={Revealing Proximity Effects at Magnetic Topological Insulator/Antiferromaget Interfaces},
+  author={Grutter, Alexander and He, Qing Lin and Yin, Gen and Pan, Lei and Yang, Chao-Yao and Che, Xiaoyu and Gilbert, Dustin and Disseler, Steven and Kirby, Brian and Borchers, Julie and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2019},
+  pages={Y03--013},
+  year={2019}
+}
+
+@inproceedings{liu2019electronic,
+  title={Electronic structure of the candidate Weyl phase in MoTe2},
+  author={Liu, I and Heikes, Colin and Eckberg, Chris and Butch, Nicholas and Ratcliff, William and Paglione, Johnpierre and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2019},
+  pages={H04--010},
+  year={2019}
+}
+
+@inproceedings{heikes2019pressure,
+  title={Pressure evolution of the low temperature crystal structure of superconducting Weyl semimetal candidate MoTe 2},
+  author={Heikes, Colin and Liu, I and Yildirim, Taner and Butch, Nicholas and Ratcliff, William and others},
+  booktitle={APS March Meeting Abstracts},
+  volume={2019},
+  pages={H04--009},
+  year={2019}
+}
+
+@inproceedings{ratcliff2019dynamics,
+  title={Dynamics in Multiferroic Skyrmion GaV 4 S 8},
+  author={Ratcliff, William and Lynn, Jeffrey and Bleuel, Markus and Zhang, Lunyong and Cheong, Sang-Wook},
+  booktitle={APS March Meeting Abstracts},
+  volume={2019},
+  pages={H41--013},
+  year={2019}
+}
+
+@inproceedings{poudel2019competing,
+  title={Competing incommensurate orders in a heavy fermion antiferromagnet CeNiGe 2},
+  author={Poudel, Lekh and Zhao, Yang and Xu, Zhijun and Ratcliff, William and Paglione, Johnpierre and Lynn, Jeffrey},
+  booktitle={APS March Meeting Abstracts},
+  volume={2019},
+  pages={P06--008},
+  year={2019}
+}
+
+@article{bergk2010magnetic,
+  title={Magnetic-Torque Evidence for the Fulde-Ferrell-Larkin-Ovchinnikov State for In-Plane Magnetic Fields in the Organic Superconductor k-(BEDT-TTF) 2Cu (NCS) 2},
+  author={Bergk, B and Demuer, A and Sheikin, I and Wang, Y and Wosnitza, J and Nakazawa, Y and Lortz, R},
+  journal={arXiv preprint arXiv:1008.3747},
+  year={2010}
+}
+
+@article{lee1999condensed,
+  title={Condensed Matter: Electronic Properties, etc-Intergrain Magnetoresistance via Second-Order Tunneling in Perovskite Manganites},
+  author={Lee, S and Hwang, HY and Shraiman, Boris I and Ratcliff II, WD and Cheong, SW},
+  journal={Physical Review Letters},
+  volume={82},
+  number={22},
+  pages={4508--4511},
+  year={1999},
+  publisher={[Woodbury, NY, etc.] American Physical Society.}
+}
+
+@article{gao2016electric,
+  title={Electric-field Induced Reversible Switching of the Magnetic Easy-axis in Co/BiFeO3/SrRuO3/SrTiO3 Heterostructures},
+  author={Gao, TR and Zhang, XH and Ratcliff II, W and Maruyama, S and Murakami, M and Anbusathaiah, V and Yamani, Z and Chen, PJ and Shull, R and Ramesh, R and others},
+  journal={arXiv preprint arXiv:1611.07482},
+  year={2016}
+}
+
+@article{lee92cheong,
+  title={Cheong, and V. Kiryukhin. Electric field control of the magnetic state in BiFeO3 single crystals},
+  author={Lee, Seoungsu and Ratcliff, W and II, SW},
+  journal={APPLIED PHYSICS LETTERS},
+  volume={92},
+  pages={19}
+}
+
+@article{nambu2011incommensurate,
+  title={Incommensurate Magnetism in FeAs Strips: Neutron Scattering from CaFe4As3 (vol 106, 037201, 2011)},
+  author={Nambu, Yusuke and Zhao, Liang L and Morosan, Emilia and Kim, Kyoo and Kotliar, Gabriel and Zajdel, Pawel and Green, Mark A and Ratcliff, William and Rodriguez-Rivera, Jose A and Broholm, Collin},
+  journal={PHYSICAL REVIEW LETTERS},
+  volume={107},
+  number={5},
+  year={2011},
+  publisher={AMER PHYSICAL SOC ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA}
+}
+
+@article{maranville2018reductus,
+  title={Reductus: A stateless python data reduction service with a browser front end},
+  author={Maranville, Brian and Ratcliff, William and Kienzle, Paul},
+  journal={Journal of Applied Crystallography},
+  volume={51},
+  number={5},
+  pages={1500--1506},
+  year={2018},
+  publisher={International Union of Crystallography}
+}
+
+@article{de2008ii,
+  title={II, JL Zarestky, HA Mook, GF Chen, JL Luo, NL Wang, and P. Dai},
+  author={de la Cruz, Clarina and Huang, Q and Lynn, JW and Li, Jiying and Ratcliff, W},
+  journal={Nature},
+  volume={453},
+  pages={899},
+  year={2008}
+}
+
+@article{mcdonald2019exchange,
+  title={Exchange Bias in Bulk $\alpha$-Fe/$\gamma$-Fe70Mn30 Nanocomposites for Permanent Magnet Applications},
+  author={McDonald, IJ and Jamer, Michelle E and Krycka, Kathryn L and Anber, E and Foley, D and Lang, AC and Ratcliff, William D and Heiman, D and Taheri, ML and Borchers, Julie A and others},
+  journal={ACS Applied Nano Materials},
+  volume={2},
+  number={4},
+  pages={1940--1950},
+  year={2019},
+  publisher={American Chemical Society}
+}
+
+@article{martinho2001w,
+  title={W.; Cheong, SW; Pagliuso, PG; Sarrao, JL; Martins, GB},
+  author={Martinho, H and Moreno, NO and Sanjurjo, JA and Rettori, C and Garcia-Adeva, AJ and Huber, DL and Oseroff, SB and Ratcliff, II},
+  journal={Phys. Rev. B},
+  volume={64},
+  pages={024408},
+  year={2001}
+}
+
+@article{obeng2015evaluation,
+  title={Evaluation of Product Authentication Technologies: A Detailed Evaluation of the Current And Emerging Technologies},
+  author={Obeng, Yaw S},
+  year={2015}
+}
+
+@article{martinho2001magnetic,
+  title={Magnetic properties of the frustrated antiferromagnetic spinel (formula presented) and the spin-glass (formula presented)(formula presented)},
+  author={Martinho, H and Moreno, NO and Sanjurjo, JA and Rettori, C and Garc{\'\i}a-Adeva, AJ and Huber, DL and Oseroff, SB and Ratcliff, W and Cheong, Sang-Wook and Pagliuso, PG and others},
+  journal={Physical Review B-Condensed Matter and Materials Physics},
+  volume={64},
+  number={2},
+  year={2001},
+  publisher={American Physical Society}
+}
+
+@article{lee2019spin,
+  title={Spin scattering and noncollinear spin structure-induced intrinsic anomalous Hall effect in antiferromagnetic topological insulator MnB i 2 T e 4},
+  author={Lee, Seng Huat and Zhu, Yanglin and Wang, Yu and Miao, Leixin and Pillsbury, Timothy and Yi, Hemian and Kempinger, Susan and Hu, Jin and Heikes, Colin A and Quarterman, P and others},
+  journal={Physical Review Research},
+  volume={1},
+  number={1},
+  pages={012011},
+  year={2019},
+  publisher={American Physical Society}
+}
+
+@article{heikes2018mechanical,
+  title={Mechanical control of crystal symmetry and superconductivity in Weyl semimetal MoTe 2},
+  author={Heikes, Colin and Liu, I-Lin and Metz, Tristin and Eckberg, Chris and Neves, Paul and Wu, Yan and Hung, Linda and Piccoli, Phil and Cao, Huibo and Leao, Juscelino and others},
+  journal={Physical Review Materials},
+  volume={2},
+  number={7},
+  pages={074202},
+  year={2018},
+  publisher={APS}
+}
+
+@article{kumar2009evolution,
+  title={Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in CaFe 2- x Ni x As 2},
+  author={Kumar, Neeraj and Chi, Songxue and Chen, Ying and Rana, Kumari Gaurav and Nigam, AK and Thamizhavel, A and William Ratcliff, II and Dhar, SK and Lynn, Jeffrey W},
+  journal={Physical Review B},
+  volume={80},
+  number={14},
+  pages={144524},
+  year={2009},
+  publisher={APS}
+}
+
+@article{he2017tailoring,
+  title={Tailoring exchange couplings in magnetic topological-insulator/antiferromagnet heterostructures},
+  author={He, Qing Lin and Kou, Xufeng and Grutter, Alexander J and Yin, Gen and Pan, Lei and Che, Xiaoyu and Liu, Yuxiang and Nie, Tianxiao and Zhang, Bin and Disseler, Steven M and others},
+  journal={Nature materials},
+  volume={16},
+  number={1},
+  pages={94--100},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{kumar2009songxue,
+  title={Songxue Chi, Ying Chen, Kumari Gaurav Rana, AK Nigam, A. Thamizhavel, William Ratcliff, II, SK Dhar, and Jeffrey W. Lynn. Evolution of the bulk properties, structure, magnetic order, and superconductivity with Ni doping in CaFe2- xNixAs2},
+  author={Kumar, Neeraj},
+  journal={Phys. Rev. B},
+  volume={80},
+  pages={144524},
+  year={2009}
+}
+
+@article{s2019fe2mnge,
+  title={Fe2MnGe:  A Hexagonal Heusler Analogue},
+  author={S. Keshavarz, N. Naghibolashra, M.E. Jamer, K. Vinson, D. Mazumdar, C.L. Dennis, W. Ratcliff II, J.A. Borchers, A. Gupta, P. LeClair},
+  journal={Journal of Alloys and Compounds},
+  volume={771},
+  pages={793},
+  year={2019}
+}
+
+@article{songvilay2019common,
+  title={Common acoustic phonon lifetimes in inorganic and hybrid lead halide perovskites},
+  author={Songvilay, M and Giles-Donovan, Nathan and Bari, M and Ye, Z-G and Minns, JL and Green, MA and Xu, Guangyong and Gehring, PM and Schmalzl, K and Ratcliff, WD and others},
+  journal={Physical review materials},
+  volume={3},
+  number={9},
+  pages={093602},
+  year={2019},
+  publisher={American Physical Society}
+}
+
+@article{lee1999persistent,
+  title={Persistent currents on networks},
+  author={Lee, S and Hwang, HY and Shraiman, Boris I and Ratcliff, WD and Cheong, Sang-Wook},
+  journal={Physical review letters},
+  volume={82},
+  number={22},
+  pages={4508--4511},
+  year={1999},
+  publisher={American Physical Society}
+}
+
+@article{christovam2019spin,
+  title={Spin rotation induced by applied pressure in the Cd-doped Ce 2 RhIn 8 intermetallic compound},
+  author={Christovam, DS and Giles, C and Mendon{\c{c}}a-Ferreira, L and Leao, Juscelino and Ratcliff, W and Lynn, Jeffrey W and Ramos, S and Hering, EN and Hidaka, H and Baggio-Saitovich, E and others},
+  journal={Physical Review B},
+  volume={100},
+  number={16},
+  pages={165133},
+  year={2019},
+  publisher={American Physical Society}
+}
+
+@article{dally2019magnetic,
+  title={Magnetic skyrmion spin texture hosts and detection using small-angle neutron scattering},
+  author={Dally, RL and Ratcliff, WD and Bleuel, M and Zhang, L and Cheong, SW and Lynn, JW},
+  journal={Foundations of Crystallography},
+  year={2019}
+}
+
+@article{heikes2020magnetic,
+  title={Magnetic structure evolution in the Mn (Bi, Sb) 2 Te 4 family of intrinsic magnetic topological insulators},
+  author={Heikes, Colin and Quarterman, Patrick and Chen, Yangyang and Chuang, Ya-Wen and Lee, Seng Huat and Zhu, Yanglin and Honz, Kevin and Guan, Yingdong and Wang, Yu and Wang, Ke and others},
+  journal={Bulletin of the American Physical Society},
+  volume={65},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{yildirim2020pressure,
+  title={Pressure Control of Crystal Symmetry, Fermi Surface Reconstruction and Superconductivity in Weyl semimetal MoTe 2},
+  author={Yildirim, Taner and Liu, I-Lin and Heikes, Colin and Eckberg, Chris and Metz, Tristin and Ran, Sheng and Ratcliff, William and Paglione, Johnpierre and Butch, Nicholas},
+  journal={Bulletin of the American Physical Society},
+  volume={65},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{ratcliff2021using,
+  title={Using Reinforcement Learning to Optimize Crystal Structure Determination},
+  author={Ratcliff, William and Kienzle, Paul and Meuse, Kate and Opsahl-Ong, Jessica and Cho, Ryan and Rath, Joseph and Wilson, Abigail and Yan, Telon},
+  journal={Bulletin of the American Physical Society},
+  year={2021},
+  publisher={American Physical Society}
+}
+
+@article{lee2008w,
+  title={W., Cheong S.-W. \& Kiryukhin V},
+  author={Lee, S and Ratcliff, II},
+  journal={Electric field control of the magnetic state in BiFeO},
+  volume={3},
+  year={2008}
+}
+
+@article{zhaospin,
+  title={Spin and Lattice Structure of Single Crystal SrFe 2 As 2},
+  author={Zhao, Jun and Ratcliff II, W and Lynn, JW and Chen, GF and Luo, JL and Wang, NL and Hu, Jiangping and Dai, Pengcheng}
+}
+
+@article{songvilay2019anharmonic,
+  title={Anharmonic Acoustic Phonons and A-site Critical Fluctuations in the Lead Halide Perovskite CsPbBr3},
+  author={Songvilay, M and Giles-Donovan, Nathan and Bari, M and Ye, Z-G and Minns, JL and Green, MA and Xu, Guangyong NMN and Gehring, Peter M and Schmalzl, K and Ratcliff, William D and others},
+  year={2019}
+}
+
+@article{piva2020electronic,
+  title={Electronic and magnetic properties of stoichiometric CeAuBi 2},
+  author={Piva, MM and Tartaglia, R and Freitas, GS and Souza, JC and Christovam, DS and Thomas, SM and Le{\~a}o, Juscelino B and Ratcliff, W and Lynn, Jeffrey W and Lane, C and others},
+  journal={Physical Review B},
+  volume={101},
+  number={21},
+  pages={214431},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{ratcliffmagnetic,
+  title={Magnetic Structure of BiFeO3 thin films},
+  author={Ratcliff II, W and Yamani, Zahra and Anbusathaiah, V and Gao, TR and Kienzle, PA and Cao, H and Takeuchi, I}
+}
+
+@inproceedings{ramazanoglu2011magnetic,
+  title={Magnetic Order in single-crystal BiFeO 3},
+  author={Ramazanoglu, Mehmet and Cheong, Sang-Wook and Kiryukhin, Valery and Ratcliff, William and Lee, S},
+  booktitle={APS March Meeting Abstracts},
+  volume={2011},
+  pages={P33--005},
+  year={2011}
+}
+
+@article{dally2020magnetic,
+  title={Magnetic phase transitions and spin density distribution in the molecular multiferroic system GaV 4 S 8},
+  author={Dally, Rebecca L and Ratcliff, William D and Zhang, Lunyong and Kim, Heung-Sik and Bleuel, Markus and Kim, JW and Haule, Kristjan and Vanderbilt, David and Cheong, Sang-Wook and Lynn, Jeffrey W and others},
+  journal={Physical Review B},
+  volume={102},
+  number={1},
+  pages={014410},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{wu2020large,
+  title={Large exchange splitting in monolayer graphene magnetized by an antiferromagnet},
+  author={Wu, Yingying and Yin, Gen and Pan, Lei and Grutter, Alexander J and Pan, Quanjun and Lee, Albert and Gilbert, Dustin A and Borchers, Julie A and Ratcliff, William and Li, Ang and others},
+  journal={Nature Electronics},
+  volume={3},
+  number={10},
+  pages={604--611},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{yang2020termination,
+  title={Termination switching of antiferromagnetic proximity effect in topological insulator},
+  author={Yang, Chao-Yao and Pan, Lei and Grutter, Alexander J and Wang, Haiying and Che, Xiaoyu and He, Qing Lin and Wu, Yingying and Gilbert, Dustin A and Shafer, Padraic and Arenholz, Elke and others},
+  journal={Science advances},
+  volume={6},
+  number={33},
+  pages={eaaz8463},
+  year={2020},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{liu2020quantum,
+  title={Quantum oscillations from networked topological interfaces in a Weyl semimetal},
+  author={Liu, I-Lin and Heikes, Colin and Yildirim, Taner and Eckberg, Chris and Metz, Tristin and Kim, Hyunsoo and Ran, Sheng and Ratcliff, William D and Paglione, Johnpierre and Butch, Nicholas P},
+  journal={npj Quantum Materials},
+  volume={5},
+  number={1},
+  pages={1--7},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{christovam2020evolution,
+  title={Evolution of the magnetic properties in the antiferromagnet Ce 2 RhIn 8 simultaneously doped with Cd and Ir},
+  author={Christovam, DS and Freitas, GS and Piva, MM and Souza, JC and Malcolms, MO and Canton, OL and Leao, JB and Ratcliff, W and Lynn, JW and Adriano, C and others},
+  journal={Physical Review B},
+  volume={102},
+  number={19},
+  pages={195137},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{songvilay2020kitaev,
+  title={Kitaev interactions in the Co honeycomb antiferromagnets Na 3 Co 2 SbO 6 and Na 2 Co 2 TeO 6},
+  author={Songvilay, M and Robert, J and Petit, S and Rodriguez-Rivera, JA and Ratcliff, WD and Damay, F and Bal{\'e}dent, V and Jim{\'e}nez-Ruiz, M and Lejay, P and Pachoud, E and others},
+  journal={Physical Review B},
+  volume={102},
+  number={22},
+  pages={224429},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{obeysekera2020novel,
+  title={Novel Multiferroic triangular lattice antiferromagnet RbFe (SO $ \_ $\{$$\backslash$mathrm $\{$4$\}$$\}$) \_ $\{$$\backslash$mathrm $\{$2$\}$$\}$ $},
+  author={Obeysekera, Dimuthu and Neal, Sabine and Ratcliff, William and Musfeldt, Janice and Liu, Sizhan and Tyson, Trevor and Yang, Junjie},
+  journal={Bulletin of the American Physical Society},
+  volume={65},
+  year={2020},
+  publisher={American Physical Society}
+}
+
+@article{sun2021anisotropic,
+  title={Anisotropic conductivity in monolayer WTe 2},
+  author={Sun, Bosong and Malinowski, Paul and Fei, Zaiyao and Palomaki, Tauno and Huang, Xiong and Runburg, Elliott and Cui, Yongtao and Chu, Jiun-Haw and Xu, Xiaodong and Cobden, David},
+  journal={Bulletin of the American Physical Society},
+  year={2021},
+  publisher={American Physical Society}
+}
+
+@article{park2021control,
+  title={Control of magnetoelectric coupling in the Co 2 Y-type hexaferrites},
+  author={Park, Chang Bae and Shin, Kwang Woo and Chun, Sae Hwan and Lee, Jun Han and Oh, Yoon Seok and Disseler, Steven M and Heikes, Colin A and Ratcliff, William D and Noh, Woo-Suk and Park, Jae-Hoon and others},
+  journal={Physical Review Materials},
+  volume={5},
+  number={3},
+  pages={034412},
+  year={2021},
+  publisher={American Physical Society}
+}
+
+@article{ede2021intermediate,
+  title={Intermediate Sr2Co1. 5Fe0. 5O6- $\delta$ Tetragonal Structure between Perovskite and Brownmillerite as a Model Catalyst with Layered Oxygen Deficiency for Enhanced Electrochemical Water Oxidation},
+  author={Ede, Sivasankara Rao and Collins, Candyce N and Posada, Carlos D and George, Gibin and Wu, Hui and Ratcliff, William D and Lin, Yulin and Wen, Jianguo and Han, Shubo and Luo, Zhiping},
+  journal={ACS Catalysis},
+  volume={11},
+  number={7},
+  pages={4327--4337},
+  year={2021},
+  publisher={American Chemical Society}
+}
+
+@phdthesis{ratcliff2003emergent,
+  title={Emergent properties of magnetic materials},
+  author={Ratcliff II, William Davis},
+  year={2003},
+  school={Rutgers The State University of New Jersey-New Brunswick}
+}
+
+@article{kim2021magnetic,
+  title={Magnetic ordering and structural distortion in a PrFeAsO single crystal studied by neutron and x-ray scattering},
+  author={Kim, MG and W Ratcliff, II and Pajerowski, DM and Kim, J-W and Yan, J-Q and Lynn, JW and Goldman, AI and Kreyssig, A},
+  journal={Physical Review B},
+  volume={103},
+  number={17},
+  pages={174405},
+  year={2021},
+  publisher={American Physical Society}
+}
+
+@article{martinho2000magnetic,
+  title={Magnetic properties of the frustrated AFM spinel ZnCr\_2O\_4 and the spin-glass Zn\_ $\{$1-x$\}$ Cd\_xCr\_2O\_4 (x= 0.05, 0.10)},
+  author={Martinho, H and Moreno, NO and Sanjurjo, JA and Rettori, C and Garcia-Adeva, AJ and Huber, DL and Oseroff, SB and Ratcliff II, W and Cheong, S-W and Pagliuso, PG and others},
+  journal={arXiv preprint cond-mat/0011171},
+  year={2000}
+}
+
+@article{macy2021magnetic,
+  title={Magnetic field-induced non-trivial electronic topology in Fe $ \_ $\{$3-x$\}$ $ GeTe $ \_2$},
+  author={Macy, Juan and Ratkovski, Danilo and Balakrishnan, Purnima P and Strungaru, Mara and Chiu, Yu-Che and Flessa, Aikaterini and Moon, Alex and Zheng, Wenkai and Weiland, Ashley and McCandless, Gregory T and others},
+  journal={arXiv preprint arXiv:2106.09861},
+  year={2021}
+}
+
+@article{ede2021synthesis,
+  title={Synthesis and Characterization of Sr2Co2-xFexO5+ d Perovskite Oxides},
+  author={Ede, Sivasankara Rao and Poasada, Carlos and Guffie, Jessa and Ratcliff, William and Wu, Hui and Han, Shubo and Luo, Zhiping},
+  journal={Microscopy and Microanalysis},
+  volume={27},
+  number={S1},
+  pages={714--715},
+  year={2021},
+  publisher={Cambridge University Press}
+}

@@ -1,0 +1,118 @@
+Hi Nick,
+
+Here are my accomplishments for the year.
+
+Thanks,
+William
+
+ 
+Papers
+
+"Systematics of Neural Networks and Crystal Structure Classification"
+Elizabeth Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Harshita Dwarcherla, Paul Kienzle, William Ratcliff
+Digital Discovery (in-progress)
+
+"Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry"
+Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law
+ACS Nano (submitted)
+
+"Autonomous data collection for the neutron spin echo response function"
+Robert Huarcaya,1 Austin McDannald,2 William D. Ratcliff,1,3 David P. Hoogerheide1de
+APL Materials (about to resubmit)
+
+"Multiferroicity and phase diagram of ferro-rotational magnet RbFe(SO4)2"
+Junjie Yang, Dimuthu Obeysekera, **William D. Ratcliff**, Lu Li, Sabine N. Neal, Janice L. Musfeldt, Shinichiro Yano
+Journal of Physics: Condensed Matter* **37** (17), 175701 (2025)
+[https://doi.org/10.1088/1361-648X/adc064](https://doi.org/10.1088/1361-648X/adc064) ([New Jersey Institute of Technology][1])
+
+"Local Inversion Symmetry Breaking and Thermodynamic Evidence for Ferrimagnetism in Fe3GaTe2"
+Sang-Eon Lee, Yue Li, Yeonkyu Lee, W. Kice Brown, PeiYu Cai, Jinyoung Yun, Chanyoung Lee, Alex Moon, Lingrui Mei, Jaeyong Kim, Yan Xin, Julie A. Borchers, Thomas W. Heitmann, Matthias Frontzek, **William D. Ratcliff**, Gregory T. McCandless, Julia Y. Chan, Elton J. G. Santos, Jeehoon Kim, Charudatta M. Phatak, Vadym Kulichenko, Luis Balicas
+*ACS Nano* **19** (31), 28702–28718 (2025)
+[https://doi.org/10.1021/acsnano.5c08312](https://doi.org/10.1021/acsnano.5c08312) ([PubMed][2])
+
+
+CORE Students
+Edward Friedman (Wheaton High School, Carnegie Mellon University) 2024,2025
+ 
+SHIP Students
+Aditya Purohit 2025
+ 
+External Undergraduates
+Elizabetth Baggett (Boston College) 2024,2025
+Dan Luu Nguyen (Berkeley) 2024,2025
+Texas Doehring (Mount Union)
+
+External Masters Students
+Ahbhishek Shetty (Berkeley) 2025
+Jasmol Singh Dhesi (Berkeley) 2025
+Vanellsa Acha (Berkeley) 2025
+Harshita Dwarcherla (Berkeley) 2025
+Derrick Chan-Sew (Berkeley) 2025
+
+Additional Guest Researchers
+Sougata Mardanya (postdoc Howard)
+Sinan  Sevim (gaduate student Howard) 
+ 
+Committees/Editing
+Science Advances Associate Editor
+Secretary, Neutron Scattering Society of America (Jan 2023–present) 
+APS Committee on Honors (2023–2025) 
+NIST AI-COI Member-at-Large, representing NCNR (2022–present) 
+APS Topical Group Roles:
+Past Chair, Topical Group on Data Science (Mar 2024 – Mar 2025)
+Chair-Elect, Topical Group on Magnetism (Mar 2024 – Mar 2025)
+Chair, Topical Group on Magnetism (Mar 2025 – Mar 2026)
+ 
+
+Physics Projects
+Kagome Flat bands
+Altermagnets
+Confined Spin Ice
+High Entropy Magnetic alloys
+
+AI Projects
+Predicting Space Group from Powder Diffraction data (writing/finishing calculations)
+Order Parameter automation (tested on WAND2--collaborators extending to NOMAD, POWGEN--need to reintegrage into NICE)
+Crystal CoPilot (Worked on SHIP student to incorporate Q/A from previous instrument papers, interface to angle/reciprocal space calculations, will extend to resolution calculations, PSD calculations, etc)
+Magnetic Structure Database Extension/Spinwave Excitation Database extension via LLMS--discussing with Chief Publishing Officer APS about use of their data to train LLMs for data extraction
+
+Proposals Supporting (not PI)
+NSF CSSI grant for database of diffraction patterns
+DOE Altermagnetism and Neutron Scattering--invited full proposal
+
+Grants Appplied For
+Invited Full Proposal AIP Venture fund for Data Science for Physicists
+
+ 
+Reviews
+Moore Foundation
+ORNL SRC
+Numerous journals
+
+Instrument
+No neutrons
+
+Software
+ICP Planner now linked to BT-7 webpage
+
+Talks
+
+"Single Crystal Diffraction", 1st Neutron Scattering School (invited) (2025)
+
+"Accelerating Materials Discovery: The Role of AI in Neutron Scattering Research", American Physical Society Global Physics Summit, Anaheim, CA (2025) (invited)
+
+"Neural Networks for Physicists", Data Science for Physicists Short Course, American Physical Society Global Physics Summit, Anaheim, CA (2025) (invited)
+
+"Applications of Artificial Intelligence to Neutron Scattering", Invited, Department of Physics, James Madison University (2025) (invited)
+
+"Applications of Artificial Intelligence to Neutron Scattering", Invited, Department of Physics, University of Buffalo (2025) (invited)
+
+"Applications of Artificial Intelligence to Neutron Scattering", Invited, Georgetown Data Science and Analytics Program (2025) (invited)
+
+
+
+Workshops organized
+
+APS GMAG component of the APS March meeting 2025
+
+Data Science for Physicists Short Course, APS Global Physics Summit (2025)

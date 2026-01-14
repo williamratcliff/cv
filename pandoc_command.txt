@@ -1,1 +1,1 @@
-pandoc -s -f rst -t latex -o william_ratclif_cv.pdf -c basic.css cv.rst
+pandoc -s -f rst -t latex -o william_ratclif_cv_2023.pdf -c basic.css cv_rosanita_edit.rst
