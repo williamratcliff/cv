@@ -5,7 +5,7 @@ title: Home
 
 # Dr. William Ratcliff II
 
-<img src="/assets/images/profile.jpg" alt="William Ratcliff" style="float: right; margin-left: 20px; width: 200px; border-radius: 10px;">
+<img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="William Ratcliff" style="float: right; margin-left: 20px; width: 200px; border-radius: 10px;">
 
 I am a **Physicist** at the [NIST Center for Neutron Research](https://www.nist.gov/ncnr) and an **Adjunct Associate Professor** at the [University of Maryland](https://umd.edu) in both the [Physics](https://umdphysics.umd.edu) and [Materials Science & Engineering](https://mse.umd.edu) departments.
 
