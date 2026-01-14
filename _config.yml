@@ -1,0 +1,58 @@
+# Site settings
+title: William Ratcliff
+description: Physicist at NIST | Fellow of American Physical Society | AI & Neutron Scattering
+baseurl: ""
+url: "https://williamratcliff.github.io"
+
+# Author
+author:
+  name: William Ratcliff II
+  email: william.ratcliff@nist.gov
+
+# Social links
+twitter_username: william_ratcliff
+linkedin_url: https://www.linkedin.com/in/william-ratcliff-6539953b/
+nist_url: https://www.nist.gov/people/william-d-ratcliff
+umd_physics_url: https://umdphysics.umd.edu/people/faculty/adjunct-faculty/item/1907-wratclif.html
+umd_mse_url: https://mse.umd.edu/clark/faculty/1760/William-Ratcliff
+google_scholar: https://scholar.google.com/citations?user=Xly2-LYAAAAJ&hl=en
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - archive/
+  - "*.rst"
+  - pandoc_command.txt
+  - tex2pdf.*
+  - cv_old/
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
+# Show excerpts on homepage
+show_excerpts: true

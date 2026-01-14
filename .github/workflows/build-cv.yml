@@ -1,0 +1,89 @@
+name: Build CV and Deploy
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'cv.md'
+      - 'cv_rosanita_edit.rst'
+      - '**.md'
+      - '_config.yml'
+      - '_posts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Build CV PDF from RST
+        run: |
+          pandoc -s -f rst -t pdf -o assets/william_ratcliff_cv.pdf cv_rosanita_edit.rst
+        continue-on-error: true
+
+      - name: Build CV PDF from Markdown (fallback)
+        if: failure()
+        run: |
+          pandoc -s -f markdown -t pdf -o assets/william_ratcliff_cv.pdf cv.md
+
+      - name: Commit PDF if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/william_ratcliff_cv.pdf || true
+          git diff --staged --quiet || git commit -m "Auto-build CV PDF"
+          git push || true
+
+  deploy:
+    needs: build-cv
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Jekyll
+        run: |
+          gem install bundler jekyll
+          bundle install || gem install minima jekyll-feed jekyll-seo-tag
+          bundle exec jekyll build || jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
