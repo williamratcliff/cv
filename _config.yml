@@ -1,8 +1,8 @@
 # Site settings
 title: William Ratcliff
 description: Physicist at NIST | Fellow of American Physical Society | AI & Neutron Scattering
-baseurl: "/cv"
-url: "https://williamratcliff.github.io"
+baseurl: ""
+url: "https://williamratcliff.com"
 
 # Author
 author:
