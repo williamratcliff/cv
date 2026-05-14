@@ -77,6 +77,8 @@ APS Innovation Fund Data Science Education Community of Practice $200,000 for tw
 ## Selected Honors and Memberships
 
 - **Fellow of American Physical Society**
+- Editorial Board, PRX: Intelligence (2026-present)
+- APS Committee on Council Committees (January 2026-present)
 - Chair APS Topical Group on Magnetism (March 2025 - March 2026)
 - Past Chair APS Topical Group on Data Science (March 2024 - March 2025)
 - Secretary, Neutron Scattering Society of America (January 2023-present)
