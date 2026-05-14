@@ -69,38 +69,47 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ## Grants
 
-AIP Venture Grant Data Science Education Community of Practice $100 K for two years (2025)
-APS Innovation Fund Data Science Education Community of Practice $200,000 for two years (2021)
+- AIP Venture Grant — Data Science Education Community of Practice, $100K for two years (2025)
+- APS Innovation Fund — Data Science Education Community of Practice, $200,000 for two years (2021)
 
 ---
 
-## Selected Honors and Memberships
+## Honors, Service, and Memberships
+
+### Honors
 
 - **Fellow of American Physical Society**
-- Editorial Board, PRX: Intelligence (2026-present)
-- APS Committee on Council Committees (January 2026-present)
-- Chair APS Topical Group on Magnetism (March 2025 - March 2026)
-- Past Chair APS Topical Group on Data Science (March 2024 - March 2025)
-- Secretary, Neutron Scattering Society of America (January 2023-present)
-- **Associate Editor of Science Advances (2019-present)**
 - Neutron Scattering Society of America Service Award (2022)
 - NIST Bronze Medal (2021, 2012)
-- NIST AI-COI Member at large representing NCNR (2022-present)
-- Advisory board CREST Center for Research and Education in Quantum Leap Science and Technology at Norfolk State University (2021)
+- Minority in Research Science Trailblazer award (24th annual BEYA STEM) (2010)
+- NRC Postdoctoral Fellowship (2003-2005)
+
+### Service and Leadership
+
+- **APS Committee on Council Committees (January 2026-present)**
+- **Editorial Board, PRX: Intelligence (2026-present)**
+- **Past Chair APS Topical Group on Magnetism (March 2026 - March 2027)**
+- **Chair APS Topical Group on Magnetism (March 2025 - March 2026)**
+- **Past Chair APS Topical Group on Data Science (March 2024 - March 2025)**
 - Member APS Committee on Honors (January 2023-December 2025)
 - APS Mission and Values Working Group (2023-2024)
-- Chair NCNR DEIA Committee (2022)
 - Member of APS Fellowship Committee (2021-2023)
 - Member of APS Committee on Informing the Public (2021-2023)
 - Steering Committee APS-IDEA Program (2020-2023)
-- Chair SNS-HFIR Beam time review committee single crystal instruments (2020-2023)
-- Chapter Leader DataKind DC (2018-2025)
 - Elected Chair APS Committee on Minorities in Physics (2017-2018)
+- Associate Editor of Science Advances (2019-present)
+- Secretary, Neutron Scattering Society of America (January 2023-present)
+- Chapter Leader DataKind DC (2018-2025)
+- NIST AI-COI Member at large representing NCNR (2022-present)
+- Chair NCNR DEIA Committee (2022)
+- Advisory board CREST Center for Research and Education in Quantum Leap Science and Technology at Norfolk State University (2021)
+- Chair SNS-HFIR Beam time review committee single crystal instruments (2020-2023)
 - Elected ACA Neutron Scattering Special Interest Group Chair (2015-2016)
-- Minority in Research Science Trailblazer award (24th annual BEYA STEM) (2010)
-- NRC Postdoctoral Fellowship (2003-2005)
-- **Member American Association for the Advancement of Science**
+
+### Memberships
+
 - Member American Physical Society
+- Member American Association for the Advancement of Science
 - Member Sigma Xi
 - Member Neutron Scattering Society of America
 
@@ -116,131 +125,133 @@ APS Innovation Fund Data Science Education Community of Practice $200,000 for tw
 
 1\. Multiferroics, William Ratcliff and Jeffrey W. Lynn, Chapter 5 in *Neutron Scattering - Magnetic and Quantum Phenomena*, Felix Fernandez-Alonso and David L. Price, editors (Academic Press, London, 2015).
 
-2\. Magnetic Neutron Diffraction: William Ratcliff, Benjamin Frandsen, Juan Rodriguez-Carvajal, Efrain Rodriguez, Clarina Dela Cruz, Chapter 4 in *Powder Diffraction: Theory and Practice 2nd Edition* (Royal Society of Chemistry, 2026)
+2\. Magnetic Neutron Diffraction: William Ratcliff, Benjamin Frandsen, Juan Rodriguez-Carvajal, Efrain Rodriguez, Clarina Dela Cruz, Chapter 4 in *Powder Diffraction: Theory and Practice 2nd Edition* (Royal Society of Chemistry, forthcoming)
 
 ### Publications
 
-104\. "Systematics of Neural Networks and Crystal Structure Classification" - Elizabeth Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - *Digital Discovery* (in-progress)
+103\. "Accelerating Quantum Materials Characterization: Hybrid Active Learning for Autonomous Spin Wave Spectroscopy" - William Ratcliff II - arXiv:2604.23821, DOI: 10.48550/arXiv.2604.23821 (2026)
 
-103\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - *ACS Nano* (submitted)
+102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2604.23811, DOI: 10.48550/arXiv.2604.23811 (2026) (under review at *PRX: Intelligence*)
 
-102\. "Autonomous data collection for the neutron spin echo response function" - Robert Huarcaya, Austin McDannald, William D. Ratcliff, David P. Hoogerheide - *APL Materials* (submitted)
+101\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - arXiv:2510.21511 - *ACS Nano* (submitted)
 
-101\. "Multiferroicity and phase diagram of ferro-rotational magnet RbFe(SO4)2" - Junjie Yang, Dimuthu Obeysekera, William D. Ratcliff, Lu Li, Sabine N. Neal, Janice L. Musfeldt, Shinichiro Yano - *Journal of Physics: Condensed Matter* **37** (17), 175701 (2025)
+100\. "Autonomous data collection for the neutron spin echo response function" - Robert Huarcaya, Austin McDannald, William Ratcliff, David P. Hoogerheide - *APL Machine Learning* **4** (2) (2026), DOI: 10.1063/5.0312231
 
-100\. "Local Inversion Symmetry Breaking and Thermodynamic Evidence for Ferrimagnetism in Fe3GaTe2" - Sang-Eon Lee, Yue Li, Yeonkyu Lee, W. Kice Brown, PeiYu Cai, Jinyoung Yun, Chanyoung Lee, Alex Moon, Lingrui Mei, Jaeyong Kim, Yan Xin, Julie A. Borchers, Thomas W. Heitmann, Matthias Frontzek, William D. Ratcliff, Gregory T. McCandless, Julia Y. Chan, Elton J. G. Santos, Jeehoon Kim, Charudatta M. Phatak, Vadym Kulichenko, Luis Balicas - *ACS Nano* **19** (31), 28702–28718 (2025)
+99\. "Multiferroicity and phase diagram of ferro-rotational magnet RbFe(SO4)2" - Junjie Yang, Dimuthu Obeysekera, William D. Ratcliff, Lu Li, Sabine N. Neal, Janice L. Musfeldt, Shinichiro Yano - *Journal of Physics: Condensed Matter* **37** (17), 175701 (2025)
 
-99\. "Topological Hall effect induced by chiral fluctuations in ErMn6Sn6" - Kyle Fruhling, Alenna Streeter, Sougata Mardanya, Xiaoping Wang, Priya Baral, Oksana Zaharko, Igor I. Mazin, Sugata Chowdhury, William D. Ratcliff, Fazel Tafti - *Physical Review Materials* **8** (9), 094411 (2024)
+98\. "Local Inversion Symmetry Breaking and Thermodynamic Evidence for Ferrimagnetism in Fe3GaTe2" - Sang-Eon Lee, Yue Li, Yeonkyu Lee, W. Kice Brown, PeiYu Cai, Jinyoung Yun, Chanyoung Lee, Alex Moon, Lingrui Mei, Jaeyong Kim, Yan Xin, Julie A. Borchers, Thomas W. Heitmann, Matthias Frontzek, William D. Ratcliff, Gregory T. McCandless, Julia Y. Chan, Elton J. G. Santos, Jeehoon Kim, Charudatta M. Phatak, Vadym Kulichenko, Luis Balicas - *ACS Nano* **19** (31), 28702–28718 (2025)
 
-98\. "Data science education in undergraduate physics: Lessons learned from a community of practice" - K. Shah, J. Butler, A.V. Knaub, A. Zenginoğlu, W. Ratcliff, M. Soltanieh-Ha - *American Journal of Physics* **92** (9), 655-662 (2024)
+97\. "Topological Hall effect induced by chiral fluctuations in ErMn6Sn6" - Kyle Fruhling, Alenna Streeter, Sougata Mardanya, Xiaoping Wang, Priya Baral, Oksana Zaharko, Igor I. Mazin, Sugata Chowdhury, William D. Ratcliff, Fazel Tafti - *Physical Review Materials* **8** (9), 094411 (2024)
 
-97\. "Electric-Field Manipulation of Magnetic Chirality in a Homo-Ferro-Rotational Helimagnet" - Junjie Yang, Masaaki Matsuda, Trevor Tyson, Joshua Young, William Ratcliff, Yunpeng Gao, Dimuthu Obeysekera, Xiaoyu Guo, Rachel Owen, Liuyan Zhao, Sang-wook Cheong - *Advanced Science* **11** (33), 2402048 (2024)
+96\. "Data science education in undergraduate physics: Lessons learned from a community of practice" - K. Shah, J. Butler, A.V. Knaub, A. Zenginoğlu, W. Ratcliff, M. Soltanieh-Ha - *American Journal of Physics* **92** (9), 655-662 (2024)
 
-96\. "Effects of dimensionality on the electronic structure of Ruddlesden-Popper chromates Srn+1CrnO3n+1" - Spencer Doyle, Lerato Takana, Margaret A. Anderson, Dan Ferenc Segedin, Hesham El-Sherif, Charles M. Brooks, Xiaoping Wang, Padraic Shafer, Alpha T. N'Diaye, Ismail El Baggari, William D. Ratcliff, Andrés Cano, Quintin N. Meier, Julia A. Mundy - *Physical Review Materials* **8** (7), L071602 (2024)
+95\. "Electric-Field Manipulation of Magnetic Chirality in a Homo-Ferro-Rotational Helimagnet" - Junjie Yang, Masaaki Matsuda, Trevor Tyson, Joshua Young, William Ratcliff, Yunpeng Gao, Dimuthu Obeysekera, Xiaoyu Guo, Rachel Owen, Liuyan Zhao, Sang-wook Cheong - *Advanced Science* **11** (33), 2402048 (2024)
 
-95\. "Observation of Deuterated Double-Perovskite Hydroxide CoSn(OH)6 Nanocubes" - Menuka Adhikari, Starfari T. McClain, Rekha George, Sivasankara Rao Ede, Hui Wu, William D. Ratcliff, Liurukara Sanjeewa, Cheng Li, Zhiping Luo - *Microscopy and Microanalysis* **29** (Supplement_1), 1354-1355 (2023)
+94\. "Effects of dimensionality on the electronic structure of Ruddlesden-Popper chromates Srn+1CrnO3n+1" - Spencer Doyle, Lerato Takana, Margaret A. Anderson, Dan Ferenc Segedin, Hesham El-Sherif, Charles M. Brooks, Xiaoping Wang, Padraic Shafer, Alpha T. N'Diaye, Ismail El Baggari, William D. Ratcliff, Andrés Cano, Quintin N. Meier, Julia A. Mundy - *Physical Review Materials* **8** (7), L071602 (2024)
 
-94\. "Antiferromagnetic metal phase in an electron-doped rare-earth nickelate" - Qi Song, Spencer Doyle, Grace A. Pan, Ismail El Baggari, Dan Ferenc Segedin, Denisse Córdova Carrizales, Johanna Nordlander, Christian Tzschaschel, James R. Ehrets, Zubia Hasan, Hesham El-Sherif, Jyoti Krishna, Chase Hanson, Harrison LaBollita, Aaron Bostwick, Chris Jozwiak, Eli Rotenberg, Su-Yang Xu, Alessandra Lanzara, Alpha T. N'Diaye, Colin A. Heikes, Yaohua Liu, Hanjong Paik, Charles M. Brooks, Betül Pamuk, John T. Heron, Padraic Shafer, William D. Ratcliff, Antia S. Botana, Luca Moreschini, Julia A. Mundy - *Nature Physics* **19**, 522 (2023)
+93\. "Observation of Deuterated Double-Perovskite Hydroxide CoSn(OH)6 Nanocubes" - Menuka Adhikari, Starfari T. McClain, Rekha George, Sivasankara Rao Ede, Hui Wu, William D. Ratcliff, Liurukara Sanjeewa, Cheng Li, Zhiping Luo - *Microscopy and Microanalysis* **29** (Supplement_1), 1354-1355 (2023)
 
-93\. "ANDiE the Autonomous Neutron Diffraction Explorer" - Austin McDannald, Matthias Frontzek, Andrei T. Savici, Mathieu Doucet, Efrain E. Rodriguez, Kate Meuse, Jessica Opsahl-Ong, Daniel Samarov, Ichiro Takeuchi, William Ratcliff, A. Gilad Kusne - *Neutron News* **34** (2), 6-7 (2023)
+92\. "Antiferromagnetic metal phase in an electron-doped rare-earth nickelate" - Qi Song, Spencer Doyle, Grace A. Pan, Ismail El Baggari, Dan Ferenc Segedin, Denisse Córdova Carrizales, Johanna Nordlander, Christian Tzschaschel, James R. Ehrets, Zubia Hasan, Hesham El-Sherif, Jyoti Krishna, Chase Hanson, Harrison LaBollita, Aaron Bostwick, Chris Jozwiak, Eli Rotenberg, Su-Yang Xu, Alessandra Lanzara, Alpha T. N'Diaye, Colin A. Heikes, Yaohua Liu, Hanjong Paik, Charles M. Brooks, Betül Pamuk, John T. Heron, Padraic Shafer, William D. Ratcliff, Antia S. Botana, Luca Moreschini, Julia A. Mundy - *Nature Physics* **19**, 522 (2023)
 
-92\. "Fast broadband cluster spin-glass dynamics in PbFe1/2Nb1/2O3" - C. Stock, B. Roessli, P. M. Gehring, J. A. Rodriguez-Rivera, N. Giles-Donovan, S. Cochran, G. Xu, P. Manuel, M. J. Gutmann, W. D. Ratcliff, T. Fennell, Y. Su, X. Li, and H. Luo - *Phys. Rev. B* **106**, 144207 (2022)
+91\. "ANDiE the Autonomous Neutron Diffraction Explorer" - Austin McDannald, Matthias Frontzek, Andrei T. Savici, Mathieu Doucet, Efrain E. Rodriguez, Kate Meuse, Jessica Opsahl-Ong, Daniel Samarov, Ichiro Takeuchi, William Ratcliff, A. Gilad Kusne - *Neutron News* **34** (2), 6-7 (2023)
 
-91\. "On-the-fly Autonomous Control of Neutron Diffraction via Physics-Informed Bayesian Active Learning" - Austin McDannald, Matthias Frontzek, Andrei Savici, Mathieu Doucet, Efrain Rodriguez, Kate Meuse, Jessica Opsahl-Ong, Daniel Samarov, Ichiro Takeuchi, William Ratcliff, Aaron G. Kusne - *Applied Physics Reviews* **9**, 021408 (2022)
+90\. "Fast broadband cluster spin-glass dynamics in PbFe1/2Nb1/2O3" - C. Stock, B. Roessli, P. M. Gehring, J. A. Rodriguez-Rivera, N. Giles-Donovan, S. Cochran, G. Xu, P. Manuel, M. J. Gutmann, W. D. Ratcliff, T. Fennell, Y. Su, X. Li, and H. Luo - *Phys. Rev. B* **106**, 144207 (2022)
 
-90\. "A Semi-supervised deep-learning based classification of neutron diffraction data into space groups" - Satvik Lolla, Haotong Ling, Ichiro Takeuchi, Aaron G. Kusne, William Ratcliff - *Journal of Applied Crystallography* **55** (2022)
+89\. "On-the-fly Autonomous Control of Neutron Diffraction via Physics-Informed Bayesian Active Learning" - Austin McDannald, Matthias Frontzek, Andrei Savici, Mathieu Doucet, Efrain Rodriguez, Kate Meuse, Jessica Opsahl-Ong, Daniel Samarov, Ichiro Takeuchi, William Ratcliff, Aaron G. Kusne - *Applied Physics Reviews* **9**, 021408 (2022)
 
-89\. "Revealing the Symmetry of Materials through Neutron Diffraction" - W. Ratcliff - *Symmetry* **14**, 1215 (2022)
+88\. "A Semi-supervised deep-learning based classification of neutron diffraction data into space groups" - Satvik Lolla, Haotong Ling, Ichiro Takeuchi, Aaron G. Kusne, William Ratcliff - *Journal of Applied Crystallography* **55** (2022)
 
-88\. "Liberating a hidden antiferroelectric phase with interfacial electrostatic engineering" - Julia A. Mundy, Colin A. Heikes, Bastien F. Grosso, Dan Ferenc Segedin, Zhe Wang, Yu-Tsen Shao, Cheng Dai, Berit H. Goodge, Quintin N. Meier, Christopher T. Nelson, Bhagwati Prasad, Fei Xue, Lena F. Kourkoutis, Long-Qing Chen, William D. Ratcliff, Nicola A. Spaldin, Ramamoorthy Ramesh, Darrell G. Schlom - *Science Advances* **8**, DOI: 10.1126/sciadv.abg5860 (2022)
+87\. "Revealing the Symmetry of Materials through Neutron Diffraction" - W. Ratcliff - *Symmetry* **14**, 1215 (2022)
 
-87\. "Informal Science Education and Career Advancement" - Michael Smith, Claudia Fracchiolla, Sean Fleming, Arturo Dominguez, Alexandra Lau, Shannon Greco, Don Lincoln, Eleni Katifori, William Ratcliff, Maria Longobardi, Maajida Murdock, Mustapha Ishak - arXiv:2112.10623 (2021)
+86\. "Liberating a hidden antiferroelectric phase with interfacial electrostatic engineering" - Julia A. Mundy, Colin A. Heikes, Bastien F. Grosso, Dan Ferenc Segedin, Zhe Wang, Yu-Tsen Shao, Cheng Dai, Berit H. Goodge, Quintin N. Meier, Christopher T. Nelson, Bhagwati Prasad, Fei Xue, Lena F. Kourkoutis, Long-Qing Chen, William D. Ratcliff, Nicola A. Spaldin, Ramamoorthy Ramesh, Darrell G. Schlom - *Science Advances* **8**, DOI: 10.1126/sciadv.abg5860 (2022)
 
-86\. "Magnetic field-induced non-trivial electronic topology in FeGeTe2" - Juan Macy, Danilo Ratkovski, Purnima P. Balakrishnan, Mara Strungaru, Yu-Che Chiu, Aikaterini Flessa, Alex Moon, Wenkai Zheng, Ashley Weiland, Gregory T. McCandless, Julia Y. Chan, Govind S. Kumar, Michael Shatruk, Alexander J. Grutter, Julie A. Borchers, William D. Ratcliff, Eun Sang Choi, Elton JG Santos, Luis Balicas - *Applied Physics Reviews* **8**, 041401 (2021)
+85\. "Informal Science Education and Career Advancement" - Michael Smith, Claudia Fracchiolla, Sean Fleming, Arturo Dominguez, Alexandra Lau, Shannon Greco, Don Lincoln, Eleni Katifori, William Ratcliff, Maria Longobardi, Maajida Murdock, Mustapha Ishak - arXiv:2112.10623 (2021)
 
-85\. "Synthesis and Characterization of Sr2Co2-xFexO5+d Perovskite Oxides" - Sivasankara Rao Ede, Carlos Poasada, Jessa Guffie, William Ratcliff, Hui Wu, Shubo Han, and Zhiping Luo - *Microsc. Microanal.* **27** (Suppl 1) (2021)
+84\. "Magnetic field-induced non-trivial electronic topology in FeGeTe2" - Juan Macy, Danilo Ratkovski, Purnima P. Balakrishnan, Mara Strungaru, Yu-Che Chiu, Aikaterini Flessa, Alex Moon, Wenkai Zheng, Ashley Weiland, Gregory T. McCandless, Julia Y. Chan, Govind S. Kumar, Michael Shatruk, Alexander J. Grutter, Julie A. Borchers, William D. Ratcliff, Eun Sang Choi, Elton JG Santos, Luis Balicas - *Applied Physics Reviews* **8**, 041401 (2021)
 
-84\. "Magnetic ordering and structural distortion in a PrFeAsO single crystal studied by neutron and x-ray scattering" - M.G. Kim, W. Ratcliff, D.M. Pajerowski, J-W. Kim, J-Q. Yan, J.W. Lynn, A.I. Goldman, A. Kreyssig - *Phys. Rev. B* **103**, 174405 (2021)
+83\. "Synthesis and Characterization of Sr2Co2-xFexO5+d Perovskite Oxides" - Sivasankara Rao Ede, Carlos Poasada, Jessa Guffie, William Ratcliff, Hui Wu, Shubo Han, and Zhiping Luo - *Microsc. Microanal.* **27** (Suppl 1) (2021)
 
-83\. "Intermediate Sr2Co1.5Fe0.5O6-delta Tetragonal Structure between Perovskite and Brownmillerite as a Model Catalyst with Layered Oxygen Deficiency for Enhanced Electrochemical Water Oxidation" - Sivasankara Rao Ede, Candyce Collins, Carlos Posada, Gibin George, Hui Wu, William D. Ratcliff, Yulin Lin, Jianguo Wen, Shubo Han, and Zhiping Luo - *ACS Catal.* **11**, 4327 (2021)
+82\. "Magnetic ordering and structural distortion in a PrFeAsO single crystal studied by neutron and x-ray scattering" - M.G. Kim, W. Ratcliff, D.M. Pajerowski, J-W. Kim, J-Q. Yan, J.W. Lynn, A.I. Goldman, A. Kreyssig - *Phys. Rev. B* **103**, 174405 (2021)
 
-82\. "Control of magnetoelectric coupling in the Co2Y-type hexaferrites" - Chang Bae Park, Kwang Woo Shin, Sae Hwan Chun, Jun Han Lee, Yoon Seok Oh, Steven M. Disseler, Colin A. Heikes, William D. Ratcliff, Woo-Suk Noh, Jae-Hoon Park, Kee Hoon Kim - *Phys. Rev. Materials* **5**, 034412 (2021)
+81\. "Intermediate Sr2Co1.5Fe0.5O6-delta Tetragonal Structure between Perovskite and Brownmillerite as a Model Catalyst with Layered Oxygen Deficiency for Enhanced Electrochemical Water Oxidation" - Sivasankara Rao Ede, Candyce Collins, Carlos Posada, Gibin George, Hui Wu, William D. Ratcliff, Yulin Lin, Jianguo Wen, Shubo Han, and Zhiping Luo - *ACS Catal.* **11**, 4327 (2021)
 
-81\. "Kitaev interactions in Co honeycomb antiferromagnets Na3Co2SbO6 and Na2Co2TeO6" - M. Songvilay, J. Robert, J. A. Rodriguez-Rivera, W. D. Ratcliff, F. Damay, V. Baledent, M. Jimenez-Ruiz, P. Lejay, E. Pachoud, A. Hadj-Azzem, V. Simonet, and C. Stock - *Phys. Rev. B* **102**, 224429 (2020)
+80\. "Control of magnetoelectric coupling in the Co2Y-type hexaferrites" - Chang Bae Park, Kwang Woo Shin, Sae Hwan Chun, Jun Han Lee, Yoon Seok Oh, Steven M. Disseler, Colin A. Heikes, William D. Ratcliff, Woo-Suk Noh, Jae-Hoon Park, Kee Hoon Kim - *Phys. Rev. Materials* **5**, 034412 (2021)
 
-80\. "Evolution of the magnetic properties in simultaneously Cd and Ir-doped Ce2RhIn8 antiferromagnet" - D. S. Christovam, G. S. Freitas, M. M. Piva, J. C. Souza, M. O. Malcolms, J. Leao, W. Ratcliff, J. W. Lynn, C. Adriano, P. G. Pagliuso - *Phys. Rev. B* **102**, 195137 (2020)
+79\. "Kitaev interactions in Co honeycomb antiferromagnets Na3Co2SbO6 and Na2Co2TeO6" - M. Songvilay, J. Robert, J. A. Rodriguez-Rivera, W. D. Ratcliff, F. Damay, V. Baledent, M. Jimenez-Ruiz, P. Lejay, E. Pachoud, A. Hadj-Azzem, V. Simonet, and C. Stock - *Phys. Rev. B* **102**, 224429 (2020)
 
-79\. "Large exchange splitting in monolayer graphene magnetized by an antiferromagnet" - Yingying Wu, Gen Yin, Lei Pan, Alexander J. Grutter, Quanjun Pan, Albert Lee, Eun Sang Choi, Mingliang Tian, Peng Deng, Qiming Shao, Shin-Hung Tsai, Qinglin He, Dustin A. Gilbert, Julie A. Borchers, William Ratcliff II, Ang Li, Xiao-dong Han, and Kang L. Wang - *Nature Electronics* (2020)
+78\. "Evolution of the magnetic properties in simultaneously Cd and Ir-doped Ce2RhIn8 antiferromagnet" - D. S. Christovam, G. S. Freitas, M. M. Piva, J. C. Souza, M. O. Malcolms, J. Leao, W. Ratcliff, J. W. Lynn, C. Adriano, P. G. Pagliuso - *Phys. Rev. B* **102**, 195137 (2020)
 
-78\. "Magnetic phase transitions and spin density distribution in the molecular multiferroic GaV4S8 system" - Rebecca L. Dally, William D. Ratcliff II, Lunyong Zhang, Heung-Sik Kim, Markus Bleul, J.W. Kim, Kristjan Haule, David Vanderbilt, Sang-Wook Cheong, and Jeffrey W. Lynn - *Phys. Rev. B* **102**, 014410 (2020)
+77\. "Large exchange splitting in monolayer graphene magnetized by an antiferromagnet" - Yingying Wu, Gen Yin, Lei Pan, Alexander J. Grutter, Quanjun Pan, Albert Lee, Eun Sang Choi, Mingliang Tian, Peng Deng, Qiming Shao, Shin-Hung Tsai, Qinglin He, Dustin A. Gilbert, Julie A. Borchers, William Ratcliff II, Ang Li, Xiao-dong Han, and Kang L. Wang - *Nature Electronics* (2020)
 
-77\. "Termination switching of antiferromagnetic proximity effect in topological insulator" - Chao-Yao Yang, Lei Pan, Alexander J. Grutter, Haiying Wang, Xiaoyu Che, Qing Lin, Yingying Wu, D. A. Gilbert, Padraic Shafer, Elke Arenholz, Hao Wu, Gen Yin, Peng Deng, J. A. Borchers, W. Ratcliff II, and Kang L. Wang - *Science Advances* **6**, eaaz8463 (2020)
+76\. "Magnetic phase transitions and spin density distribution in the molecular multiferroic GaV4S8 system" - Rebecca L. Dally, William D. Ratcliff II, Lunyong Zhang, Heung-Sik Kim, Markus Bleul, J.W. Kim, Kristjan Haule, David Vanderbilt, Sang-Wook Cheong, and Jeffrey W. Lynn - *Phys. Rev. B* **102**, 014410 (2020)
 
-76\. "Quantum oscillations from networked topological interfaces in a Weyl semimetal" - I-Lin Liu, Colin Heikes, Taner Yildirim, Chris Eckberg, Tristin Metz, ShengRan, William Ratcliff II, Johnpierre Paglione, and Nicholas P. Butch - *Nature Quantum Materials* **5**, Article 62 (2020)
+75\. "Termination switching of antiferromagnetic proximity effect in topological insulator" - Chao-Yao Yang, Lei Pan, Alexander J. Grutter, Haiying Wang, Xiaoyu Che, Qing Lin, Yingying Wu, D. A. Gilbert, Padraic Shafer, Elke Arenholz, Hao Wu, Gen Yin, Peng Deng, J. A. Borchers, W. Ratcliff II, and Kang L. Wang - *Science Advances* **6**, eaaz8463 (2020)
 
-75\. "Ferromagnetic van der Waals compound MnSb1.8Bi0.2Te4" - Yangyang Chen, Ya-Wen Chuang, Seng Huat Lee, Yanglin Zhu, Kevin Honz, Yingdong Guan, Yu Wang, Ke Wang, Zhiqiang Mao, Colin Heikes, P. Quarterman, Pawel Zajdel, Julie A. Borchers, William Ratcliff II, Jun Zhu - *Phys. Rev. Matt.* **4**, 064411 (2020)
+74\. "Quantum oscillations from networked topological interfaces in a Weyl semimetal" - I-Lin Liu, Colin Heikes, Taner Yildirim, Chris Eckberg, Tristin Metz, ShengRan, William Ratcliff II, Johnpierre Paglione, and Nicholas P. Butch - *Nature Quantum Materials* **5**, Article 62 (2020)
 
-74\. "Electronic and magnetic properties of stoichiometric CeAuBi2" - M. M. Piva, R. Tartaglia, G. S. Freitas, J. C. Souza, D. S. Christovam, S. M. Thomas, J. Leao, W. Ratcliff, J. W. Lynn, C. Lane, J.-X. Zhu, J. D. Thompson, P. F. S. Rosa, C. Adriano, E. Granado, and P. G. Pagliuso - *Phys. Rev. B* **101**, 214431 (2020)
+73\. "Ferromagnetic van der Waals compound MnSb1.8Bi0.2Te4" - Yangyang Chen, Ya-Wen Chuang, Seng Huat Lee, Yanglin Zhu, Kevin Honz, Yingdong Guan, Yu Wang, Ke Wang, Zhiqiang Mao, Colin Heikes, P. Quarterman, Pawel Zajdel, Julie A. Borchers, William Ratcliff II, Jun Zhu - *Phys. Rev. Matt.* **4**, 064411 (2020)
 
-73\. "Common acoustic phonon lifetimes in inorganic and hybrid lead halide perovskites" - M. Songvilay, N. Giles-Donovan, M. Bari, Z-G. Ye, J.L. Minns, M.A. Green, Guangyong Xu, P.M. Gehring, K. Schmalzl, W.D. Ratcliff, C.M. Brown, D. Chernyshov, W. van Beek, S. Cochran, C. Stock - *Physical Review Materials* **3**, 093602 (2019)
+72\. "Electronic and magnetic properties of stoichiometric CeAuBi2" - M. M. Piva, R. Tartaglia, G. S. Freitas, J. C. Souza, D. S. Christovam, S. M. Thomas, J. Leao, W. Ratcliff, J. W. Lynn, C. Lane, J.-X. Zhu, J. D. Thompson, P. F. S. Rosa, C. Adriano, E. Granado, and P. G. Pagliuso - *Phys. Rev. B* **101**, 214431 (2020)
 
-72\. "Exchange Bias in Bulk alpha-Fe / gamma-Fe70Mn30 Nanocomposites for Permanent Magnet Applications" - Ian J. McDonald, Michelle Jamer, Kathryn L. Krycka, Elaf Anber, Daniel Foley, Andrew Charles Lang, William Ratcliff, Don Heiman, Mitra L. Taheri, Julie A. Borchers, Laura H. Lewis - *ACS Appl. Nano Mater.* **2**, 1940 (2019)
+71\. "Common acoustic phonon lifetimes in inorganic and hybrid lead halide perovskites" - M. Songvilay, N. Giles-Donovan, M. Bari, Z-G. Ye, J.L. Minns, M.A. Green, Guangyong Xu, P.M. Gehring, K. Schmalzl, W.D. Ratcliff, C.M. Brown, D. Chernyshov, W. van Beek, S. Cochran, C. Stock - *Physical Review Materials* **3**, 093602 (2019)
 
-71\. "Spin Scattering and Noncollinear Spin Structure-Induced Intrinsic Anomalous Hall effect in Antiferromagnetic Topological Insulator MnBi2Te4" - Seng Huat Lee, Yanglin Zhu, Yu Wang, Leixin Miao, Hemian Yi, Timothy Pillsbury, Susan Kempinger, Jin Hu, Colin A. Heikes, Patrick A. Quarterman, William D. Ratcliff, Julie A. Borchers, H. Zhang, Xianglin Ke, David Graf, Nasim Alem, Cui-Zu Chang, Nitin Samarth, and Zhiqiang Mao - *Phys. Rev. Research* **1**, 012011(R) (2019)
+70\. "Exchange Bias in Bulk alpha-Fe / gamma-Fe70Mn30 Nanocomposites for Permanent Magnet Applications" - Ian J. McDonald, Michelle Jamer, Kathryn L. Krycka, Elaf Anber, Daniel Foley, Andrew Charles Lang, William Ratcliff, Don Heiman, Mitra L. Taheri, Julie A. Borchers, Laura H. Lewis - *ACS Appl. Nano Mater.* **2**, 1940 (2019)
 
-70\. "Probing Superexchange Interactions in Spin Ice Ho2Ti2O7 Thin Films" - Kevin Barry, Naween Anand, Biwen Zhang, Yan Xin, Arturas Vailionis, Colin Heikes, Haidong Zhou, Y. Qiu, William Ratcliff, Christianne Beekman - *Phys. Rev. Materials* **3**, 084412 (2019)
+69\. "Spin Scattering and Noncollinear Spin Structure-Induced Intrinsic Anomalous Hall effect in Antiferromagnetic Topological Insulator MnBi2Te4" - Seng Huat Lee, Yanglin Zhu, Yu Wang, Leixin Miao, Hemian Yi, Timothy Pillsbury, Susan Kempinger, Jin Hu, Colin A. Heikes, Patrick A. Quarterman, William D. Ratcliff, Julie A. Borchers, H. Zhang, Xianglin Ke, David Graf, Nasim Alem, Cui-Zu Chang, Nitin Samarth, and Zhiqiang Mao - *Phys. Rev. Research* **1**, 012011(R) (2019)
 
-69\. "Fe2MnGe: A Hexagonal Heusler Analogue" - S. Keshavarz, N. Naghibolashra, M.E. Jamer, K. Vinson, D. Mazumdar, C.L. Dennis, W. Ratcliff II, J.A. Borchers, A. Gupta, P. LeClair - *Journal of Alloys and Compounds* **771**, 793 (2019)
+68\. "Probing Superexchange Interactions in Spin Ice Ho2Ti2O7 Thin Films" - Kevin Barry, Naween Anand, Biwen Zhang, Yan Xin, Arturas Vailionis, Colin Heikes, Haidong Zhou, Y. Qiu, William Ratcliff, Christianne Beekman - *Phys. Rev. Materials* **3**, 084412 (2019)
 
-68\. "Spin Rotation induced by applied pressure in Cd-doped Ce2RhIn8 intermetallic compound" - D. S. Christovam, C. Giles, L. Mendonca-Ferreira, J. Leao, W. Ratcliff, J. W. Lynn, S. Ramos, E. N. Hering, H. Hidaka, E. Baggio-Saitovich, Z. Fisk, P. G. Pagliuso, C. Adriano - *Physical Review B* **100**, 165133 (2019)
+67\. "Fe2MnGe: A Hexagonal Heusler Analogue" - S. Keshavarz, N. Naghibolashra, M.E. Jamer, K. Vinson, D. Mazumdar, C.L. Dennis, W. Ratcliff II, J.A. Borchers, A. Gupta, P. LeClair - *Journal of Alloys and Compounds* **771**, 793 (2019)
 
-67\. "Mechanical control of crystal symmetry and superconductivity in Weyl semimetal MoTe2" - Colin Heikes, I-Lin Liu, Tristin Metz, Chris Eckberg, Paul Neves, Yan Wu, Linda Hung, Phil Piccoli, Huibo Cao, Juscelino Leao, Johnpierre Paglione, Taner Yildirim, Nicholas P. Butch, William Ratcliff II - *Phys. Rev. Materials* **2**, 074202 (2018)
+66\. "Spin Rotation induced by applied pressure in Cd-doped Ce2RhIn8 intermetallic compound" - D. S. Christovam, C. Giles, L. Mendonca-Ferreira, J. Leao, W. Ratcliff, J. W. Lynn, S. Ramos, E. N. Hering, H. Hidaka, E. Baggio-Saitovich, Z. Fisk, P. G. Pagliuso, C. Adriano - *Physical Review B* **100**, 165133 (2019)
 
-66\. "reductus: a stateless Python data-reduction service with a browser frontend" - Brian Maranville, William Ratcliff II, Paul Kienzle - *Journal of Applied Crystallography* **51**, 1500 (2018)
+65\. "Mechanical control of crystal symmetry and superconductivity in Weyl semimetal MoTe2" - Colin Heikes, I-Lin Liu, Tristin Metz, Chris Eckberg, Paul Neves, Yan Wu, Linda Hung, Phil Piccoli, Huibo Cao, Juscelino Leao, Johnpierre Paglione, Taner Yildirim, Nicholas P. Butch, William Ratcliff II - *Phys. Rev. Materials* **2**, 074202 (2018)
 
-65\. "Ordered Magnetism in the Decorated 3D Ising jeff = 1/2 alpha-CoV3O8" - P. M. Sarte, A. M. Arevalo-Lopez, M. Songvilay, D. Le, T. Guidi, V. Garcia-Sakai, S. Mukhopadhyay, S. C. Capelli, W. D. Ratcliff, K. H. Hong, G. M. McNally, E. Pachoud, J. P. Attfield, and C. Stock - *Phys. Rev. B* **98**, 224410 (2018)
+64\. "reductus: a stateless Python data-reduction service with a browser frontend" - Brian Maranville, William Ratcliff II, Paul Kienzle - *Journal of Applied Crystallography* **51**, 1500 (2018)
 
-64\. "Lifetime-shortened acoustic phonons and static order at the Brillouin zone boundary in the organic-inorganic perovskite CH3NH3PbCl3" - M. Songvilay, C. Stock, Z.-G. Ye, Guangyong Xu, P. M. Gehring, W. D. Ratcliff, K. Schmalzl, F. Bourdarot, and B. Roessli - *Phys. Rev. Materials* **2**, 123601 (2018)
+63\. "Ordered Magnetism in the Decorated 3D Ising jeff = 1/2 alpha-CoV3O8" - P. M. Sarte, A. M. Arevalo-Lopez, M. Songvilay, D. Le, T. Guidi, V. Garcia-Sakai, S. Mukhopadhyay, S. C. Capelli, W. D. Ratcliff, K. H. Hong, G. M. McNally, E. Pachoud, J. P. Attfield, and C. Stock - *Phys. Rev. B* **98**, 224410 (2018)
 
-62\. "Electric-field Induced Reversible Switching of the Magnetic Easy-axis in Co/BiFeO3 on SrTiO3" - Tieren Gao, Xiaohang Zhang, William Ratcliff, Shingo Maruyama, Makoto Murakami, Anbusathaiah Varatharajan, Zahra Yamani, Peijie Chen, Ke Wang, Huairuo Zhang, Robert D. Shull, Leonid A. Bendersky, John Unguris, Ramamoorthy Ramesh, Ichiro Takeuchi - *Nano Letters* **17**, 2825 (2017)
+62\. "Lifetime-shortened acoustic phonons and static order at the Brillouin zone boundary in the organic-inorganic perovskite CH3NH3PbCl3" - M. Songvilay, C. Stock, Z.-G. Ye, Guangyong Xu, P. M. Gehring, W. D. Ratcliff, K. Schmalzl, F. Bourdarot, and B. Roessli - *Phys. Rev. Materials* **2**, 123601 (2018)
 
-61\. "Successive field-induced transitions in BiFeO3 around room temperature" - Shiro Kawachi, Atsushi Miyake, Toshimitsu Ito, Sachith E. Dissanayake, Masaaki Matsuda, W. Ratcliff, Zhijun Xu, Yang Zhao, Shin Miyahara, Nobuo Furukawa, Masashi Tokunaga - *Phys. Rev. Materials* **1**, 024408 (2017)
+61\. "Electric-field Induced Reversible Switching of the Magnetic Easy-axis in Co/BiFeO3 on SrTiO3" - Tieren Gao, Xiaohang Zhang, William Ratcliff, Shingo Maruyama, Makoto Murakami, Anbusathaiah Varatharajan, Zahra Yamani, Peijie Chen, Ke Wang, Huairuo Zhang, Robert D. Shull, Leonid A. Bendersky, John Unguris, Ramamoorthy Ramesh, Ichiro Takeuchi - *Nano Letters* **17**, 2825 (2017)
 
-60\. "Structural and Magnetic Phase Transitions in Chromium Nitride Thin Films Grown by RF Nitrogen Plasma Molecular Beam Epitaxy" - Khan Alam, Steven M. Disseler, William D. Ratcliff, Julie A. Borchers, Rodrigo Ponce-Perez, Gregorio H. Cocoletzi, Noboru Takeuchi, Andrew Foley, Andrea Richard, David C. Ingram, Arthur R. Smith - *Phys. Rev. B* **96**, 104433 (2017)
+60\. "Successive field-induced transitions in BiFeO3 around room temperature" - Shiro Kawachi, Atsushi Miyake, Toshimitsu Ito, Sachith E. Dissanayake, Masaaki Matsuda, W. Ratcliff, Zhijun Xu, Yang Zhao, Shin Miyahara, Nobuo Furukawa, Masashi Tokunaga - *Phys. Rev. Materials* **1**, 024408 (2017)
 
-59\. "Pressure tuning of collapse of helimagnetic structure in Au2Mn" - I-Lin Liu, Maria J. Pascale, Juscelino B. Leao, Craig M. Brown, William D. Ratcliff, Qingzhen Huang, and Nicholas P. Butch - *Phys. Rev. B* **96**, 184429 (2017)
+59\. "Structural and Magnetic Phase Transitions in Chromium Nitride Thin Films Grown by RF Nitrogen Plasma Molecular Beam Epitaxy" - Khan Alam, Steven M. Disseler, William D. Ratcliff, Julie A. Borchers, Rodrigo Ponce-Perez, Gregorio H. Cocoletzi, Noboru Takeuchi, Andrew Foley, Andrea Richard, David C. Ingram, Arthur R. Smith - *Phys. Rev. B* **96**, 104433 (2017)
 
-58\. "Tailoring Exchange Couplings in Magnetic Topological Insulator/Antiferromagnet Heterostructures" - Qing Lin He, Xufeng Kou, Alexander J. Grutter, Gen Yin, Lei Pan, Xiaoyu Che, Yuxiang Liu, Tianxiao Nie, Bin Zhang, Steven M. Disseler, Brian J. Kirby, William Ratcliff II, Qiming Shao, Koichi Murata, Xiaodan Zhu, Guoqiang Yu, Yabin Fan, Mohammad Montazeri, Xiaodong Han, Julie A. Borchers, Kang L. Wang - *Nature Materials* **16**, 94 (2017)
+58\. "Pressure tuning of collapse of helimagnetic structure in Au2Mn" - I-Lin Liu, Maria J. Pascale, Juscelino B. Leao, Craig M. Brown, William D. Ratcliff, Qingzhen Huang, and Nicholas P. Butch - *Phys. Rev. B* **96**, 184429 (2017)
 
-57\. "Magnetic Structures and Dynamics of Multiferroic Systems Obtained with Neutron Scattering" - W. D. Ratcliff, II, Jeffrey W. Lynn, Valery Kiryukhin, Prashant Jain, and Michael R. Fitzsimmons - *Nature Partner Journals: Quantum Materials* **1**, 16003 (2016)
+57\. "Tailoring Exchange Couplings in Magnetic Topological Insulator/Antiferromagnet Heterostructures" - Qing Lin He, Xufeng Kou, Alexander J. Grutter, Gen Yin, Lei Pan, Xiaoyu Che, Yuxiang Liu, Tianxiao Nie, Bin Zhang, Steven M. Disseler, Brian J. Kirby, William Ratcliff II, Qiming Shao, Koichi Murata, Xiaodan Zhu, Guoqiang Yu, Yabin Fan, Mohammad Montazeri, Xiaodong Han, Julie A. Borchers, Kang L. Wang - *Nature Materials* **16**, 94 (2017)
 
-56\. "Atomically engineered ferroic layers yield a room temperature magnetoelectric multiferroic" - Julia A. Mundy, Charles M. Brooks, Megan E. Holtz, Jarrett A. Moyer, Hena Das, Alejandro F. Rbola, John T. Heron, James D. Clarkson, Steven M. Disseler, Zhiqi Liu, Alan Farhan, Rainer Held, Robert Hovden, Elliot Padgett, Qingyun Mao, Hanjong Paik, Rajiv Misra, Lena F. Kourkoutis, Elke Arenholz, Andreas Scholl, Julie A. Borchers, William D. Ratcliff, Ramamoorthy Ramesh, Craig J. Fennie, Peter Schiffer, David A. Muller, Darrell G. Schlom - *Nature* **537**, 523 (2016)
+56\. "Magnetic Structures and Dynamics of Multiferroic Systems Obtained with Neutron Scattering" - W. D. Ratcliff, II, Jeffrey W. Lynn, Valery Kiryukhin, Prashant Jain, and Michael R. Fitzsimmons - *Nature Partner Journals: Quantum Materials* **1**, 16003 (2016)
 
-55\. "Bayesian method for the analysis of diffraction patterns using BLAND" - J.E. Lesniewski, S.M. Disseler, D.J. Quintana, P.A. Kienzle, W.D. Ratcliff - *Journal of Applied Crystallography* **49**, 2201-2209 (2016)
+55\. "Atomically engineered ferroic layers yield a room temperature magnetoelectric multiferroic" - Julia A. Mundy, Charles M. Brooks, Megan E. Holtz, Jarrett A. Moyer, Hena Das, Alejandro F. Rbola, John T. Heron, James D. Clarkson, Steven M. Disseler, Zhiqi Liu, Alan Farhan, Rainer Held, Robert Hovden, Elliot Padgett, Qingyun Mao, Hanjong Paik, Rajiv Misra, Lena F. Kourkoutis, Elke Arenholz, Andreas Scholl, Julie A. Borchers, William D. Ratcliff, Ramamoorthy Ramesh, Craig J. Fennie, Peter Schiffer, David A. Muller, Darrell G. Schlom - *Nature* **537**, 523 (2016)
 
-54\. "Magnetic Structure and Ordering of Multiferroic Hexagonal LuFeO3" - Steven M. Disseler, Julie A. Borchers, Charles M. Brooks, Julia A. Mundy, Jarrett A. Moyer, Daniel A. Hillsberry, Eric L. Thies, Dmitri A. Tenne, John Heron, Megan E. Holtz, James D. Clarkson, Gregory M. Stiehl, Peter Schiffer, David A. Muller, Darrell G. Schlom, William D. Ratcliff - *Physical Review Letters* **114**, 217602 (2015)
+54\. "Bayesian method for the analysis of diffraction patterns using BLAND" - J.E. Lesniewski, S.M. Disseler, D.J. Quintana, P.A. Kienzle, W.D. Ratcliff - *Journal of Applied Crystallography* **49**, 2201-2209 (2016)
 
-53\. "Multiferroicity in doped hexagonal LuFeO3" - Steven M. Disseler, Xuan Luo, Bin Gao, Yoon Seok Oh, Rongwei Hu, Yazhong Wang, Dylan Quintana, Alexander Zhang, Qingzhen Huang, June Lau, Rick Paul, Jeffrey W. Lynn, Sang-Wook Cheong, and William Ratcliff, II - *Phys. Rev. B* **92**, 054435 (2015)
+53\. "Magnetic Structure and Ordering of Multiferroic Hexagonal LuFeO3" - Steven M. Disseler, Julie A. Borchers, Charles M. Brooks, Julia A. Mundy, Jarrett A. Moyer, Daniel A. Hillsberry, Eric L. Thies, Dmitri A. Tenne, John Heron, Megan E. Holtz, James D. Clarkson, Gregory M. Stiehl, Peter Schiffer, David A. Muller, Darrell G. Schlom, William D. Ratcliff - *Physical Review Letters* **114**, 217602 (2015)
 
-52\. "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4" - S. M. Disseler, Y. Chen, S. Yeo, G. Gasparovic, P. M. B. Piccoli, A. J. Schultz, Y. Qiu, Q. Huang, S-W. Cheong, and W. Ratcliff II - *Scientific Reports* **5**, 17771 (2015)
+52\. "Multiferroicity in doped hexagonal LuFeO3" - Steven M. Disseler, Xuan Luo, Bin Gao, Yoon Seok Oh, Rongwei Hu, Yazhong Wang, Dylan Quintana, Alexander Zhang, Qingzhen Huang, June Lau, Rick Paul, Jeffrey W. Lynn, Sang-Wook Cheong, and William Ratcliff, II - *Phys. Rev. B* **92**, 054435 (2015)
 
-51\. "Complex structures of different CaFe2As2 samples" - B. Saparov, C. Cantoni, M.H. Pan, T.C. Hogan, W. Ratcliff, S.D. Wilson, K. Fritsch, B.D. Gaulin, A.S. Sefat - *Scientific Reports*, 4120 (2014)
+51\. "One Dimensional(1D)-to-2D Crossover of Spin Correlations in the 3D Magnet ZnMn2O4" - S. M. Disseler, Y. Chen, S. Yeo, G. Gasparovic, P. M. B. Piccoli, A. J. Schultz, Y. Qiu, Q. Huang, S-W. Cheong, and W. Ratcliff II - *Scientific Reports* **5**, 17771 (2015)
 
-50\. "Reflections on the magnetic pair distribution function" - W. Ratcliff - *Acta Crystallographica A* **70**, 1 (2014)
+50\. "Complex structures of different CaFe2As2 samples" - B. Saparov, C. Cantoni, M.H. Pan, T.C. Hogan, W. Ratcliff, S.D. Wilson, K. Fritsch, B.D. Gaulin, A.S. Sefat - *Scientific Reports*, 4120 (2014)
 
-49\. "Change in the magnetic structure of (Bi,Sm)FeO3 thin films at the morphotropic phase boundary probed by neutron diffraction" - Shingo Maruyama, Varatharajan Anbusathaiah, Amy Fennell, Mechthild Enderle, Ichiro Takeuchi, William D. Ratcliff - *APL Materials* **2**, doi:10.1063/1.4901294 (2014)
+49\. "Reflections on the magnetic pair distribution function" - W. Ratcliff - *Acta Crystallographica A* **70**, 1 (2014)
 
-48\. "Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO3 thin films probed by neutron diffraction" - W. Ratcliff II, Zahra Yamani, V. Anbusathaiah, T.R. Gao, P.A. Kienzle, H. Cao, I. Takeuchi - *Phys. Rev. B* **87**, 140405 (2013)
+48\. "Change in the magnetic structure of (Bi,Sm)FeO3 thin films at the morphotropic phase boundary probed by neutron diffraction" - Shingo Maruyama, Varatharajan Anbusathaiah, Amy Fennell, Mechthild Enderle, Ichiro Takeuchi, William D. Ratcliff - *APL Materials* **2**, doi:10.1063/1.4901294 (2014)
 
-47\. "Double Focusing Thermal Triple-Axis Spectrometer at the NCNR" - Lynn, J.W., Chen, Y., Chang, S., Zhao, Y., Chi, S., W. Ratcliff, II, Ueland, B.G., Erwin, R.W. - *Journal of Research of the National Institute of Standards and Technology* **117**, 61 (2012)
+47\. "Electric-field-controlled antiferromagnetic domains in epitaxial BiFeO3 thin films probed by neutron diffraction" - W. Ratcliff II, Zahra Yamani, V. Anbusathaiah, T.R. Gao, P.A. Kienzle, H. Cao, I. Takeuchi - *Phys. Rev. B* **87**, 140405 (2013)
 
-46\. "Local Weak ferromagnetism in single-crystalline ferroelectric BiFeO3" - M. Ramazanoglu, M. Laver, W. Ratcliff II, S.M. Watson, W.C. Chen, A. Jackson, K. Kothapalli, Seongsu Lee, S.-W. Cheong, V. Kiryukhin - *Phys. Rev. Lett.* **107**, 207206 (2011)
+46\. "Double Focusing Thermal Triple-Axis Spectrometer at the NCNR" - Lynn, J.W., Chen, Y., Chang, S., Zhao, Y., Chi, S., W. Ratcliff, II, Ueland, B.G., Erwin, R.W. - *Journal of Research of the National Institute of Standards and Technology* **117**, 61 (2012)
 
-45\. "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb(y)Fe(1.6+x)Se2" - *Phys. Rev. B* **84**, 094504 (2011)
+45\. "Local Weak ferromagnetism in single-crystalline ferroelectric BiFeO3" - M. Ramazanoglu, M. Laver, W. Ratcliff II, S.M. Watson, W.C. Chen, A. Jackson, K. Kothapalli, Seongsu Lee, S.-W. Cheong, V. Kiryukhin - *Phys. Rev. Lett.* **107**, 207206 (2011)
 
-44\. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite" - M. Ramazanoglu, W. Ratcliff, H.T. Yi, A.A. Sirenko, S.W. Cheong, V. Kiryukhin - *Phys. Rev. Lett.* **107**, 067203 (2011)
+44\. "Antiferromagnetic order and superlattice structure in nonsuperconducting and superconducting Rb(y)Fe(1.6+x)Se2" - *Phys. Rev. B* **84**, 094504 (2011)
 
-43\. "Temperature-dependent properties of the magnetic order in single-crystal BiFeO3" - M. Ramazanoglu, W. Ratcliff II, Y.J. Choi, Seongsu Lee, S-W. Cheong, V. Kiryukhin - *Phys. Rev. B* **83**, 174434 (2011)
+43\. "Giant Effect of Uniaxial Pressure on Magnetic Domain Populations in Multiferroic Bismuth Ferrite" - M. Ramazanoglu, W. Ratcliff, H.T. Yi, A.A. Sirenko, S.W. Cheong, V. Kiryukhin - *Phys. Rev. Lett.* **107**, 067203 (2011)
+
+42\. "Temperature-dependent properties of the magnetic order in single-crystal BiFeO3" - M. Ramazanoglu, W. Ratcliff II, Y.J. Choi, Seongsu Lee, S-W. Cheong, V. Kiryukhin - *Phys. Rev. B* **83**, 174434 (2011)
 
 41\. "Mechanism of exchange-striction of ferroelectricity in multiferroic orthorhombic HoMnO3 single crystals" - N. Lee, Y.J. Choi, M. Ramazanoglu, W. Ratcliff II, V. Kiryukhin, and S-W. Cheong - *Phys. Rev. B* **84**, 020101 (2011)
 
@@ -330,6 +341,7 @@ APS Innovation Fund Data Science Education Community of Practice $200,000 for tw
 
 ### 2026
 
+- "Attention is Not All You Need: For Diffraction", Frontiers of AI-Realized Metastable Materials Workshop, National Academies of Sciences, Engineering, and Medicine (Condensed Matter and Materials Research Committee), Keck Center, Washington, DC (invited)
 - "AI and Neutron Scattering", Gordon Research Conference on Multifunctional Materials and Structures: Enabling Multifunctionality through AI Informed Material Discovery and System Design, Ventura, CA (invited)
 - "Introduction to Neural Networks", Short Course: Data Science for Physicists I, APS Global Physics Summit, Denver, CO (invited)
 - "AI and Neutron Scattering", Department of Physics, George Mason University (April 2026) (invited)
