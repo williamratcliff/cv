@@ -129,11 +129,19 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### Publications
 
-103\. "Accelerating Quantum Materials Characterization: Hybrid Active Learning for Autonomous Spin Wave Spectroscopy" - William Ratcliff II - arXiv:2604.23821, DOI: 10.48550/arXiv.2604.23821 (2026)
+<!-- IN PREPARATION (uncomment and renumber when it lands on arXiv or in a journal):
+1XX\. "RealXRD: Benchmarks and Topological Evaluation Metrics for Symmetry Classification from Powder Diffraction Data" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - (in preparation, 2026)
+-->
+
+105\. "A high-entropy form of RMn6Sn6 with distinct magnetotransport regimes correlated to different magnetic structures" - Kyle Fruhling, Jonathan Gaudet, William Ratcliff, Jonathan S. White, Siddharth Nandanwar, Noah J. Fau, Gregory T. McCandless, Enrique O. González Delgado, et al. - arXiv:2608.21633, DOI: 10.48550/arXiv.2608.21633 (2026)
+
+104\. "Computed materials proposals depart from the structural memory of experimental discovery" - Dan Nguyen, Karen Cao, Brian Chu, Nick Lemoff, Paul Kienzle, William Ratcliff - arXiv:2606.30967, DOI: 10.48550/arXiv.2606.30967 (2026)
+
+103\. "Accelerating quantum materials characterization: hybrid active learning for autonomous spin wave spectroscopy" - William Ratcliff II - *Digital Discovery* **5** (8), 3256-3274 (2026), DOI: 10.1039/d6dd00232c
 
 102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2604.23811, DOI: 10.48550/arXiv.2604.23811 (2026) (under review at *PRX: Intelligence*)
 
-101\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - arXiv:2510.21511 - *ACS Nano* (submitted)
+101\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - *ACS Nano* **20** (31), 21625-21635 (2026), DOI: 10.1021/acsnano.6c01072
 
 100\. "Autonomous data collection for the neutron spin echo response function" - Robert Huarcaya, Austin McDannald, William Ratcliff, David P. Hoogerheide - *APL Machine Learning* **4** (2) (2026), DOI: 10.1063/5.0312231
 
@@ -341,6 +349,11 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### 2026
 
+- "Crystal Communities", Enhanced Functionalities in 4 and 5d Containing Materials from Large Spin-Orbit Coupling Workshop, Telluride Science Research Center, Telluride, CO (invited)
+- "Experimental Aspects of Neutron Diffraction", Magnetic Structure Determination from Neutron Diffraction Data (MagStr 2026), Duke University, Durham, NC (invited)
+- "Attention Is Not All You Need for Diffraction", 13th American Conference on Neutron Scattering (ACNS 2026), Detroit Marriott at the Renaissance Center, Detroit, MI (invited)
+- "Attention Is Not All You Need for Diffraction", Machine Learning for X-ray and Neutron Science (MLXN) 2026, AGU Conference Center, Washington, DC (invited)
+- "Attention Is Not All You Need for Diffraction", Artificial Intelligence for Materials Science (AIMS) 2026, NIST, Gaithersburg, MD (invited)
 - "Attention is Not All You Need: For Diffraction", Frontiers of AI-Realized Metastable Materials Workshop, National Academies of Sciences, Engineering, and Medicine (Condensed Matter and Materials Research Committee), Keck Center, Washington, DC (invited)
 - "AI and Neutron Scattering", Gordon Research Conference on Multifunctional Materials and Structures: Enabling Multifunctionality through AI Informed Material Discovery and System Design, Ventura, CA (invited)
 - "Introduction to Neural Networks", Short Course: Data Science for Physicists I, APS Global Physics Summit, Denver, CO (invited)

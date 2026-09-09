@@ -10,23 +10,25 @@ I have had the privilege of mentoring many talented students and postdocs over t
 
 ## Postdocs
 
+- **Zachary Messegee** (NRC Postdoc, 2026-present)
 - **Colin Heikes** (now Northrop-Grumman)
 
 ## Graduate & Undergraduate Students
 
-### Current / Recent (2024-2025)
+### Current / Recent (2024-2026)
 
-- **Abhishek Shetty** (Berkeley) 2025
+- **Carina Jacobson** (Purdue) 2026
+- **Abhishek Shetty** (Berkeley) 2025, 2026
 - **Jasmol Singh Dhesi** (Berkeley) 2025
-- **Vanessa Acha** (Berkeley) 2025
-- **Harshita Dwarcherla** (Berkeley) 2025
-- **Derrick Chan-Sew** (Berkeley) 2025
+- **Vanessa Acha** (Berkeley) 2025, 2026
+- **Harshita Dwarcherla** (Berkeley) 2025, 2026
+- **Derrick Chan-Sew** (Berkeley) 2025, 2026
 - **Dan Luu Nguyen** (Berkeley) 2024, 2025
 - **Nick Lemoff** (Berkeley) 2024
 - **Will Kuan Coomans** (Berkeley) 2024
 - **Brian Chu** (Berkeley) 2024
 - **Texas Doehring** (Mount Union College) 2025
-- **Elizabeth Baggett** (Boston College) 2024, 2025
+- **Elizabeth Baggett** (Boston College) 2024, 2025, 2026
 - **Jack Carpenter** (University of Maryland) 2024
 - **Robert Huarcaya** (U. Maryland) 2023
 - **Justin Wang** (Johns Hopkins) 2023
@@ -52,8 +54,9 @@ I have had the privilege of mentoring many talented students and postdocs over t
 
 ## High School Students (SHIP Program)
 
-- **Edward Friedman** (Wheaton High School, Carnegie Mellon University) 2024, 2025
-- **Aditya Purohit** (Richard Montgomery High School) 2024
+- **Srikar Kovvali** (Westfield High School) 2026
+- **Edward Friedman** (Carnegie Mellon University) 2024, 2025, 2026
+- **Aditya Purohit** (Duke University) 2024, 2026
 - **Karen Cao** (Montgomery Blair High School) 2023
 - **Dylan Zhang** (Thomas Wootton High School) 2022, 2023
 - **Satvik Lolla** (Poolesville High School) 2020, 2021
