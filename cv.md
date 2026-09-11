@@ -88,6 +88,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 - **APS Committee on Council Committees (January 2026-present)**
 - **Editorial Board, PRX: Intelligence (2026-present)**
+- International Advisory Committee, International Conference on Magnetism (ICM) (2026-present)
 - **Past Chair APS Topical Group on Magnetism (March 2026 - March 2027)**
 - **Chair APS Topical Group on Magnetism (March 2025 - March 2026)**
 - **Past Chair APS Topical Group on Data Science (March 2024 - March 2025)**
@@ -129,9 +130,14 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### Publications
 
-<!-- IN PREPARATION (uncomment and renumber when it lands on arXiv or in a journal):
+<!-- IN PREPARATION (uncomment and renumber when they land on arXiv or in a journal):
 1XX\. "RealXRD: Benchmarks and Topological Evaluation Metrics for Symmetry Classification from Powder Diffraction Data" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - (in preparation, 2026)
+1XX\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - (in preparation, 2026)
 -->
+
+107\. "Physics-Grounded Knowledge Base Construction for Altermagnets with Structure-Aware Document Reading and LLM Extraction: Altermagnet Talking Database" - Susy Exists, Sougata Mardanya, Vineet Kumar Sharma, Matthew Matzelle, Arun Bansil, William Ratcliff, Sugata Chowdhury - *Nature Machine Intelligence* (submitted, 2026)
+
+106\. "The National Science Data Fabric as a Digital Backbone for AI-Guided Neutron Experiments" - Jack Marquez, Kin Hong Ng, Lance Drane, Gregory R. Watson, Kaz Gofron, Bogdan Vacaliuc, Zach Thurman, Gregory Cage, Gavin Wiggins, Cody Stiner, Jesse McGaha, Andrew Ayres, Robert Smith, Greg Watson, Addi Malviya Thakur, Yuanpeng Zhang, Jue Liu, Stephen DeWitt, Ankit Shrivastava, Paul Laiu, Craig Bridges, Mathieu Doucet, Matt Tucker, Emily R. Van Auken, Luke Daemen, Marie Backman, Darsh Dinger, Melanie Kirkham, Thomas Proffen, Austin McDannald, Gilad Kusne, William Ratcliff, Amy Gooch, Giorgio Scorzelli, Valerio Pascucci, Marshall McDonnell, Ben Mintz, Rob Moore, Michela Taufer - *Computing in Science & Engineering* (accepted, 2026), DOI: 10.1109/MCSE.2026.3733031
 
 105\. "A high-entropy form of RMn6Sn6 with distinct magnetotransport regimes correlated to different magnetic structures" - Kyle Fruhling, Jonathan Gaudet, William Ratcliff, Jonathan S. White, Siddharth Nandanwar, Noah J. Fau, Gregory T. McCandless, Enrique O. González Delgado, et al. - arXiv:2608.21633, DOI: 10.48550/arXiv.2608.21633 (2026)
 
@@ -139,7 +145,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 103\. "Accelerating quantum materials characterization: hybrid active learning for autonomous spin wave spectroscopy" - William Ratcliff II - *Digital Discovery* **5** (8), 3256-3274 (2026), DOI: 10.1039/d6dd00232c
 
-102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2604.23811, DOI: 10.48550/arXiv.2604.23811 (2026) (under review at *PRX: Intelligence*)
+102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2604.23811, DOI: 10.48550/arXiv.2604.23811 (accepted, *PRX: Intelligence*, 2026)
 
 101\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - *ACS Nano* **20** (31), 21625-21635 (2026), DOI: 10.1021/acsnano.6c01072
 

@@ -17,6 +17,11 @@ I have had the privilege of mentoring many talented students and postdocs over t
 
 ### Current / Recent (2024-2026)
 
+- **Matthew Long** (Georgetown University) 2026 — CORE student, agentic AI for magnetic structure determination
+- **Hannah Chin** (Berkeley) 2026
+- **Janelle Sampson** (Berkeley) 2026
+- **Aryan Jain** (Berkeley) 2026
+- **Ayush Guha** (Berkeley) 2026
 - **Carina Jacobson** (Purdue) 2026
 - **Abhishek Shetty** (Berkeley) 2025, 2026
 - **Jasmol Singh Dhesi** (Berkeley) 2025
@@ -28,7 +33,7 @@ I have had the privilege of mentoring many talented students and postdocs over t
 - **Will Kuan Coomans** (Berkeley) 2024
 - **Brian Chu** (Berkeley) 2024
 - **Texas Doehring** (Mount Union College) 2025
-- **Elizabeth Baggett** (Boston College) 2024, 2025, 2026
+- **Elizabeth Baggett** (Johns Hopkins University) 2024, 2025, 2026
 - **Jack Carpenter** (University of Maryland) 2024
 - **Robert Huarcaya** (U. Maryland) 2023
 - **Justin Wang** (Johns Hopkins) 2023
