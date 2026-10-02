@@ -130,10 +130,11 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### Publications
 
-<!-- IN PREPARATION (uncomment and renumber when they land on arXiv or in a journal):
-1XX\. "RealXRD: Benchmarks and Topological Evaluation Metrics for Symmetry Classification from Powder Diffraction Data" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - (in preparation, 2026)
+<!-- IN PREPARATION (uncomment and renumber when it lands on arXiv or in a journal):
 1XX\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - (in preparation, 2026)
 -->
+
+108\. "InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - accepted, AI for Science Workshop (NeurIPS 2026 satellite)
 
 107\. "Physics-Grounded Knowledge Base Construction for Altermagnets with Structure-Aware Document Reading and LLM Extraction: Altermagnet Talking Database" - Susy Exists, Sougata Mardanya, Vineet Kumar Sharma, Matthew Matzelle, Arun Bansil, William Ratcliff, Sugata Chowdhury - *Nature Machine Intelligence* (submitted, 2026)
 
