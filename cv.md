@@ -89,6 +89,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 - **APS Committee on Council Committees (January 2026-present)**
 - **Editorial Board, PRX: Intelligence (2026-present)**
 - International Advisory Committee, International Conference on Magnetism (ICM) (2026-present)
+- Member, International Triple-Axis Working Group; Lead, Machine Learning / Data Subgroup (2026-present)
 - **Past Chair APS Topical Group on Magnetism (March 2026 - March 2027)**
 - **Chair APS Topical Group on Magnetism (March 2025 - March 2026)**
 - **Past Chair APS Topical Group on Data Science (March 2024 - March 2025)**
