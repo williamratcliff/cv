@@ -135,7 +135,9 @@ Currently, I am working on topological materials. Of particular interest is the 
 1XX\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - (in preparation, 2026)
 -->
 
-108\. "InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - accepted, AI for Science Workshop (NeurIPS 2026 satellite)
+109\. "TASCopilot: A provenance-preserving assistant for triple-axis neutron scattering" - Carina Jacobson, Aditya Purohit, Srikar Kovvali, Lekhnath Poudel, Jeffrey W. Lynn, William D. Ratcliff - arXiv:2611.13374, DOI: 10.48550/arXiv.2611.13374 (2026)
+
+108\. "InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2611.01525, DOI: 10.48550/arXiv.2611.01525 (2026); accepted, AI for Science Workshop (NeurIPS 2026 satellite)
 
 107\. "Physics-Grounded Knowledge Base Construction for Altermagnets with Structure-Aware Document Reading and LLM Extraction: Altermagnet Talking Database" - Susy Exists, Sougata Mardanya, Vineet Kumar Sharma, Matthew Matzelle, Arun Bansil, William Ratcliff, Sugata Chowdhury - *Nature Machine Intelligence* (submitted, 2026)
 
@@ -357,6 +359,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### 2026
 
+- "AI Readiness and the User Facilities: Autonomy, Metadata, and Agentic AI at the NCNR User Facility", NSDF Summit on Federated Autonomous Science, Discovery Partners Institute, Chicago, IL (October 2026) (invited)
 - "Crystal Communities", Enhanced Functionalities in 4 and 5d Containing Materials from Large Spin-Orbit Coupling Workshop, Telluride Science Research Center, Telluride, CO (invited)
 - "Experimental Aspects of Neutron Diffraction", Magnetic Structure Determination from Neutron Diffraction Data (MagStr 2026), Duke University, Durham, NC (invited)
 - "Attention Is Not All You Need for Diffraction", 13th American Conference on Neutron Scattering (ACNS 2026), Detroit Marriott at the Renaissance Center, Detroit, MI (invited)
