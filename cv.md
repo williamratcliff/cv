@@ -135,7 +135,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 1XX\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - (in preparation, 2026)
 -->
 
-110\. "Developing a Super Intelligence (SI) agent system for NCNR tools and data" - Arin Joshi, Minjae Youn, Brian B. Maranville, William D. Ratcliff, Alan Munter - *Journal of Applied Crystallography* (submitted, 2026)
+110\. "Developing a Super Intelligence (SI) agent system for NCNR tools and data" - Arin Joshi, Minjae Youn, Brian B. Maranville, William D. Ratcliff, Alan Munter (submitted, 2026)
 
 109\. "TASCopilot: A provenance-preserving assistant for triple-axis neutron scattering" - Carina Jacobson, Aditya Purohit, Srikar Kovvali, Lekhnath Poudel, Jeffrey W. Lynn, William D. Ratcliff - arXiv:2611.13374, DOI: 10.48550/arXiv.2611.13374 (2026)
 
