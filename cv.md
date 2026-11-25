@@ -131,9 +131,7 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 ### Publications
 
-<!-- IN PREPARATION (uncomment and renumber when it lands on arXiv or in a journal):
-1XX\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - (in preparation, 2026)
--->
+111\. "ERAF4XRD: A multimodal agentic framework for building machine-readable experimental databases from published X-ray diffraction information" - Afnan Mostafa, William Ratcliff, Simon J. L. Billinge, Niaz Abdolrahim - arXiv:2609.18583, DOI: 10.48550/arXiv.2609.18583 (submitted to *Digital Discovery*, 2026)
 
 110\. "Developing a Super Intelligence (SI) agent system for NCNR tools and data" - Arin Joshi, Minjae Youn, Brian B. Maranville, William D. Ratcliff, Alan Munter (submitted, 2026)
 
