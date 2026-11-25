@@ -141,13 +141,13 @@ Currently, I am working on topological materials. Of particular interest is the 
 
 106\. "The National Science Data Fabric as a Digital Backbone for AI-Guided Neutron Experiments" - Jack Marquez, Kin Hong Ng, Lance Drane, Gregory R. Watson, Kaz Gofron, Bogdan Vacaliuc, Zach Thurman, Gregory Cage, Gavin Wiggins, Cody Stiner, Jesse McGaha, Andrew Ayres, Robert Smith, Greg Watson, Addi Malviya Thakur, Yuanpeng Zhang, Jue Liu, Stephen DeWitt, Ankit Shrivastava, Paul Laiu, Craig Bridges, Mathieu Doucet, Matt Tucker, Emily R. Van Auken, Luke Daemen, Marie Backman, Darsh Dinger, Melanie Kirkham, Thomas Proffen, Austin McDannald, Gilad Kusne, William Ratcliff, Amy Gooch, Giorgio Scorzelli, Valerio Pascucci, Marshall McDonnell, Ben Mintz, Rob Moore, Michela Taufer - *Computing in Science & Engineering* (accepted, 2026), DOI: 10.1109/MCSE.2026.3733031
 
-105\. "A high-entropy form of RMn6Sn6 with distinct magnetotransport regimes correlated to different magnetic structures" - Kyle Fruhling, Jonathan Gaudet, William Ratcliff, Jonathan S. White, Siddharth Nandanwar, Noah J. Fau, Gregory T. McCandless, Enrique O. González Delgado, et al. - arXiv:2608.21633, DOI: 10.48550/arXiv.2608.21633 (under review, *Physical Review Materials*, 2026)
+105\. "High-entropy form of RMn6Sn6 with distinct magnetotransport regimes correlated to different magnetic structures" - Kyle W. Fruhling, Jonathan Gaudet, William D. Ratcliff, Jonathan S. White, Siddharth Nandanwar, Noah J. Fau, Gregory T. McCandless, Enrique O. González-Delgado, Julia Y. Chan, Oksana Zaharko, Michael A. Susner, Michael J. Newburger, Fazel Tafti - *Physical Review Materials* **10** (11), 114412 (2026), DOI: 10.1103/wftw-8nz7
 
-104\. "Computed materials proposals depart from the structural memory of experimental discovery" - Dan Nguyen, Karen Cao, Brian Chu, Nick Lemoff, Paul Kienzle, William Ratcliff - arXiv:2606.30967, DOI: 10.48550/arXiv.2606.30967 (2026)
+104\. "Structural memory links experimental discovery and computational novelty" - Dan Nguyen, Karen Cao, Brian Chu, Nick Lemoff, Paul Kienzle, William Ratcliff - *npj Computational Materials* (2026), DOI: 10.1038/s41524-026-02398-y
 
 103\. "Accelerating quantum materials characterization: hybrid active learning for autonomous spin wave spectroscopy" - William Ratcliff II - *Digital Discovery* **5** (8), 3256-3274 (2026), DOI: 10.1039/d6dd00232c
 
-102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - arXiv:2604.23811, DOI: 10.48550/arXiv.2604.23811 (accepted, *PRX: Intelligence*, 2026)
+102\. "Attention Is Not All You Need for Diffraction" - Elizabeth J. Baggett, Edward G. Friedman, Abhishek Shetty, Derrick Chan-Sew, Vanellsa Acha, Harshita Dwarcherla, Paul Kienzle, William Ratcliff - *PRX Intelligence* **1** (2), 023015 (2026), DOI: 10.1103/88gm-4gjx
 
 101\. "Examining the Spin Structure of Altermagnetic Candidate MnTe Grown with Near Ideal Stoichiometry" - Qihua Zhang, Christopher Jensen, Alexander Grutter, Sandra Santhosh, William Ratcliff, Julie Borchers, Thomas Heitmann, Narendirakumar Narayanan, Timothy Charlton, Mingyu Yu, Ke Wang, Wesley Auker, Nitin Samarth, Stephanie Law - *ACS Nano* **20** (31), 21625-21635 (2026), DOI: 10.1021/acsnano.6c01072
 
